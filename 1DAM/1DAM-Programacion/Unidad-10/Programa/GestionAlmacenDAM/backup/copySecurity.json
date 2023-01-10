@@ -1,0 +1,403 @@
+{
+  "productos": [
+    {
+      "pic": "a15fc365-e5a3-4856-b472-f318c6b5c1b6",
+      "article": "Silla Jardin",
+      "description": "Silla de exterior para jardín o terraza modelo Costa Rica fabricados en aluminio y ratán sintético trenzado de color marrón chocolate. Incorpora apoya brazos para favorecer la comodidad en las largas jornadas al exterior y un respaldo especialmente alargado. Su estructura interior está formada por ligeros y resistentes tubos de aluminio recubiertos por una pintura protectora específica para soportar agentes externos como la humedad. Incorpora cojín desenfundable de poliéster de color beige para mayor comodidad y descanso.",
+      "location": "sala a",
+      "price": 159.0,
+      "stock": 37,
+      "isActive": true,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "bb2e0e63-f416-48bf-b9bd-41c52236c245",
+      "article": "Sofa En L",
+      "description": "Sofá Valentín chaise longue con una linea atemporal y sentada muy confortable. La tela es AquaClean, de fácil limpieza simplemente con agua por lo que no es necesario desenfundar la pieza para limpiarlo.",
+      "location": "sala a",
+      "price": 250.0,
+      "stock": 10,
+      "isActive": true,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "e927de13-3771-4f33-bc79-f565947c93a5",
+      "article": "Mesa Comedor",
+      "description": "Estamos muy orgullosos de nuestra serie LISABO, que ha ganado el prestigioso premio internacional Red Dot Award por su diseño. Los productos que incluye son resistentes, duraderos y fáciles de montar, y ofrecen un aspecto ligero y artesanal.",
+      "location": "sala c",
+      "price": 235.0,
+      "stock": 0,
+      "isActive": false,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "f0da01b2-e693-4926-9b0a-7e7fb8a3bc51",
+      "article": "Silla Moderna",
+      "description": "La silla cuenta con una base de madera y un asiento de poliéster, esta silla da un toque de exclusividad al ambiente y su estilo clásico puede combinar con diversos estilos decorativos. ",
+      "location": "sala b",
+      "price": 50.0,
+      "stock": 0,
+      "isActive": false,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "9c9ec524-d061-405b-94a8-73d53421ab41",
+      "article": "Lámpara Vintage",
+      "description": "Sobremesa de estilo vintage modelo Nico. Su cuerpo es de metal en tono bronce mate. Su tulipa es de cristal ahumado efecto espejo. Nico es compatible con bombillas led (no incluida). Aunque es de estilo vintage Nico se puede utilizar en ambientes de estilo moderno. Ideal para utilizar como lámpara de sobremesa en un dormitorio.",
+      "location": "sala d",
+      "price": 28.5,
+      "stock": 5,
+      "isActive": true,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "eeb6817e-9c80-4bbb-b793-5643ab14459a",
+      "article": "Armario Rustico",
+      "description": "Además de su gran capacidad de hueco con barra para colgar ropa, este armario dispone de cajones donde podrás guardar gran cantidad de ropa, mantas, sabanas, etc.",
+      "location": "sala a",
+      "price": 300.5,
+      "stock": 4,
+      "isActive": true,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "41bc4c63-f5e7-479e-8e39-11f503988e63",
+      "article": "Cama Moderna",
+      "description": "Cabecero con compartimentos, 2 cajones, 2 estantes laterales y un baúl... ¡La cama LEANDRE será tu mejor aliada a la hora de crear un espacio agradable y bien ordenado en tu dormitorio!",
+      "location": "sala a",
+      "price": 169.5,
+      "stock": 5,
+      "isActive": true,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "153be2d4-ba39-4379-be6c-bd690cc84b73",
+      "article": "Sofa",
+      "description": "Opte por el sillón Chesterfield Cybèle, ¡un modelo icónico revisitado! Acogedor y elegante, con sus reposabrazos con tachuelas , su respaldo acolchado de terciopelo gris y sus pies esféricos, el sillón Cybèle ocupará un lugar privilegiado en su interior.",
+      "location": "sala b",
+      "price": 200.5,
+      "stock": 5,
+      "isActive": true,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "70f4bb82-d814-4b8c-8f51-c79b69ee39c0",
+      "article": "Ventilador De Techo",
+      "description": "Tiene un motor AC con una potencia máxima de 8W y 3 velocidades: 24-28-37 W / 127-192-241RPM Se acciona mediante cadena Además es compatible con los siguientes accesorios: 33928,33929,33937 El cuerpo es de acero color marrón oscuro, cuenta con 6 palas de MDF de color caoba y caoba y tiene un diámetro de 810 mm El difusor es de cristal Este ventilador es compatible con una fuente de luz E14, no está incluida ",
+      "location": "sala d",
+      "price": 63.35,
+      "stock": 5,
+      "isActive": true,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "fbbfe59e-f135-4a03-84ff-baa424eb979c",
+      "article": "Bañera",
+      "description": "Bañera rectangular Roca Contesa fabricada en acero con acabado en color blanco. Es para encastrar y proporciona una fácil limpieza, ya que soporta productos de limpieza convencionales e incluso lejía.",
+      "location": "sala a",
+      "price": 35.5,
+      "stock": 5,
+      "isActive": true,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    },
+    {
+      "pic": "d2a54f9d-b113-429a-acdf-89599345b21a",
+      "article": "Mesa Dani Black",
+      "description": "Mesa",
+      "location": "L09-P09-E32",
+      "price": 12.0,
+      "stock": 12,
+      "isActive": true,
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/article_default.png"
+    }
+  ],
+  "customers": [
+    {
+      "cic": "7bc16f60-77cc-4366-b0a5-a07ec75b246e",
+      "name": "Dani",
+      "surname": "Carmona Rodriguez",
+      "cif": "50583159H",
+      "direction": "Calle del aligustre",
+      "nickname": "Kassius10",
+      "password": "Informatica-1",
+      "telephoneNumber": "634651697",
+      "email": "danii@gmail.com",
+      "photo": "C:/Users/danii/Desktop/REPOSITORY_GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user_default.png",
+      "createdAt": "20::may::2022 14::29::20",
+      "isActive": true
+    },
+    {
+      "cic": "51ce38b6-190a-40c4-ae36-0a6f24cafa56",
+      "name": "Nuria",
+      "surname": "Gonzalez Margallo",
+      "cif": "55445645L",
+      "direction": "calle San melchor",
+      "nickname": "EneGe9",
+      "password": "Informatica-1",
+      "telephoneNumber": "687958878",
+      "email": "nuria@gmail.com",
+      "photo": "C:/Users/danii/Desktop/REPOSITORY_GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user_default.png",
+      "createdAt": "21::may::2022 11::31::11",
+      "isActive": false
+    },
+    {
+      "cic": "c6db875f-074a-409c-843b-0c876eb6286a",
+      "name": "Jeremy",
+      "surname": "Ramos Segura",
+      "cif": "50583159H",
+      "direction": "calle nueva",
+      "nickname": "OneShotManZ",
+      "password": "Informatica-1",
+      "telephoneNumber": "666666666",
+      "email": "jeremy@prueba.es",
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user.png",
+      "createdAt": "22::may::2022 13::02::32",
+      "isActive": true
+    },
+    {
+      "cic": "537a1ef8-3453-4411-b7d7-58a993aa77e1",
+      "name": "Azahara",
+      "surname": "Blanco Rodriguez",
+      "cif": "12345678A",
+      "direction": "Av fuenlabrada",
+      "nickname": "TheWoman",
+      "password": "Informatica-1",
+      "telephoneNumber": "615489725",
+      "email": "azahara@gmail.com",
+      "photo": "C:/Users/danii/Desktop/REPOSITORY_GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user_default.png",
+      "createdAt": "30::may::2022 21::04::42",
+      "isActive": true
+    },
+    {
+      "cic": "5e34a811-7292-4f64-8fe4-88405318244f",
+      "name": "Daniel",
+      "surname": "Rodriguez Fernandez",
+      "cif": "12345678B",
+      "direction": "calle serrano",
+      "nickname": "Tiktok",
+      "password": "Informatica-1",
+      "telephoneNumber": "651465897",
+      "email": "danielR@gmail.es",
+      "photo": "C:/Users/danii/Desktop/REPOSITORY_GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user_default.png",
+      "createdAt": "30::may::2022 21::08::38",
+      "isActive": true
+    }
+  ],
+  "employees": [
+    {
+      "eic": "b3e3b0f9-b7be-402f-ae32-13d6e7bae0bc",
+      "name": "Daniel",
+      "surname": "Rodriguez Fernandez",
+      "nif": "54034501A",
+      "email": "drodriguez@gadam.com",
+      "photo": "C:/Users/danie/Desktop/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user.png",
+      "nickName": "drodriguez",
+      "password": "Informatica-1",
+      "isManager": true,
+      "createdAt": "21::may::2022 09::52::40",
+      "isActive": true
+    },
+    {
+      "eic": "17f21f62-02fd-4c23-9d6d-bfd30243eb74",
+      "name": "Azahara",
+      "surname": "Blanco Rodríguez",
+      "nif": "56709812W",
+      "email": "ablanco@gadam.com",
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user.png",
+      "nickName": "ablanco",
+      "password": "Informatica-1",
+      "isManager": true,
+      "createdAt": "31::may::2022 10::24::04",
+      "isActive": true
+    },
+    {
+      "eic": "3655534f-eb4e-4382-b624-0ccaea0485ac",
+      "name": "Jeremy",
+      "surname": "Ramos Segura",
+      "nif": "50947843D",
+      "email": "jramos@gadam.com",
+      "photo": "C:/Users/danie/Desktop/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user.png",
+      "nickName": "jramos",
+      "password": "Informatica-1",
+      "isManager": true,
+      "createdAt": "31::may::2022 10::24::52",
+      "isActive": true
+    },
+    {
+      "eic": "e949fcaf-a1f9-4f98-9137-f9507b7173cf",
+      "name": "Daniel",
+      "surname": "Carmona Rodríguez",
+      "nif": "57832561S",
+      "email": "dcarmona@gadam.com",
+      "photo": "C:/Users/danie/Desktop/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user.png",
+      "nickName": "dcarmona",
+      "password": "Informatica-1",
+      "isManager": true,
+      "createdAt": "31::may::2022 10::25::47",
+      "isActive": true
+    },
+    {
+      "eic": "ca18e271-5a6b-4183-9a18-11b061b63204",
+      "name": "Jan",
+      "surname": "Ramos Martinez",
+      "nif": "50871452W",
+      "email": "janramos@gadam.com",
+      "photo": "C:/Users/danie/Proyectos/Desarrollo%20de%20Aplicaciones%20Multiplataforma/github_public/GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user.png",
+      "nickName": "janramos",
+      "password": "Informatica-1",
+      "isManager": false,
+      "createdAt": "31::may::2022 10::26::41",
+      "isActive": true
+    },
+    {
+      "eic": "7a59c4c3-4f87-457c-a3cf-db5ce52c18c9",
+      "name": "Daniel",
+      "surname": "Rodriguez Perez",
+      "nif": "56498747H",
+      "email": "prueba2@gmail.es",
+      "photo": "C:/Users/danii/Desktop/REPOSITORY_GADAM/Programa/GestionAlmacenDAM/target/classes/com/dam/gestionalmacendam/images/user.png",
+      "nickName": "Daniel",
+      "password": "Informatica-1",
+      "isManager": false,
+      "createdAt": "31::may::2022 23::47::39",
+      "isActive": true
+    }
+  ],
+  "lineOrders": [
+    {
+      "olic": "d97bea00-5072-46c9-85bf-248f7e1def96",
+      "article": "Prueba2",
+      "load": 4,
+      "unitPrice": 10.0,
+      "totalPrice": 40.0,
+      "belongsOrder": "f3bb2b8c-8019-46ad-b2f0-0087bb72df53"
+    },
+    {
+      "olic": "ca9217d8-7115-41d3-b346-e34b42e5cb2a",
+      "article": "Silla Jardin",
+      "load": 2,
+      "unitPrice": 24.25,
+      "totalPrice": 48.5,
+      "belongsOrder": "f3bb2b8c-8019-46ad-b2f0-0087bb72df53"
+    },
+    {
+      "olic": "99d13a01-b3ce-44c7-819c-bc5e8d1a1ca9",
+      "article": "Prueba3",
+      "load": 5,
+      "unitPrice": 15.0,
+      "totalPrice": 75.0,
+      "belongsOrder": "d1049496-b069-48b0-ae50-a33825baa8ca"
+    }
+  ],
+  "lineReceptions": [
+    {
+      "rlic": "d5c06c07-39c2-4040-95ec-641e508dff5b",
+      "articlePIC": "Prueba2",
+      "load": 10,
+      "unitPrice": 10.0,
+      "totalPrice": 100.0,
+      "belongsRecepcion": "9c4c0f5b-7506-465c-bc48-b7f04d7e61fb"
+    },
+    {
+      "rlic": "a7aa4a5e-5b61-4604-b3d7-f98960152ed8",
+      "articlePIC": "Mesa Dani Black",
+      "load": 12,
+      "unitPrice": 32.12,
+      "totalPrice": 385.43999999999994,
+      "belongsRecepcion": "c19e1cab-5447-4b95-9524-728251f90f52"
+    }
+  ],
+  "orders": [
+    {
+      "oic": "f3bb2b8c-8019-46ad-b2f0-0087bb72df53",
+      "customer": "Dani",
+      "price": 20.0,
+      "methodPay": "CARD"
+    },
+    {
+      "oic": "d1049496-b069-48b0-ae50-a33825baa8ca",
+      "customer": "Dani",
+      "price": 40.0,
+      "methodPay": "CARD"
+    }
+  ],
+  "receptions": [
+    {
+      "ric": "9c4c0f5b-7506-465c-bc48-b7f04d7e61fb",
+      "supplierName": "Ikea",
+      "carrier": "Je",
+      "cost": 100.0
+    },
+    {
+      "ric": "c19e1cab-5447-4b95-9524-728251f90f52",
+      "supplierName": "Sillatea",
+      "carrier": "UPS",
+      "cost": 385.43999999999994
+    }
+  ],
+  "suppliers": [
+    {
+      "sic": "b9e8a68e-f8ac-4d0f-b685-997f894cfedd",
+      "nameSupplier": "MESATABLA S.L.",
+      "direction": "Calle Valencia N12",
+      "telephoneNumber": "678908765",
+      "email": "mesatabalavalencia@mesatabla.com"
+    },
+    {
+      "sic": "688d7882-8f79-43a7-888d-207bf838cbf2",
+      "nameSupplier": "SILLATEA",
+      "direction": "Calle Industria 1 Barcelona",
+      "telephoneNumber": "678098241",
+      "email": "info@sillatea.com"
+    },
+    {
+      "sic": "d0742778-ce4c-4c82-ba7b-2599aaabe970",
+      "nameSupplier": "LUSANMOVEL",
+      "direction": "CALLE BAZA 19-21 -ALBOLOTE, Albolote - Granada",
+      "telephoneNumber": "615817909",
+      "email": "info@lusanmovel.com"
+    },
+    {
+      "sic": "44a1f539-75d3-4a0e-bd9e-d6f503cb578d",
+      "nameSupplier": "Global Home",
+      "direction": " Calle de la rosa 4, Griñón - Madrid",
+      "telephoneNumber": "600555024",
+      "email": "info@globalhome.com"
+    },
+    {
+      "sic": "8837d131-e109-4de9-856e-60ce40881e98",
+      "nameSupplier": "El Taller de la Espuma",
+      "direction": "Avenida Doctor Mendiguchia Carriche, Leganés - Madrid",
+      "telephoneNumber": "670450222",
+      "email": "info@tallerespuma.com"
+    },
+    {
+      "sic": "6f4008ec-db8b-4774-974e-737d073d7e5d",
+      "nameSupplier": "Steel Vulcano",
+      "direction": "C/Holanda 2 local Nº6, Griñón - Madrid",
+      "telephoneNumber": "665307482",
+      "email": "info@steelvulcano.com"
+    },
+    {
+      "sic": "4003cbce-0938-4c1a-8cc3-d68fdd15ea9e",
+      "nameSupplier": "IberoDepot ",
+      "direction": "Mas Colomé, 5, Franqueses del Vallès (Les) - Barcelona",
+      "telephoneNumber": "644680743",
+      "email": "info@iberodepot.com"
+    },
+    {
+      "sic": "81e8c268-e5de-475b-be5d-afde97accea2",
+      "nameSupplier": "SillasMesas.es",
+      "direction": " C/ Río Darro, 24, Mijas - Málaga",
+      "telephoneNumber": "608362319",
+      "email": "info@sillasmesas.es"
+    },
+    {
+      "sic": "829ac72f-821d-4f6b-b919-1ebcd1ba6aa3",
+      "nameSupplier": "Ikea",
+      "direction": "Prueba",
+      "telephoneNumber": "666666666",
+      "email": "prueba@prueba.es"
+    }
+  ]
+}

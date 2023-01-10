@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<VBox xmlns:fx="http://javafx.com/fxml/1" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/18"
+      fx:controller="com.dam.gestionalmacendam.controllers.viewSupplier.SupplierVistaController">
+    <children>
+        <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="654.0" prefWidth="1280.0" VBox.vgrow="ALWAYS">
+            <children>
+                <VBox prefHeight="658.0" prefWidth="1280.0">
+                    <children>
+                        <AnchorPane prefHeight="658.0" prefWidth="1280.0">
+                            <children>
+                                <Label layoutX="55.0" layoutY="9.0" prefHeight="35.0" prefWidth="100.0"
+                                       text="Buscar por SIC"/>
+                                <TextField id="areaTexteBuscarPOrSIC" fx:id="textAreaSIC" layoutX="154.0" layoutY="9.0"
+                                           onAction="#findByUUID" prefHeight="35.0" prefWidth="330.0"/>
+                                <Button id="ButonModificar" fx:id="butonModificar" layoutX="881.0" layoutY="5.0"
+                                        mnemonicParsing="false" onAction="#onModificarAction" prefHeight="44.0"
+                                        prefWidth="155.0" text="Modificar"/>
+                                <Button id="ButonCrearNuevo" fx:id="ButonCrear" layoutX="1045.0" layoutY="5.0"
+                                        mnemonicParsing="false" onAction="#onNewSuplier" prefHeight="44.0"
+                                        prefWidth="141.0" text="Crear nuevo"/>
+                                <TableView fx:id="suplierTable" layoutX="-1.0" layoutY="59.0"
+                                           onMouseClicked="#seleccionarAction" prefHeight="599.0" prefWidth="1280.0">
+                                    <columns>
+                                        <TableColumn id="colSCI" fx:id="colSIC" prefWidth="156.0" text="SIC"/>
+                                        <TableColumn id="colNombre" fx:id="colName" prefWidth="213.0" text="Nombre"/>
+                                        <TableColumn id="colDirecion" fx:id="colDireci" minWidth="2.4000244140625"
+                                                     prefWidth="236.0" text="Dirección"/>
+                                        <TableColumn id="colEmail" fx:id="colEmail" minWidth="5.60003662109375"
+                                                     prefWidth="273.0" text="Email"/>
+                                        <TableColumn id="colTelefono" fx:id="colTelefo" minWidth="0.0" prefWidth="322.0"
+                                                     text="Telefono"/>
+                                    </columns>
+                                </TableView>
+                            </children>
+                        </AnchorPane>
+                    </children>
+                </VBox>
+            </children>
+        </AnchorPane>
+    </children>
+</VBox>

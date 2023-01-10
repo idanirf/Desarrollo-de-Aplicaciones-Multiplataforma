@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<VBox xmlns:fx="http://javafx.com/fxml/1" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/18"
+      fx:controller="com.dam.gestionalmacendam.controllers.viewOrder.OrderController">
+    <children>
+        <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="654.0" prefWidth="1280.0" VBox.vgrow="ALWAYS">
+            <children>
+                <VBox prefHeight="658.0" prefWidth="1280.0">
+                    <children>
+                        <AnchorPane prefHeight="658.0" prefWidth="1280.0">
+                            <children>
+                                <Label layoutX="55.0" layoutY="9.0" prefHeight="35.0" prefWidth="100.0"
+                                       text="Buscar por OIC"/>
+                                <TextField fx:id="textAreaBuscarPorOic" layoutX="154.0"
+                                           layoutY="9.0" onAction="#findByName" prefHeight="35.0" prefWidth="330.0"/>
+                                <TableView fx:id="tablaPedidos" layoutX="-1.0" layoutY="59.0"
+                                           onMouseClicked="#selecionarAcion" prefHeight="599.0" prefWidth="1280.0">
+                                    <columns>
+                                        <TableColumn fx:id="columnaOIC" maxWidth="500.0" minWidth="100.0"
+                                                     prefWidth="350.0" text="OIC"/>
+                                        <TableColumn fx:id="columnaCliente" maxWidth="500.0" minWidth="100.0"
+                                                     prefWidth="300.0" text="Cliente"/>
+                                        <TableColumn fx:id="columnaPrecio" maxWidth="500.0" minWidth="100.0"
+                                                     prefWidth="300.0" text="Precio"/>
+                                        <TableColumn fx:id="columnaMetodoDePago" maxWidth="500.0" minWidth="100.0"
+                                                     prefWidth="300.0" text="Metodo de pago"/>
+                                    </columns>
+                                </TableView>
+                            </children>
+                        </AnchorPane>
+                    </children>
+                </VBox>
+            </children>
+        </AnchorPane>
+    </children>
+</VBox>

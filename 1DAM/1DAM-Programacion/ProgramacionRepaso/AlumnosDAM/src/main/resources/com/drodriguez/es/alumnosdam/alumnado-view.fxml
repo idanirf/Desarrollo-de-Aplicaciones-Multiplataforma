@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="910.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.drodriguez.es.alumnosdam.controllers.AlumnadoViewController">
+   <children>
+      <AnchorPane prefHeight="28.0" prefWidth="600.0">
+         <children>
+            <MenuBar layoutY="1.0" prefHeight="26.0" prefWidth="910.0">
+              <menus>
+                <Menu mnemonicParsing="false" text="Salir">
+                  <items>
+                    <MenuItem mnemonicParsing="false" onAction="#onCerrarAplicacion" text="Close" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Datos">
+                  <items>
+                    <MenuItem mnemonicParsing="false" onAction="#onImportarAction" text="Importar" />
+                        <MenuItem mnemonicParsing="false" onAction="#onExportarAction" text="Exportar" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Informe">
+                  <items>
+                    <MenuItem mnemonicParsing="false" onAction="#onPrintInformeAction" text="Imprimir Informe" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="28.0" prefHeight="573.0" prefWidth="398.0">
+         <children>
+            <TableView fx:id="alumnoTable" prefHeight="574.0" prefWidth="480.0" style="-fx-background-color: white;">
+              <columns>
+                <TableColumn fx:id="dniData" prefWidth="85.59997403621674" text="Dni" />
+                <TableColumn fx:id="nombreApellidosData" prefWidth="179.20001983642578" text="Nombre y Apellidos" />
+                  <TableColumn fx:id="notaData" prefWidth="51.60003662109375" text="Nota" />
+                  <TableColumn fx:id="promocionData" prefWidth="161.0" text="Decisión De La Promoción" />
+              </columns>
+            </TableView>
+         </children>
+      </AnchorPane>
+      <Label layoutX="541.0" layoutY="48.0" text="Datos - Formulario Alumnado">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="idData" layoutX="411.0" layoutY="107.0" text="id" visible="false" />
+      <Label layoutX="518.0" layoutY="142.0" prefHeight="20.0" prefWidth="43.0" text="DNI:">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="518.0" layoutY="186.0" text="Nombre y Apellidos:">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="517.0" layoutY="227.0" text="Nota/Calificación:">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="518.0" layoutY="268.0" text="Fecha Nacimiento:">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="dniLabelData" layoutX="659.0" layoutY="139.0" prefHeight="25.0" prefWidth="218.0" />
+      <TextField fx:id="nombreApellidosLabelData" layoutX="659.0" layoutY="183.0" prefHeight="25.0" prefWidth="218.0" />
+      <TextField fx:id="notaLabelData" layoutX="659.0" layoutY="224.0" prefHeight="25.0" prefWidth="218.0" />
+      <DatePicker fx:id="fechaNacimientoLabelData" layoutX="658.0" layoutY="264.0" prefHeight="25.0" prefWidth="218.0" />
+      <Button layoutX="590.0" layoutY="431.0" mnemonicParsing="false" onAction="#onRegistrarAlumnoAction" text="Registrar" />
+      <Button layoutX="738.0" layoutY="431.0" mnemonicParsing="false" onAction="#onEliminarAlumnoAction" text="Eliminar" />
+      <Button layoutX="571.0" layoutY="386.0" mnemonicParsing="false" onAction="#onActualizarAlumnoAction" text="Actualizar Datos" />
+      <Button layoutX="717.0" layoutY="386.0" mnemonicParsing="false" onAction="#onLimpiarCamposAction" text="Limpiar Campos" />
+      <ComboBox fx:id="promocionLabelData" layoutX="657.0" layoutY="309.0" prefHeight="25.0" prefWidth="218.0" />
+      <Label layoutX="515.0" layoutY="312.0" text="¿Promociona?">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

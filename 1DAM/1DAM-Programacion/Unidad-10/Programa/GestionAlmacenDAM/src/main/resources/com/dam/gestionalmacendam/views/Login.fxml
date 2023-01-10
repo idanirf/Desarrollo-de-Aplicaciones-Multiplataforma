@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="550.0" prefWidth="540.0" xmlns="http://javafx.com/javafx/18"
+            fx:controller="com.dam.gestionalmacendam.controllers.login.LoginController">
+    <children>
+        <AnchorPane layoutX="70.0" layoutY="33.0" prefHeight="400.0" prefWidth="400.0"
+                    style="-fx-background-color: #E7E7E7; -fx-background-radius: 50;">
+            <children>
+                <ImageView fitHeight="94.0" fitWidth="106.0" layoutX="149.0" layoutY="33.0" pickOnBounds="true">
+                    <image>
+                        <Image url="@../images/logoMini.png"/>
+                    </image>
+                </ImageView>
+                <HBox layoutX="79.0" layoutY="180.0" prefHeight="40.0" prefWidth="245.0">
+                    <children>
+                        <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="@../images/iconNick.png"/>
+                            </image>
+                            <HBox.margin>
+                                <Insets right="10.0" top="5.0"/>
+                            </HBox.margin>
+                        </ImageView>
+                        <TextField id="txtNick" fx:id="txtNick" prefHeight="40.0" prefWidth="205.0"
+                                   promptText="NickUser"/>
+                    </children>
+                </HBox>
+                <HBox layoutX="78.0" layoutY="254.0" prefHeight="40.0" prefWidth="245.0">
+                    <children>
+                        <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="@../images/candado.png"/>
+                            </image>
+                            <HBox.margin>
+                                <Insets right="10.0" top="5.0"/>
+                            </HBox.margin>
+                        </ImageView>
+                        <PasswordField id="txtPassword" fx:id="txtPassword" prefHeight="40.0" prefWidth="205.0"
+                                       promptText="Password"/>
+                    </children>
+                </HBox>
+                <Button fx:id="btnLogin" layoutX="165.0" layoutY="329.0" mnemonicParsing="false"
+                        onAction="#btnLoginClick" prefHeight="33.0" prefWidth="74.0" style="-fx-background-radius: 20;"
+                        text="Login">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                </Button>
+            </children>
+        </AnchorPane>
+        <Button fx:id="btnNewUser" layoutX="279.0" layoutY="474.0" mnemonicParsing="false" onAction="#btnNewUserClick"
+                prefHeight="25.0" prefWidth="146.0" style="-fx-background-radius: 4;" text="Sign up"
+                AnchorPane.rightAnchor="125.0">
+            <font>
+                <Font size="15.0"/>
+            </font>
+        </Button>
+        <Label layoutX="145.0" layoutY="479.0" prefHeight="17.0" prefWidth="117.0" text="Create New User"
+               AnchorPane.leftAnchor="125.0">
+            <font>
+                <Font size="15.0"/>
+            </font>
+        </Label>
+    </children>
+</AnchorPane>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.dam.gestionalmacendam.controllers.viewReception.ReceptionViewController">
+    <children>
+        <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="654.0" prefWidth="1280.0" VBox.vgrow="ALWAYS">
+            <children>
+                <VBox prefHeight="658.0" prefWidth="1280.0">
+                    <children>
+                        <AnchorPane prefHeight="658.0" prefWidth="1280.0">
+                            <children>
+                                <TableView fx:id="tableRecept" layoutY="65.0" onMouseClicked="#onClickAction" prefHeight="581.0" prefWidth="1280.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                                    <columns>
+                                        <TableColumn fx:id="ric" maxWidth="500.0" minWidth="100.0" prefWidth="320.0" text="RIC" />
+                                        <TableColumn fx:id="supplier" maxWidth="500.0" minWidth="100.0" prefWidth="320.0" resizable="false" text="Supplier" />
+                                        <TableColumn fx:id="carrier" maxWidth="500.0" minWidth="100.0" prefWidth="325.0" text="Carrier" />
+                                        <TableColumn fx:id="cost" maxWidth="500.0" minWidth="100.0" prefWidth="312.0" text="Cost " />
+                                    </columns>
+                                </TableView>
+                                <Label layoutX="48.0" layoutY="19.0" prefHeight="35.0" prefWidth="100.0" text="Buscar por RIC" />
+                                <TextField fx:id="find" layoutX="154.0" layoutY="19.0" onAction="#findByName" prefHeight="35.0" prefWidth="330.0" />
+                                <Button layoutX="928.0" layoutY="9.0" mnemonicParsing="false" onAction="#onCreateAction" prefHeight="48.0" prefWidth="189.0" text="Crear nuevo" />
+                            </children>
+                        </AnchorPane>
+                    </children>
+                </VBox>
+            </children>
+        </AnchorPane>
+    </children>
+</VBox>

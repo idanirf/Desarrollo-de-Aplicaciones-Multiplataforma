@@ -1,0 +1,53 @@
+El problema del Null y el Tipo Optional
+---------------------------------------
+Optional--> se encarga de hacer el if del null
+
+String nombre = null
+Optional<String> nombreOpt = Optional.ofNullable(nombre);
+if(nombreOpt.isPresent){
+	sout()
+}
+
+
+Bases de Datos Relacionales
+---------------------------
+
+Desfase Objeto-Relacional
+---------------------------
+
+CRUD con JDBC
+-------------
+Driver(librería) que nos va a permitir realizar la conexión a las bases de datos.
+Cargar el driver
+Crear conexión con URL. Nombre + puerto + usuario + contraseña.
+Envíar consultas
+Liberar recursos al terminar
+Gestionar errores
+Ultimo cerrar conexión
+
+Tres tipos de sentencia:
+Statement: sql
+PreparedStatement: consultas preparadas como las que tienen los parametros
+CallableStatement: procedimientos almacenados en BBDD
+
+Dos tipos de consulta:
+Consultas: select
+Actualizaciones: update, insert, del, create
+
+JBDC Prepared Statement: consultas ya preparadas y ya están precompiladas.
+
+Consultas de Selección
+----------------------
+conexion.prepapreStatment
+executeQuery
+
+Insercción, Actualización, Borrado
+----------------------------------
+sentencia.setString --> columna, nombre
+executeUpdate()
+
+Parámetros infinitos
+--------------------
+fun ( , T... params) ---> podemos pasar un número infinito de parámetros.
+
+

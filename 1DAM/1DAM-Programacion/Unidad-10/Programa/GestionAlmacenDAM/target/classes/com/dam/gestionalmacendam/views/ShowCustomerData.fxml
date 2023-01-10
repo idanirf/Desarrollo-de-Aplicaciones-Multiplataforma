@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+            minWidth="-Infinity"
+            prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/18"
+            fx:controller="com.dam.gestionalmacendam.controllers.viewMainCustomer.ShowCustomerDataController">
+    <children>
+        <ImageView fx:id="img" fitHeight="110.0" fitWidth="110.0" layoutX="262.0" layoutY="34.0" pickOnBounds="true"
+                   preserveRatio="true" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="30.0"/>
+        <Label layoutX="38.0" layoutY="40.0" text="Tu Perfil">
+            <font>
+                <Font name="System Bold" size="18.0"/>
+            </font>
+        </Label>
+        <Label layoutX="35.0" layoutY="80.0" text="Nombre:">
+            <font>
+                <Font name="System Bold" size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="txtName" layoutX="132.0" layoutY="80.0" text="name">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label layoutX="35.0" layoutY="110.0" text="Apellidos:">
+            <font>
+                <Font name="System Bold" size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="txtSurname" layoutX="132.0" layoutY="110.0" text="surname">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label layoutX="35.0" layoutY="140.0" text="CIF:">
+            <font>
+                <Font name="System Bold" size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="txtCif" layoutX="132.0" layoutY="140.0" text="cif">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label layoutX="35.0" layoutY="170.0" text="Dirección:">
+            <font>
+                <Font name="System Bold" size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="txtDirection" layoutX="132.0" layoutY="170.0" text="direction">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label layoutX="35.0" layoutY="200.0" text="Nick User:">
+            <font>
+                <Font name="System Bold" size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="txtNick" layoutX="132.0" layoutY="200.0" text="nick">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label layoutX="35.0" layoutY="230.0" text="Teléfono:">
+            <font>
+                <Font name="System Bold" size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="txtPhone" layoutX="132.0" layoutY="230.0" text="telephonenumber">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label layoutX="36.0" layoutY="260.0" text="Email:">
+            <font>
+                <Font name="System Bold" size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="txtEmail" layoutX="132.0" layoutY="260.0" text="email">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Button fx:id="btnMod" layoutX="150.0" layoutY="339.0" mnemonicParsing="false" onAction="#btnModAction"
+                text="Modificar datos" AnchorPane.bottomAnchor="36.0"/>
+    </children>
+</AnchorPane>

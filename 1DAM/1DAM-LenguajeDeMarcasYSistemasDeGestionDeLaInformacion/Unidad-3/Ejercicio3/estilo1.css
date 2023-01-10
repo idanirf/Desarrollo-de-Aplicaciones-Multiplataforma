@@ -1,0 +1,13 @@
+.bloque1{background-color: rgba(51, 192, 51, 0.692); text-align: center;}
+#text1{font-size: 30px; font-weight: bold;}
+.bloque2{background-color: yellow; text-align: center;}
+#text2{font-size: 30px; font-weight: bold;}
+#text3{font-size: 16pt; font-weight: bold; font-style: italic;}
+#titulo{background-color:rgb(184, 184, 184); font-size: 18pt; color: #003cff; font-weight: bold;}
+.text4{font-size: 14pt; text-align: justify; text-indent: 40px; font-family: 'Courier New', Courier, monospace;}
+p.text4 span#negrita{font-weight: bold;}
+
+#text5{font-size:14pt; font-family: 'verdana'; text-align: right;}
+
+.text6{font-size: 14pt; color: green; text-align:left; text-indent:40px;}
+p.text6 span.color{background-color:rgb(154, 154, 154)}

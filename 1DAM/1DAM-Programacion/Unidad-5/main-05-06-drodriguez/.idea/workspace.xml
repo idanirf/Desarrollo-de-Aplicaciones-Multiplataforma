@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e94c1e6-bcc9-48f3-a247-d8411dc1f44a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/es/drodriguez/com/Models/Animales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/drodriguez/com/Models/Elefantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/drodriguez/com/Models/Gatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/drodriguez/com/Models/Perros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/main-05-09-drodriguez.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/src/es/drodriguez/com/Models/DVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/src/es/drodriguez/com/Models/Ficha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/src/es/drodriguez/com/Models/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main-05-09-drodriguez/src/es/drodriguez/com/Models/Revistas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Models/Pista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/main-06-05-drodriguez/main-06-05-drodriguez.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/drodriguez/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/drodriguez/com/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/out/production/untitled104/es/drodriguez/com/Comparator/ProcesoQuantumComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/out/production/untitled104/es/drodriguez/com/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/out/production/untitled104/es/drodriguez/com/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/out/production/untitled104/es/drodriguez/com/Models/Aviones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/out/production/untitled104/es/drodriguez/com/Models/Aviones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/out/production/untitled104/es/drodriguez/com/Models/Comerciales.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/out/production/untitled104/es/drodriguez/com/Models/Comerciales.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/out/production/untitled104/es/drodriguez/com/Models/Privados.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/out/production/untitled104/es/drodriguez/com/Models/Privados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Comparator/ProcesoQuantumComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Comparator/IAvionesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Models/Aviones.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Models/Aviones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Models/Comerciales.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Models/Comerciales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Models/Privados.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/Ejercicios/SolucionAviones/src/es/drodriguez/com/Models/Privados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/main-06-05-drodriguez.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/out/production/main-06-05-drodriguez/es/drodriguez/com/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/out/production/main-06-05-drodriguez/es/drodriguez/com/Models/Cola$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/out/production/main-06-05-drodriguez/es/drodriguez/com/Models/Cola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/out/production/main-06-05-drodriguez/es/drodriguez/com/Models/Proceso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/src/es/drodriguez/com/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/src/es/drodriguez/com/Models/Cola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/src/es/drodriguez/com/Models/ICola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/main-06-05-drodriguez/src/es/drodriguez/com/Models/Proceso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unidad 6/teoriaProgramacionUD6.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unidad 6/teoriaProgramacionUD6.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="25Q0qV9g1G3C3F2Ub98RLOGOJBg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="es.drodriguez.com.Models" />
+      <recent name="es.drodriguez.com.Models." />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="es.drodriguez.com.Main" />
+      <module name="main-05-06-drodriguez" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e94c1e6-bcc9-48f3-a247-d8411dc1f44a" name="Changes" comment="" />
+      <created>1645444199205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645444199205</updated>
+      <workItem from="1645444200557" duration="4000" />
+      <workItem from="1646070594137" duration="2141000" />
+      <workItem from="1646244702689" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

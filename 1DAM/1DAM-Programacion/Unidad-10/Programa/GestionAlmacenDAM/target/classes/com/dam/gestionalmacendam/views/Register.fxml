@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+            prefHeight="720.0" prefWidth="641.0" xmlns="http://javafx.com/javafx/16"
+            fx:controller="com.dam.gestionalmacendam.controllers.login.RegisterController">
+    <children>
+        <Label layoutX="133.0" layoutY="40.0" style="-fx-background-color: #E1E1E1; -fx-background-radius: 20;"
+               text="Nuevo Usuario" AnchorPane.topAnchor="40.0">
+            <font>
+                <Font name="Calibri Bold" size="30.0"/>
+            </font>
+            <padding>
+                <Insets bottom="10.0" left="20.0" right="20.0" top="10.0"/>
+            </padding>
+        </Label>
+        <ImageView fx:id="photoView" fitHeight="140.0" fitWidth="140.0" layoutX="469.0" layoutY="30.0"
+                   onMouseDragged="#onPhotoClick" preserveRatio="true" AnchorPane.rightAnchor="30.0"
+                   AnchorPane.topAnchor="30.0">
+            <image>
+                <Image url="@../images/user_default.png"/>
+            </image>
+        </ImageView>
+        <AnchorPane layoutX="45.0" layoutY="110.0" prefHeight="473.0" prefWidth="402.0">
+            <children>
+                <Label layoutX="17.0" layoutY="33.0" text="Nombre :">
+                    <font>
+                        <Font size="16.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="txtName" layoutX="153.0" layoutY="30.0" prefHeight="30.0" prefWidth="180.0"
+                           style="-fx-background-radius: 10;" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="30.0">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                    <opaqueInsets>
+                        <Insets/>
+                    </opaqueInsets>
+                </TextField>
+                <Label layoutX="17.0" layoutY="83.0" text="Apellidos :">
+                    <font>
+                        <Font size="16.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="txtSurname" layoutX="153.0" layoutY="80.0" prefHeight="30.0" prefWidth="180.0"
+                           style="-fx-background-radius: 10;" AnchorPane.rightAnchor="14.0">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                    <opaqueInsets>
+                        <Insets/>
+                    </opaqueInsets>
+                </TextField>
+                <Label layoutX="17.0" layoutY="183.0" text="CIF :">
+                    <font>
+                        <Font size="16.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="txtNick" layoutX="153.0" layoutY="130.0" prefHeight="30.0" prefWidth="180.0"
+                           style="-fx-background-radius: 10;" AnchorPane.rightAnchor="14.0">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                    <opaqueInsets>
+                        <Insets/>
+                    </opaqueInsets>
+                </TextField>
+                <Label layoutX="17.0" layoutY="133.0" text="Nick User :">
+                    <font>
+                        <Font size="16.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="txtCIF" layoutX="226.0" layoutY="180.0" prefHeight="30.0" prefWidth="180.0"
+                           style="-fx-background-radius: 10;" AnchorPane.rightAnchor="14.0">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                    <opaqueInsets>
+                        <Insets/>
+                    </opaqueInsets>
+                </TextField>
+                <Label layoutX="17.0" layoutY="233.0" text="Contraseña :">
+                    <font>
+                        <Font size="16.0"/>
+                    </font>
+                </Label>
+                <PasswordField fx:id="txtPassword" layoutX="208.0" layoutY="230.0" prefHeight="30.0" prefWidth="180.0"
+                               style="-fx-background-radius: 10;" AnchorPane.rightAnchor="14.0">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                </PasswordField>
+                <Label layoutX="17.0" layoutY="283.0" text="Confirmar contraseña :">
+                    <font>
+                        <Font size="16.0"/>
+                    </font>
+                </Label>
+                <PasswordField fx:id="txtPasswordConfir" layoutX="208.0" layoutY="280.0" prefHeight="30.0"
+                               prefWidth="180.0" style="-fx-background-radius: 10;">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                </PasswordField>
+                <Label layoutX="17.0" layoutY="333.0" text="Dirección :">
+                    <font>
+                        <Font size="16.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="txtDirection" layoutX="226.0" layoutY="330.0" prefHeight="30.0" prefWidth="180.0"
+                           style="-fx-background-radius: 10;" AnchorPane.rightAnchor="14.0">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                    <opaqueInsets>
+                        <Insets/>
+                    </opaqueInsets>
+                </TextField>
+                <Label layoutX="17.0" layoutY="383.0" text="Teléfono :">
+                    <font>
+                        <Font size="16.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="txtPhone" layoutX="226.0" layoutY="380.0" prefHeight="30.0" prefWidth="180.0"
+                           style="-fx-background-radius: 10;" AnchorPane.rightAnchor="14.0">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                    <opaqueInsets>
+                        <Insets/>
+                    </opaqueInsets>
+                </TextField>
+                <Label layoutX="17.0" layoutY="433.0" text="Correo electrónico:">
+                    <font>
+                        <Font size="16.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="txtEmail" layoutX="226.0" layoutY="430.0" prefHeight="30.0" prefWidth="180.0"
+                           style="-fx-background-radius: 10;" AnchorPane.rightAnchor="14.0">
+                    <font>
+                        <Font size="14.0"/>
+                    </font>
+                    <opaqueInsets>
+                        <Insets/>
+                    </opaqueInsets>
+                </TextField>
+            </children>
+        </AnchorPane>
+        <CheckBox fx:id="checkAcept" layoutX="339.0" layoutY="612.0" mnemonicParsing="false"
+                  text="Acepta términos y condiciones">
+            <font>
+                <Font size="16.0"/>
+            </font>
+        </CheckBox>
+        <Button fx:id="btnSave" layoutX="120.0" layoutY="609.0" mnemonicParsing="false" onAction="#btnSaveAction"
+                text="Guardar">
+            <font>
+                <Font size="15.0"/>
+            </font>
+        </Button>
+    </children>
+</AnchorPane>

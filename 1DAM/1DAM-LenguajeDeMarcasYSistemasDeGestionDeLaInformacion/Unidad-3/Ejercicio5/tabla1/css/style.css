@@ -1,0 +1,28 @@
+table{
+    border: solid 6px #00418B ;
+    border-collapse: collapse;
+    width: 950px;
+    height: 200px;
+    padding-left: 100px;
+    margin-left: 250px;
+    
+
+
+}
+th{
+    color: white ;
+    background-color: #0061D0;
+    border: solid 6px #00418B;
+
+}
+.estilo1{
+    background-color: #07D8FF
+}
+.estilo2{
+    background-color: red;
+    color: white;
+    text-align: right;
+}
+td{
+    border: solid 1px #6e6e6e ;
+}

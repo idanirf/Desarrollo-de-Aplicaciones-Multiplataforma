@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'es.drodriguez.com'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation 'com.diogonunes:JColor:5.0.1'
+
+}
+
+test {
+    useJUnitPlatform()
+}

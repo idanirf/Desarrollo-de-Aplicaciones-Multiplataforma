@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.*?>
+<Pane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="507.0" prefWidth="561.0" xmlns="http://javafx.com/javafx/18"
+      fx:controller="com.dam.gestionalmacendam.controllers.viewSupplier.NewSupplierController">
+    <children>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="507.0" prefWidth="561.0">
+            <children>
+                <Label layoutX="113.0" layoutY="120.0" text="Nombre">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="113.0" layoutY="160.0" text="Dirección">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="113.0" layoutY="200.0" text="Email">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="113.0" layoutY="240.0" text="Teléfono">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="131.0" layoutY="34.0" text="Nuevo Proovedor" textAlignment="CENTER" wrapText="true">
+                    <font>
+                        <Font name="System Bold" size="36.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="areaNombre" layoutX="242.0" layoutY="117.0" prefHeight="26.0" prefWidth="227.0"/>
+                <TextField fx:id="areaDirection" layoutX="242.0" layoutY="157.0" prefHeight="26.0" prefWidth="226.0"/>
+                <TextField fx:id="areaEmail" layoutX="244.0" layoutY="197.0" prefHeight="26.0" prefWidth="223.0"/>
+                <TextField fx:id="areaPhone" layoutX="244.0" layoutY="237.0" prefHeight="26.0" prefWidth="223.0"/>
+                <Button layoutX="238.0" layoutY="366.0" mnemonicParsing="false" onAction="#onAceptarAction"
+                        prefHeight="72.0" prefWidth="85.0" text="Aceptar">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </Button>
+
+            </children>
+        </AnchorPane>
+    </children>
+</Pane>

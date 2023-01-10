@@ -1,0 +1,24 @@
+th{
+    color: white;
+    background-color:rgb(71, 71, 71)
+}
+td{
+    border-collapse:separate;
+    border: solid 1px black;
+}
+table{
+    margin-left: 550px;
+    margin-right: 500px;
+    border-left: 2px solid rgb(201, 201, 201);
+    border-top: 2px solid rgb(201, 201, 201);
+}
+.gris{
+    background-color:grey
+
+}
+.verde{
+    background-color:rgb(27, 255, 27);
+}
+.negrita{
+    font-weight: bold;
+}

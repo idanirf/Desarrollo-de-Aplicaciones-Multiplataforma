@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Author" content="Daniel Rodríguez">
+    <meta http-equiv="Content-Languague" content="es-Es">
+    <title>INDAEX ASOCIACION ANIMALES</title>
+    <style>
+        .imagenes{
+            margin-left: 250px;
+        }
+
+        tr, td{
+            border: 1px solid black;
+        }
+
+        footer{
+            text-align:center;
+        }
+
+        .formularioContacto{
+            margin-right: 660px;
+            margin-left: 570px;
+        }
+    </style>
+</head>
+<body>
+    <header style="background-color: green; text-align:center">
+        <h1 style="color: white;">ASOANIMALES</h1>
+        <p><i>Cada vez que introduces una variable global muere un gatito</i></p>
+        <hr>
+    </header>
+    <section>
+        <h2>Un Poco de Historia sobre nuestra asociacion:</h2>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy <abbr title="fue en: 1500s"> la prueba</abbr> the 1500s, when an unknown printer took a <em>galley</em> of type and 
+            scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, 
+            remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+            and <s>more</s> recently with desktop publishing <del>software</del> like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply 
+            dummy <b style="color: red">text of the printing and typesetting</b> industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and <b>scrambled</b> it to make a type specimen book. It has survived not only five centuries, 
+            but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset 
+            sheets containing <strong>Lorem</strong> Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the <sup>1500s</sup>, when an unknown <b>printer</b> took a galley of type and 
+            scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, 
+            remaining essentially unchanged. It was popularised in the 1960s with the <i>release</i> of Letraset sheets containing Lorem Ipsum passages, 
+            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply 
+            dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 
+            but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset 
+            sheets containing Lorem Ipsum passages, and more recently with <b><i>desktop</i></b> publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <div class="imagenes">
+            <img src="imagenes/foto1.png" alt="" width="650px" height="338px">
+            <img style="border: 10px solid blue;" src="imagenes/foto2.png" alt="" width="650px" height="338px"/> 
+        </div>
+        <br>
+        <caption name="ESPECIES DE LA ASOCIACION">
+            <table style="border-collapse: collapse;border: 1px solid black; margin-left: 600px;">
+                <thead>
+                    <tr>
+                        <td colspan="3" style="text-align:center">ESPECIES DE LA ASOCIACION</td>
+                    </tr>
+                </thead>
+                <tr>
+                    <th>Nombre de la especie</th>
+                    <th>Países</th>
+                    <th>Imagen</th>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Lubinas</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ol>
+                            <li>España</li>
+                            <li>Estados Unidos</li>
+                            <li>Francia</li>
+                            <li>Australia</li>  
+                        </ol>
+                    </td>
+                    <td>
+                        <img src="imagenes/lubina.png" alt="" width="200px" height="100px">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Pez Payaso</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ol>
+                            <li>Mexico</li>
+                            <li>Estados Unidos</li>
+                            <li>Cuba</li>
+                            <li>Republica Dominicana</li>
+                        </ol>
+                    </td>
+                    <td>
+                        <img src="imagenes/pezpayaso.png" alt="" width="200px" height="100px">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Pez Cirujano</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ol>
+                            <li>España</li>
+                            <li>Mexico</li>
+                            <li>Republica Dominicana</li>
+                        </ol>
+                    </td>
+                    <td>
+                        <img src="imagenes/pezcirujano.png" alt="" width="200px" height="100px">
+                    </td>
+                    <tr>
+                        <td>
+                            <ul>
+                                <li>Pez Mandarin</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <ol>
+                                <li>España</li>
+                                <li>Portugal</li>
+                                <li>Congo</li>
+                            </ol>
+                        </td>
+                        <td>
+                            <img src="imagenes/pezmandarin.png" alt="" width="200px" height="100px">
+                        </td>
+                    </tr>
+                </tr>
+            </table>
+        </caption>
+        <form action="recogidadatos.html" method="post" name="recogidadatos">
+        <fieldset class="formularioContacto">
+            <legend> Únete a la asociación</legend>
+            <p>Nombre: <input type="text" required placeholder="Introduce tu nombre"></p>
+            <p>Apellidos: <input type="text" required placeholder="Introduce tu dos apellidos"></p>
+            <p>NºTeléfono <input type="numeric" placeholder="000 000 000"></p>
+            <p>Email: <input type="email" placeholder="Introduce tu email"></p>
+            <p>Indica tu país: 
+                <select name="paises" id="paises">
+                    <option value="Selecciona tu país"></option>
+                    <option value="Spain">Spain</option>
+                    <option value="EEUU">EEUU</option>
+                    <option value="Singapur">Singapur</option>
+                </select>
+            </p>
+            <p>¿Desea recibir notificaciones en su email?: <input type="radio" name="publi">Sí <input type="radio" name="publi">No</p>
+            <p>A partir de que hora podemos contactar: <input type="time"></p>
+            <input type="submit">
+            <input type="reset">
+        </fieldset>
+        </form>
+        <hr>
+    </section>
+    <footer>
+        <a href="https://wwf.es">Socios</a>
+        <a href="mailto:email@socios.es"l>Contacto por Email</a>
+        <p>Teléfono +34 652 000 000</p>
+        <p>ASOANIMALES © 2021</p>
+    </footer>
+    
+</body>
+</html>

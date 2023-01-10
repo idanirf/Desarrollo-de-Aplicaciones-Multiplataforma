@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UD4-04 LMSGI-JAVASCRIPT</title>
+</head>
+<body>
+    <script>
+        var cadenaPrimaria = prompt("Introduce la cadena, para comprobar sí es palindromo o no: ")
+
+        function isPalindrome(cadena) {
+            cadena = cadena.toUpperCase();
+            var equals = true;
+            var i = 0;
+            var newCad = ""
+
+            while (equals && i < cadena.length) {
+                if (cadena[i] == cadena[cadena.length - i - 1]) {
+                    i++
+                }else{
+                    equals = false;
+
+                }
+            }
+
+            return equals;
+        }
+        var palindromo = isPalindrome(cadenaPrimaria)
+        if(palindromo){
+            alert("La cadena es palindromo")
+            }else{
+                alert("La cadena no es palindromo")
+        }
+    </script>
+</body>
+</html>

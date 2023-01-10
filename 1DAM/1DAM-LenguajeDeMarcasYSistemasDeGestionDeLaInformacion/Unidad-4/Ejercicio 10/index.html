@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es-Es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 10 - LMSGI UD4</title>
+    <script>
+        var cadena = prompt('Introduce la cadena nene').toLocaleUpperCase();
+        var letras =["A", "B", "C", "D", "E", "F", "G", "H", "I", "J","K", "L", "M", "N", "O", "P","Q", "R", "S", "T", "U", "V", "W", "Y","X","Z"];
+        var contador = 0;
+        for (let i = 0; i < letras.length; i++){
+            for (let j = 0; j < cadena.length; j++){
+                if(letras[i]==cadena[j]){
+                    contador++
+                }
+            }
+            document.write('<br>Letra ' + letras[i] + ': ' + contador)
+            contador = 0;
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>

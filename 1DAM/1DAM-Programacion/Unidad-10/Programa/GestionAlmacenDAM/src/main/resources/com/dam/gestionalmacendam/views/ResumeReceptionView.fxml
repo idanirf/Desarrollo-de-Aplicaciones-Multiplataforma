@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="481.0" prefWidth="657.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.dam.gestionalmacendam.controllers.viewReception.ResumenReceptionController">
+    <children>
+        <Label layoutX="226.0" layoutY="25.0" prefHeight="53.0" prefWidth="205.0" text="Recepcion" underline="true">
+            <font>
+                <Font name="System Bold" size="36.0" />
+            </font>
+        </Label>
+        <GridPane layoutX="146.0" layoutY="80.0" prefHeight="103.0" prefWidth="327.0">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="241.0" minWidth="10.0" prefWidth="83.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="416.0" minWidth="10.0" prefWidth="141.0" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints />
+                <RowConstraints maxHeight="78.0" minHeight="10.0" prefHeight="33.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="74.0" minHeight="0.0" prefHeight="33.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="89.0" minHeight="0.0" prefHeight="40.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+            <children>
+                <Label prefHeight="27.0" prefWidth="103.0" text="Proveedor: " GridPane.rowIndex="1">
+                    <font>
+                        <Font name="System Bold Italic" size="18.0" />
+                    </font>
+                </Label>
+                <TextField fx:id="suplierName" prefHeight="25.0" prefWidth="277.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                <Label prefHeight="27.0" prefWidth="142.0" text="Carrier: " GridPane.rowIndex="2">
+                    <font>
+                        <Font name="System Bold Italic" size="18.0" />
+                    </font>
+                </Label>
+                <TextField fx:id="carrier" prefHeight="25.0" prefWidth="277.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            </children>
+        </GridPane>
+        <TableView fx:id="recepcionView" layoutX="16.0" layoutY="161.0" prefHeight="287.0" prefWidth="625.0">
+            <columns>
+                <TableColumn fx:id="articleCol" prefWidth="105.0" text="Producto" />
+                <TableColumn fx:id="cantCol" prefWidth="107.0" text="Cantidad" />
+                <TableColumn fx:id="unitCol" prefWidth="102.0" text="Precio .Ud" />
+                <TableColumn fx:id="totalCol" prefWidth="65.0" text="Precio .Tot" />
+                <TableColumn fx:id="recepCol" prefWidth="94.0" text="Recepcion" />
+                <TableColumn fx:id="rlic" prefWidth="151.0" text="RLIC" />
+            </columns>
+        </TableView>
+    </children>
+</AnchorPane>

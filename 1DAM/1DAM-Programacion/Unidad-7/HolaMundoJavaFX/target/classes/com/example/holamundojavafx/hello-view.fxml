@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import com.sun.javafx.scene.control.IntegerField?>
+<VBox alignment="CENTER" prefHeight="163.0" prefWidth="381.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/16" fx:controller="com.example.holamundojavafx.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+    <Label fx:id="welcomeText" />
+    <Label text="Nombre" />
+    <TextField fx:id="casNombre" promptText="Introduce tu nombre"/>
+    <Label text="Edad: " />
+    <TextField fx:id="casEdad" promptText="Introduce tu edad"/>
+    <Button fx:id="botonEnviar" onAction="#onBotonEntrar" text="Entrar" />
+</VBox>

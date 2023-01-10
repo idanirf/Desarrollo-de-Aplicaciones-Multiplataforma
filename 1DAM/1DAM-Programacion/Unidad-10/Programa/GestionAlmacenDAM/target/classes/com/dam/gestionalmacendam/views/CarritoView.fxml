@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.dam.gestionalmacendam.controllers.viewMainCustomer.ViewCarritoController">
+    <children>
+        <Label layoutX="51.0" layoutY="70.0" text="TUS PRODUCTOS">
+            <font>
+                <Font name="SansSerif Bold" size="22.0" />
+            </font>
+        </Label>
+        <ListView fx:id="listProducts" layoutX="51.0" layoutY="120.0" prefHeight="490.0" prefWidth="590.0" AnchorPane.bottomAnchor="109.0" AnchorPane.leftAnchor="51.0" AnchorPane.rightAnchor="640.0" AnchorPane.topAnchor="120.0" />
+        <ListView fx:id="listPrice" layoutX="710.0" layoutY="121.0" prefHeight="352.0" prefWidth="490.0" />
+        <Button fx:id="btnRealizarPedido" layoutX="710.0" layoutY="630.0" mnemonicParsing="false" onAction="#onPedidoAction" prefHeight="42.0" prefWidth="490.0" text="Realizar pedido">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Button>
+        <Label layoutX="728.0" layoutY="502.0" text="PRECIO FINAL:">
+            <font>
+                <Font name="System Bold" size="22.0" />
+            </font>
+        </Label>
+        <TextField fx:id="txtTotal" alignment="CENTER_RIGHT" layoutX="916.0" layoutY="497.0" prefHeight="42.0" prefWidth="284.0">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </TextField>
+      <Label layoutX="728.0" layoutY="571.0" text="Metodo de Pago:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <RadioButton fx:id="radioPaypal" layoutX="935.0" layoutY="571.0" mnemonicParsing="false" text="PAYPAL">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </RadioButton>
+      <RadioButton fx:id="radioCard" layoutX="1077.0" layoutY="571.0" mnemonicParsing="false" text="TARJETA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </RadioButton>
+    </children>
+</AnchorPane>

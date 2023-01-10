@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de alta de usuario</title>
+</head>
+<style>
+    .centrar{
+        text-align: center;
+    }
+</style>
+<body>
+    <h1>Formulario de alta de usuario:</h1>
+    <form action="get">
+    <table style="border: 2px black solid; border-collapse: separate;">
+        <tr>
+            <td>Identificador de nuevo usuario <input type="text"></td>
+        </tr>
+        <tr>
+            <td>Nombre <input type="text" placeholder="Nombre"></td>
+            <td>Apellido <input type="text" name="" id=""></td>
+        </tr>
+        <tr>
+            <td>Contraseña <input type="password"></td>
+            <td>Confirmar contraseña <input type="password" name="" id=""></td>
+        </tr>
+        <tr>
+            <td>Email <input type="email"></td>
+        </tr>
+        <tr>
+            <td>Sexo</td>
+            <td><input type="radio" value="mujer" checked>Mujer<input type="radio" value="varon">Varón</td>
+        </tr>
+        <tr>
+            <td>Aficciones</td>
+            <td><input type="checkbox">Deporte <br> <input type="checkbox">Lectura <br> <input type="checkbox"> Cine</td>
+        </tr>
+        <tr>
+            <td>País</td>
+            <td>
+                <select name="pais">
+                    <option value="SL">Selecciona pais</option>
+                    <option value="AF">Afganistán</option>
+                    <option value="AL">Albania</option>
+                    <option value="DE">Alemania</option>
+                    <option value="AD">Andorra</option>
+                    <option value="AO">Angola</option>
+                    <option value="AI">Anguilla</option>
+                    <option value="AQ">Antártida</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Colores favoritos</td>
+            <td>
+                <select name="seleccion" multiple>
+                    <option value="RJ">Rojo</option>
+                    <option value="VD">Verde</option>
+                    <option value="AZ">Azul</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Subir su foto</td>
+            <td><input type="file"></td>
+        </tr>
+        <tr>
+            <td>Comentatios personales</td>
+            <td><textarea placeholder="Escribe aquí..."></textarea></td>
+        </tr>
+        <tr>
+            <td class="centrar"><input type="reset" value="Resetear"></input></td>
+            <td class="centrar"><input type="submit" value="Enviar"></input></td>
+        </tr>
+        <tr class="centrar" >
+            <td colspan="2"><input type="submit" value="Modificar datos del usuario" disabled></input></td>
+            <td></td>
+        </tr>
+
+    </table>
+</form>
+</body>
+</html>

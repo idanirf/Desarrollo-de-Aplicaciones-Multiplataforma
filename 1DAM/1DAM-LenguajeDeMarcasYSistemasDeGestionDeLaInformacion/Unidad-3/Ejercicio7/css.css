@@ -1,0 +1,83 @@
+#cajaGeneral{
+    border: 2px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: #e0dcec;
+
+
+}
+
+#acceso{
+    background-color: #405c9c;
+    color: white;
+    line-height:8px;
+    height: 90px;
+
+}
+
+#correo{
+    width: 33%;
+    float: left;
+    padding-left:12px;
+    line-height:8px;
+
+
+}
+#contraseña{
+    float: left;
+    width: 33%;
+    line-height:8px;
+
+}
+#envio{
+    width: 30%;
+    margin-left: 80%;
+    padding-top: 25px;
+
+}
+#formulario{
+    padding-left: 40px;
+    padding-right: 40px;
+    line-height:12px;
+    text-align:right;
+    padding-right: 40%;
+    line-height:12px;
+
+}
+#registro{
+    padding-left:20px;
+}
+
+.sp{
+    text-align:right;
+}
+
+ h1, h2{
+    color:#405c9c;
+}
+
+ span{
+    color:#405c9c;
+    font-weight:bold;
+}
+
+.fcnac{
+    color: rgb(128, 0, 85);
+    text-decoration:underline;
+}
+#ctr{
+    text-decoration:underline;
+}
+.verde{
+    background-color:green;
+    color: white;
+}
+
+.blue{
+    background-color:rgb(67, 67, 245);
+    color: white;
+}
+
+.sp2{
+    text-align:left;
+}

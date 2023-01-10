@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" minHeight="0.0" minWidth="0.0" prefHeight="610.0" prefWidth="561.0"
+            xmlns="http://javafx.com/javafx/18"
+            fx:controller="com.dam.gestionalmacendam.controllers.viewCustomer.NewCustomerController">
+    <children>
+        <Label layoutX="106.0" layoutY="40.0" text="Nuevo Cliente" textAlignment="CENTER" wrapText="true">
+            <font>
+                <Font name="System Bold" size="36.0"/>
+            </font>
+        </Label>
+        <Label layoutX="62.0" layoutY="125.0" text="Nombre">
+            <font>
+                <Font name="System Bold" size="13.0"/>
+            </font>
+        </Label>
+        <TextField fx:id="txtName" layoutX="152.0" layoutY="122.0" prefHeight="26.0" prefWidth="225.0"/>
+        <Label layoutX="62.0" layoutY="175.0" text="Apellidos">
+            <font>
+                <Font name="System Bold" size="13.0"/>
+            </font>
+        </Label>
+        <TextField fx:id="txtSurname" layoutX="152.0" layoutY="172.0" prefHeight="26.0" prefWidth="225.0"/>
+        <Label layoutX="62.0" layoutY="225.0" text="CIF">
+            <font>
+                <Font name="System Bold" size="13.0"/>
+            </font>
+        </Label>
+        <TextField fx:id="txtCif" layoutX="152.0" layoutY="222.0" prefHeight="26.0" prefWidth="225.0"/>
+        <Label layoutX="62.0" layoutY="275.0" text="Nick">
+            <font>
+                <Font name="System Bold" size="13.0"/>
+            </font>
+        </Label>
+        <TextField fx:id="txtNick" layoutX="152.0" layoutY="272.0" prefHeight="26.0" prefWidth="225.0"/>
+        <Label layoutX="62.0" layoutY="325.0" text="Contraseña">
+            <font>
+                <Font name="System Bold" size="13.0"/>
+            </font>
+        </Label>
+        <PasswordField fx:id="txtPassword" layoutX="152.0" layoutY="322.0" prefHeight="26.0" prefWidth="225.0"/>
+        <Label layoutX="62.0" layoutY="375.0" text="Dirección">
+            <font>
+                <Font name="System Bold" size="13.0"/>
+            </font>
+        </Label>
+        <TextField fx:id="txtDirection" layoutX="152.0" layoutY="372.0" prefHeight="25.0" prefWidth="225.0"/>
+        <Label layoutX="62.0" layoutY="425.0" text="Email">
+            <font>
+                <Font name="System Bold" size="13.0"/>
+            </font>
+        </Label>
+        <TextField fx:id="txtEmail" layoutX="152.0" layoutY="422.0" prefHeight="26.0" prefWidth="225.0"/>
+        <Label layoutX="62.0" layoutY="475.0" text="Teléfono">
+            <font>
+                <Font name="System Bold" size="13.0"/>
+            </font>
+        </Label>
+        <TextField fx:id="txtPhone" layoutX="152.0" layoutY="472.0" prefHeight="26.0" prefWidth="225.0"/>
+        <Button layoutX="455.0" layoutY="544.0" mnemonicParsing="false" onAction="#onAceptarAction" text="Aceptar">
+            <font>
+                <Font name="System Bold" size="14.0"/>
+            </font>
+        </Button>
+        <ImageView fx:id="imgView" fitHeight="135.0" fitWidth="106.0" layoutX="419.0" layoutY="29.0"
+                   onMouseClicked="#onClickImg" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../images/user_default.png"/>
+            </image>
+        </ImageView>
+        <CheckBox fx:id="isActive" layoutX="62.0" layoutY="548.0" mnemonicParsing="false" text="Activo">
+            <font>
+                <Font name="System Bold" size="14.0"/>
+            </font>
+        </CheckBox>
+    </children>
+</AnchorPane>

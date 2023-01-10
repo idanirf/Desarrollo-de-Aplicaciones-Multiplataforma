@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 17 - LMSGI UD4</title>
+</head>
+<body>
+    <script>
+        var i;
+        var numeros = new Array();
+        var final = prompt("¿Cuántos numeros?");
+        for (i = 0; i < final; i++){
+
+            numeros[i] = prompt("Dame un nuevo número: ");
+        }
+            document.write("<h2>Contenido del array ...</h2> <br>");
+            for (i =0 ; i < numeros.length; i++){
+                document.write(numeros[i]+ " ");
+            }
+            document.write("<h2> Al revés ...</h2>");
+            for (i = final-1; i>=0; i--){
+                document.write(numeros[i]+ " ");
+            }
+        
+    </script>
+</body>
+</html>

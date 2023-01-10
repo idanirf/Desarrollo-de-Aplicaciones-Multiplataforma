@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 11 - UD4 LMSGI</title>
+    <script>
+        function aviso () {
+            var reg = new RegExp("([1-9]|[0-9][0-9]|100)$");
+            var form = document.getElementById("numero").value;
+            if(!reg.test(form)) {
+                alert("Debes introducir un número entre 1 y 100")
+            } else {
+                alert("Número correcto")
+            }
+        }
+    </script>
+</head>
+<body>
+    <form name="numberform">
+        <p>Introduce un Número: </p>
+        <input type="text" id="numero" name="texto">
+        <input type="submit" name="botonEnviar" onclick="aviso();" value="Enter">
+    </form>
+</body>
+</html>

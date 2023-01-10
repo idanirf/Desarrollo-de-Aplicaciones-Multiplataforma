@@ -1,0 +1,52 @@
+@startuml
+
+
+class Ticket {
+    idNumber
+    idNumberContador
+    precioEntrada
+    Butaca Butaca
+
+    toString()
+}
+
+class Sala{
+    NUMERO_FILAS = 5;
+    NUMERO_COLUMNAS = 9;
+    Butaca[][] matrizSala;
+    numeroButacas = 0;
+    precioEntradas = 6;
+    contabilidad;
+    butacaLibre;
+    butacaReservada;
+    butacaOcupada;
+
+    registroButaca()
+    leerSalaCompleta()
+    seleccionarColumna()
+    seleccionarFila()
+    isLibre()
+    comprarEntradas()
+    reservarEntradas()
+    isReservada()
+    confirmarReserva()
+    anularReserva()
+    anularEntradas()
+    stadisticasOcupacion()
+
+}
+
+class Butaca{
+int fila
+int columna
+
+butacaRandom()
+toString()
+}
+
+
+Ticket-->Sala
+Butaca-->Sala
+Ticket <-->Butaca
+
+@enduml1

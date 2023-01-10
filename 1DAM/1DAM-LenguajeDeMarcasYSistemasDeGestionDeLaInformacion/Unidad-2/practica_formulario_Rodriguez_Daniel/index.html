@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Registro</title>
+    <style>
+        .borde {
+            width: 70%;
+            border: black 4px solid;
+            background-color: rgb(248, 190, 120);
+            text-align: center;
+            height: 428px;
+            color: aliceblue;
+            font-size: 40px;
+            margin-left: 6em;
+
+
+
+        }
+
+        .fr {
+            text-align: center;
+            font-size: 10px;
+            color: white;
+            width: 100%;
+            height: 443px;
+            color: black;
+            font-size: 12px;
+        }
+
+        .blq1 {
+            width: 35.8%;
+            border: black 1px solid;
+            background-color: aliceblue;
+            float: left;
+            color: black;
+            font-size: 16px;
+            text-align: left;
+            height: 300px;
+        }
+
+        .blq2 {
+            width: 36.8%;
+            border: black 1px solid;
+            background-color: aliceblue;
+            float: left;
+            color: black;
+            font-size: 17px;
+            text-align: left;
+            height: 300px;
+        }
+
+        .blq3 {
+            width: 26.8%;
+            border: black 1px solid;
+            background-color: aliceblue;
+            float: right;
+            color: black;
+            font-size: 16px;
+            text-align: left;
+            height: 300px;
+        }
+
+        .tablaps {
+            border: black 1px solid;
+        }
+
+        .letrablq2 {
+            color: rgb(248, 190, 120);
+            ;
+        }
+
+        .botones {
+            text-align: center;
+        }
+
+        .table,
+        th {
+            border: black 1px solid;
+            background-color: blue;
+            color: white;
+            text-align: right;
+
+            width: 60%;
+
+        }
+
+        .th,
+        td,
+        table {
+            border-collapse: collapse;
+        }
+
+        .tablaps2 {
+            width: 100%;
+        }
+
+        .sp {
+            width: 40%
+        }
+
+        .obs {
+            border: solid black 1px;
+            border-collapse: collapse;
+            background-color: aliceblue;
+            color: black;
+            width: 100%;
+            text-align: left;
+        }
+
+        .sa {
+            width: 33.5%;
+            background-color: aliceblue;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="get">
+        <div class="borde">
+            <p class="tit">Formulario de registro</p>
+
+            <div class="blq1">
+                <table class="tablaps2">
+                    <tr>
+                        <th class="sp">Nombre</th>
+                        <td class="sp1"><input type="text" size="32px"></td>
+                    </tr>
+                    <tr>
+                        <th class="sp">Email</th>
+                        <td class="sp1"><input type="email" size="32px"></td>
+                    </tr>
+                    <tr>
+                        <th class="sp">Clave</th>
+                        <td class="sp1"><input type="password" size="32px"></td>
+
+                    </tr>
+                </table>
+                <table class="obs">
+                    <tr>
+                        <th class="sa"></th>
+                        <td class="obs"><img style="border: 1px solid; color: black" src="imagenes/html.png" alt="20"
+                                height="45px"></td>
+                    </tr>
+                    <tr>
+                        <th class="sa"></th>
+                        <td class="obs"><img src="imagenes/css.png" alt="20" height="45px"></td>
+                    </tr>
+                    <tr>
+                        <th class="obs" colspan="2">Observaciones</th>
+                    </tr>
+                </table>
+                <textarea name="" id="" cols="48.8" rows="6.9"></textarea>
+            </div>
+            <div class="blq2">
+                <table class="tablaps">
+                    <tr>
+                        <th>Apellidos</th>
+                        <td><input type="text"></td>
+                    </tr>
+                    <tr>
+                        <th>Confirmar e-mail</th>
+                        <td><input type="email" width="22px"></td>
+                    </tr>
+                    <tr>
+                        <th>Confirmar clave</th>
+                        <td><input type="password" width="22px"></td>
+
+                    </tr>
+                </table>
+
+                <p><i><b>En este párrafo </b></i>se describen las normativas referentes a la LOPD para los datos de
+                    carácter personal del usuario.</p>
+                <p class="letrablq2"><b>En este otro parrafo</b> se describe la vigencia del registro por parte del
+                    usuario</p>
+                <p>Para terminar este parrafo contiene el Copyright ©</p>
+                <div class="botones">
+                    <input type="submit" value="Enviar"></input>
+                    <input type="reset" value="Borrar datos"></input>
+                </div>
+            </div>
+            <div class="blq3">
+                <p>Esto es un formulario de registro, datos a tener en cuenta:</p>
+                <ul>
+                    <li>El campo Nombre es Obligatorio</li>
+                    <li>Se debe incluir un e-ail valido</li>
+                    <li>La Clave debe ser igual o superior a 8 caracteres</li>
+                    <br>
+                </ul>
+                <p>Las normas a seguir a la hora de rellenar este formulario son las siguientes:</p>
+                <ol>
+                    <li>El campo Nombre es Obligatorio</li>
+                    <li>Se debe incluir en e-mail válido</li>
+                    <li>La clave debe ser igual o superior a 8 caracteres</li>
+                </ol>
+            </div>
+        </div>
+</body>
+
+</html>

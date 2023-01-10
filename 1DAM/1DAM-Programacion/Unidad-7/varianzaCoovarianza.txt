@@ -1,0 +1,12 @@
+Varianza y covarianza
+
+Tengo un perro y devuelvo un perro -> invariante
+Con los return podemos ir hacia abajo -> co-varianza
+Pasando por parámetro hacia arriba -> contravarianza.
+
+Con put y get se suele aplicar el invariante.
+Si solo se va a producir se suele aplicar la co-varianza
+Sí voy a consumir se suele aplicar la contra-varianza.
+
+Contratan en clinica veterinaria, hay una lista de espera, como diseñar para que funcione correctamente y cuantos castings necesita.
+Perro, Gato, Caniche.

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 20 - LMSGI JavaScript</title>
+</head>
+<body>
+    <script>
+        function colores(color){
+            document.bgColor = color;
+        }
+        function reset(){
+            res.reset()
+        }
+
+    </script>
+    <form id="form" action="">
+    <input id="1" type="radio" value="Blanco" onclick="colores('white')"><label>Blanco</label>
+    <br>
+    <input id="2" type="radio" value="Rojo" onclick="colores('red')"><label>Rojo</label>
+    <br>
+    <input id="3" type="radio" value="Verde" onclick="colores('green')"><label>Verde</label>
+    <br>
+    <input id="4" type="radio" value="Azul" onclick="colores('blue')"><label>Azul</label>
+    <br>
+    <input id="5" type="radio" value="Amarillo" onclick="colores('yellow')"><label>Amarillo</label>
+    <br>
+    <input id="6" type="radio" value="Turquesa" onclick="colores('turque')"><label>Turquesa</label>
+    <br>
+    <input id="7" type="radio" value="Morado" onclick="colores('purple')"><label>Morado</label>
+    <br>
+    <input id="8" type="radio" value="Negro" onclick="colores('black')"><label>Negro</label>
+    <br>
+    <br>
+    <input id="res" type="button" value="RESET" value="Cambia color" onclick="reset(), colores('white')">
+    </form>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta author content = "Daniel Rodríguez Fernández">
+    <title>Ejercicio 12 - LMSGI UD4</title>
+</head>
+<body>
+    <h1>El Array sin números repetidos</h1>
+
+    <script>
+        var original = [1,1,1,2,2,3,3,5,6]
+        var resultado = [];
+
+        document.write("Array original: ");
+        for(i = 0; i < original.length; i++){
+            document.write(original[i]);
+            document.write(" ");
+        }
+
+        document.write("</br>");
+        for(var i = 0; i <original.length; i++){
+            var numero = original[i];
+           if(!resultado.includes(original[i])){
+                resultado.push(numero);
+            }
+        }
+        document.write("Array resultado: " +resultado);
+    </script>
+</body>
+</html>

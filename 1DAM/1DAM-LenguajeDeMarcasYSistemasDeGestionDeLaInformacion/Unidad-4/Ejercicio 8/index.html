@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 8 - UD4 LMSGI</title>
+</head>
+<body>
+    <script>
+        var a = [34,54,12,85,45]
+        var resultado = new Array();
+        var i,j;
+        var max;
+
+        document.write("El array original es: ");
+        for (i = 0; i < a.length; i++) {
+            document.write(a[i]);
+            document.write(" ");
+        }
+        document.write("</br>");
+        for (i = 0; i < a.length; i++) {
+            max = 0;
+            for (j = 1; j <a.length; j++){
+                if(a[j]>a[max]){
+                    max = j;
+                }
+            }
+            resultado[i] = max;
+            a[max]=-100;
+        }
+        document.write("El array resultado es: ");
+        for (i = 0; i < resultado.length; i++) {
+            document.write(resultado[i]);
+            document.write(" ");
+        }
+    </script>
+</body>
+</html>

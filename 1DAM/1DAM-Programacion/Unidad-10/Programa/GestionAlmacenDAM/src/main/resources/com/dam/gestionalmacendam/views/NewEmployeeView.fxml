@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.*?>
+<Pane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+      minWidth="-Infinity"
+      prefHeight="507.0" prefWidth="561.0" xmlns="http://javafx.com/javafx/16"
+      fx:controller="com.dam.gestionalmacendam.controllers.viewEmployee.NewEmployeeController">
+    <children>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="507.0" prefWidth="561.0">
+            <children>
+                <Label layoutX="42.0" layoutY="117.0" text="Nombre">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="42.0" layoutY="158.0" text="Apellidos">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="42.0" layoutY="284.0" text="NIF">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="41.0" layoutY="326.0" text="Email">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="41.0" layoutY="200.0" text="Nick">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="41.0" layoutY="242.0" text="Password">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="11.0" layoutY="29.0" text="Nuevo Empleado" textAlignment="CENTER" wrapText="true">
+                    <font>
+                        <Font name="System Bold" size="36.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="nombre" layoutX="130.0" layoutY="113.0" prefHeight="26.0" prefWidth="227.0"/>
+                <TextField fx:id="surname" layoutX="131.0" layoutY="154.0" prefHeight="26.0" prefWidth="226.0"/>
+                <TextField fx:id="nick" layoutX="132.0" layoutY="196.0" prefHeight="26.0" prefWidth="223.0"/>
+                <PasswordField fx:id="password" layoutX="132.0" layoutY="238.0" prefHeight="26.0" prefWidth="224.0"/>
+                <TextField fx:id="nif" layoutX="131.0" layoutY="280.0" prefHeight="26.0" prefWidth="225.0"/>
+                <TextField fx:id="email" layoutX="130.0" layoutY="322.0" prefHeight="26.0" prefWidth="226.0"/>
+                <CheckBox fx:id="isManager" layoutX="42.0" layoutY="378.0" mnemonicParsing="false" text="Manager">
+                    <font>
+                        <Font name="System Bold" size="13.0"/>
+                    </font>
+                </CheckBox>
+                <Button layoutX="390.0" layoutY="442.0" mnemonicParsing="false" onAction="#onAceptarAction"
+                        text="Aceptar">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </Button>
+                <ImageView fx:id="imagePerfil" fitHeight="93.0" fitWidth="96.0" layoutX="432.0" layoutY="29.0"
+                           onMouseClicked="#onClickImg" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../images/user.png"/>
+                    </image>
+                </ImageView>
+                <CheckBox layoutX="132.0" layoutY="378.0" mnemonicParsing="false" text="Activo" fx:id="isActive">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </CheckBox>
+            </children>
+        </AnchorPane>
+    </children>
+</Pane>

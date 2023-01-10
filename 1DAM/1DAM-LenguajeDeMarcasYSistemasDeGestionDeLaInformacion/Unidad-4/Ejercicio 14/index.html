@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 14 JavaScript - LMSGI</title>
+    <script>
+        function confirmar () {
+            return confirm(("Vamos de camino al IES LUIS VIVES"))
+        }
+
+        function imprimir(){
+            window.print();
+        }
+
+        window.setInterval(parpadea, 1000);
+        var color = "navy";
+        function parpadea(){
+            var blink = document.getElementById ("blink");
+            color = (color == "#0ED1E")? "navy" : "#0EDE1E";
+            blink.style.color = color;
+            blink.style.fontSize='26px';
+        }
+    </script>
+</head>
+<body>
+    <h1>Unos ejemplillos de JavaScript</h1>
+    <p>Botón de imprimir página</p>
+    <input type="button" value="Print page" onclick="imprimir()">
+    <p>Al pulsar el siguiente vinculo sale un mensaje y después pues donde te lleve.</p>
+    <a href="https://iesluisvives.es/" onclick="confirmar();">Vínculo</a>
+    <div id="blink">Ve al Maravilloso IES LUIS VIVES, te espera</div>
+</body>
+</html>

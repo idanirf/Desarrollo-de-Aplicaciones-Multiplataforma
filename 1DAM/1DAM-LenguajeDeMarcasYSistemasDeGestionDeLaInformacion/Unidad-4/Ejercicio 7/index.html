@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 7 - LMSGI UD5</title>
+    <script type="text/javascript">
+    function mouseOver(color){
+        const bg = color.style.backgroundColor;
+        document.getElementById("todo").style.backgroundColor = bg;
+    }
+    function mouseOut(){
+        document.getElementById("todo").style.backgroundColor ="white";
+    }
+    </script>
+     
+
+</head>
+<body id="todo">
+    <h1>Evento "onMouseOver"</h1>
+    <hr>
+    <p>Uso del evento "onMouseOver" para cambiar el color de fondo moviendo el ratón sobre la imágen</p>
+    <div id="bl" style="background-color:aliceblue; 
+    border-radius: 1px solid aliceblue;
+    height: 50px;
+    width:50px;
+    float: left;
+    " onMouseOver="mouseOver(this)" onMouseOut="mouseOut()">
+    </div>
+
+    <div id="rd" style="background-color: red; 
+    border-radius: 1px solid red;
+    height: 50px;
+    width:50px;
+    margin-left: 12px;
+    float: left;
+    " onMouseOver="mouseOver(this)" onMouseOut="mouseOut()">
+    </div>
+
+    <div id="am" style="background-color: yellow; 
+    border-radius: 1px solid yellow;
+    height: 50px;
+    width:50px;
+    margin-left: 12px;
+    float: left;
+    " onMouseOver="mouseOver(this)" onMouseOut="mouseOut()">
+    </div>
+
+    <div id="gr" style="background-color: green; 
+    border-radius: 1px solid green;
+    height: 50px;
+    width:50px;
+    margin-left: 12px;
+    float: left;
+    " onMouseOver="mouseOver(this)" onMouseOut="mouseOut()">
+    </div>
+
+    <div id="az" style="background-color: blue; 
+    border-radius: 1px solid blue;
+    height: 50px;
+    width:50px;
+    margin-left: 12px;
+    float: left;
+    " onMouseOver="mouseOver(this)" onMouseOut="mouseOut()">
+    </div>
+    <br style="clear: both;">
+    <hr>
+    
+</body>
+</html>

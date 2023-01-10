@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 19 - LMSGI JavaScript</title>
+</head>
+<body>
+    <script>
+        function fecha(){
+            var textA = document.getElementById("textA");
+            var textB = document.getElementById("textB")
+            var h = new Date();
+            textA.innerHTML = "Me gusta mucho ek juego que da JS"
+            textB.innerHTML = h;
+            textA.style.color = "red"
+        }
+            function bombilla(){
+                element = document.getElementById("apaga")
+                if (element.src.match("img/encendida.png")){
+                    element.src = "img/apagada.png";
+                }else{
+                    element.src = "img/encendida.png"
+                }
+            }
+        
+    </script>
+
+
+    <p id="textA">Prueba</p>
+
+    <input type="button" value="OK" onclick="fecha()"><labe> Fecha</label>
+
+    <p id="textB"></p>
+    <hr>
+    <img id ="apaga" src="img/apagada.png" onclick="bombilla()">
+
+
+    
+    
+</body>
+</html>

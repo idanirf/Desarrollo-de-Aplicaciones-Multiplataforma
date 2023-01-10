@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<Pane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+      minWidth="-Infinity"
+      prefHeight="720.0" prefWidth="1280.0"
+      xmlns="http://javafx.com/javafx/16"
+      fx:controller="com.dam.gestionalmacendam.controllers.menus.MenuEmployeeController">
+    <children>
+        <AnchorPane prefHeight="108.0" prefWidth="1280.0" style="-fx-background-color: #ffffff;">
+            <children>
+                <MenuBar prefWidth="1280.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+                         AnchorPane.topAnchor="0.0">
+                    <menus>
+                        <Menu mnemonicParsing="false" text="Salir">
+                            <items>
+                                <MenuItem mnemonicParsing="false" onAction="#onSalirAction" text="Salir"/>
+                            </items>
+                        </Menu>
+                        <Menu mnemonicParsing="false" text="Herramientas">
+                            <items>
+                                <MenuItem mnemonicParsing="false" text="Importar" onAction="#onImportarAction"/>
+                                <MenuItem mnemonicParsing="false" text="Exportar" onAction="#onExportarAction"/>
+                            </items>
+                        </Menu>
+                        <Menu mnemonicParsing="false" text="Acerca de">
+                            <items>
+                                <MenuItem mnemonicParsing="false" onAction="#onAcercaDe" text="Acerca De"/>
+                            </items>
+                        </Menu>
+                    </menus>
+                </MenuBar>
+                <ImageView fitHeight="80.0" fitWidth="131.0" layoutX="6.0" layoutY="29.0" pickOnBounds="true"
+                           preserveRatio="true">
+                    <image>
+                        <Image url="@../images/logo.png"/>
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="57.0" fitWidth="57.0" layoutX="1181.0" layoutY="30.0" pickOnBounds="true"
+                           preserveRatio="true" AnchorPane.bottomAnchor="21.0" AnchorPane.leftAnchor="1181.0"
+                           AnchorPane.rightAnchor="42.0" AnchorPane.topAnchor="30.0">
+                    <image>
+                        <Image url="@../images/user.png"/>
+                    </image>
+                </ImageView>
+                <Label fx:id="nickname" alignment="CENTER_RIGHT" disable="true" layoutX="989.0" layoutY="32.0"
+                       prefHeight="26.0" prefWidth="173.0" text="NICK" textAlignment="RIGHT"
+                       AnchorPane.bottomAnchor="50.0" AnchorPane.leftAnchor="989.0" AnchorPane.rightAnchor="118.0"
+                       AnchorPane.topAnchor="32.0">
+                    <font>
+                        <Font name="System Bold" size="14.0"/>
+                    </font>
+                </Label>
+                <Label disable="true" layoutX="1102.0" layoutY="59.0" prefHeight="26.0" prefWidth="60.0" text="Employee"
+                       textFill="#737373" AnchorPane.bottomAnchor="22.6" AnchorPane.leftAnchor="1102.0"
+                       AnchorPane.rightAnchor="118.0" AnchorPane.topAnchor="59.00000000000001">
+                    <font>
+                        <Font name="System Bold" size="12.0"/>
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+        <AnchorPane layoutY="108.0" prefHeight="612.0" prefWidth="1280.0" style="-fx-background-color: #ffffff;">
+            <children>
+                <Button alignment="CENTER" layoutX="850.0" layoutY="147.0" mnemonicParsing="false"
+                        onAction="#openOperationPedidos" prefHeight="80.0" prefWidth="235.0" text="Pedidos"
+                        AnchorPane.bottomAnchor="385.0" AnchorPane.leftAnchor="850.0"
+                        AnchorPane.rightAnchor="194.79999999999995" AnchorPane.topAnchor="147.0">
+                    <font>
+                        <Font name="System Bold" size="24.0"/>
+                    </font>
+                </Button>
+                <Button layoutX="161.0" layoutY="147.0" mnemonicParsing="false" onAction="#openOperationArticles"
+                        prefHeight="80.0" prefWidth="235.0" text="Artículos" AnchorPane.bottomAnchor="385.0"
+                        AnchorPane.leftAnchor="161.0" AnchorPane.rightAnchor="883.8" AnchorPane.topAnchor="147.0">
+                    <font>
+                        <Font name="System Bold" size="24.0"/>
+                    </font>
+                </Button>
+                <Button layoutX="522.0" layoutY="306.0" mnemonicParsing="false" onAction="#openOperationClientes"
+                        prefHeight="80.0" prefWidth="235.0" text="Clientes" AnchorPane.bottomAnchor="226.0"
+                        AnchorPane.leftAnchor="522.0" AnchorPane.rightAnchor="522.8" AnchorPane.topAnchor="306.0">
+                    <font>
+                        <Font name="System Bold" size="24.0"/>
+                    </font>
+                </Button>
+                <Button layoutX="522.0" layoutY="147.0" mnemonicParsing="false" onAction="#openOperationRecepciones"
+                        prefHeight="80.0" prefWidth="235.0" text="Recepciones" AnchorPane.bottomAnchor="385.0"
+                        AnchorPane.leftAnchor="522.0" AnchorPane.rightAnchor="522.8" AnchorPane.topAnchor="147.0">
+                    <font>
+                        <Font name="System Bold" size="24.0"/>
+                    </font>
+                </Button>
+                <Label layoutX="430.0" layoutY="25.0" text="MENÚ DE OPERACIONES" AnchorPane.bottomAnchor="533.4"
+                       AnchorPane.leftAnchor="430.0" AnchorPane.rightAnchor="430.0"
+                       AnchorPane.topAnchor="25.00000000000002">
+                    <font>
+                        <Font name="System Bold" size="36.0"/>
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+    </children>
+</Pane>

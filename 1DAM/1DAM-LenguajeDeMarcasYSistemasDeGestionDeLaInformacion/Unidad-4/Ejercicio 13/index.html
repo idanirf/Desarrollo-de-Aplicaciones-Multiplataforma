@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 12 - LMSGI UD4</title>
+</head>
+<body>
+    <script>
+        function muestraOculta(id) {
+            var elemento = document.getElementById('contenidos_' + id)
+            var enlace = document.getElementById('enalce_' + id)
+
+            if(elemento.style.display == "" || elemento.style.display == "block"){
+                elemento.style.display="none";
+                enlace.innerHTML = 'Mostrar contenidos';
+            } else {
+                elemento.style.display = "block"
+                enlace.innerHTML = 'Ocultar contenidos'
+            }  
+        }
+</script>
+
+        <p id="contenidos_1"> 1. Estoy aquí en Lenguaje de marcas un día más haciendo JavaScript. En menos de una hora ya estoy de vacaciones de semana santa, 
+        para mi yo del futuro estoy en la clase de cuando estaba en 2SMRB en el IES LUIS VIVES y ahora en 1DAM también en el IES LUIS VIVES.</p>
+        <a id="enlace_1" href="#" onclick="muestraOculta('1')">Ocultar contenidos</a>
+            <br>
+        <p id="contenidos_2"> 2. Estoy aquí en Lenguaje de marcas un día más haciendo JavaScript. En menos de una hora ya estoy de vacaciones de semana santa, 
+        para mi yo del futuro estoy en la clase de cuando estaba en 2SMRB en el IES LUIS VIVES y ahora en 1DAM también en el IES LUIS VIVES.</p>
+        <a id="enlace_2" href="#" onclick="muestraOculta('2')">Ocultar contenidos</a>
+            <br>
+        <p id="contenidos_3"> 3. Estoy aquí en Lenguaje de marcas un día más haciendo JavaScript. En menos de una hora ya estoy de vacaciones de semana santa, 
+        para mi yo del futuro estoy en la clase de cuando estaba en 2SMRB en el IES LUIS VIVES y ahora en 1DAM también en el IES LUIS VIVES.</p>
+        <a id="enlace_3" href="#" onclick="muestraOculta('3')">Ocultar contenidos</a>
+
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+.estilo1{
+    border-top: thick green solid;
+    border-bottom: thick green solid;
+    border-left: thin green solid;
+    border-right:medium solid green;
+    border-left-style:dashed;
+    border-right-style: dotted;
+
+}
+
+.estilo2{
+    border-style: groove;
+    border: solid 8px red;
+}
+
+.titulo{
+    border: solid 3px blue;
+    color: rgb(89, 89, 255);
+}
+
+.estilo3{
+    border: solid 12px purple;
+    border-style: groove;
+}

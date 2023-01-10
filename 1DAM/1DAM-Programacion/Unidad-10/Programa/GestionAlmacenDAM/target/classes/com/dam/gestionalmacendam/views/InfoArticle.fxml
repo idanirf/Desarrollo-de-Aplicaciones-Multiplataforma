@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+            minWidth="-Infinity"
+            prefHeight="520.0" prefWidth="560.0" xmlns="http://javafx.com/javafx/16"
+            fx:controller="com.dam.gestionalmacendam.controllers.viewMainCustomer.ViewArticleController">
+    <children>
+        <ImageView fx:id="viewArticle" fitHeight="234.0" fitWidth="281.0" layoutX="35.0" layoutY="34.0"
+                   pickOnBounds="true">
+            <image>
+                <Image url="@../images/article_default.png"/>
+            </image>
+        </ImageView>
+        <VBox layoutX="309.0" layoutY="135.0" prefHeight="127.0" prefWidth="220.0">
+            <children>
+                <Label fx:id="txtNameArticle" alignment="TOP_RIGHT" contentDisplay="RIGHT" prefHeight="61.0"
+                       prefWidth="212.0" text="Nombre del Articulo" textAlignment="CENTER">
+                    <font>
+                        <Font name="SansSerif Bold" size="22.0"/>
+                    </font>
+                    <VBox.margin>
+                        <Insets bottom="8.0"/>
+                    </VBox.margin>
+                </Label>
+                <Label fx:id="txtStock" alignment="CENTER_RIGHT" contentDisplay="RIGHT" prefHeight="20.0"
+                       prefWidth="211.0" text="Stock: 10" textFill="#dd8d79">
+                    <font>
+                        <Font name="SansSerif Bold" size="16.0"/>
+                    </font>
+                </Label>
+                <Label fx:id="txtPrice" alignment="CENTER_RIGHT" contentDisplay="CENTER" prefHeight="30.0"
+                       prefWidth="209.0" text="Precio: 300,30€" textFill="#5ba2a4">
+                    <font>
+                        <Font name="System Bold" size="20.0"/>
+                    </font>
+                </Label>
+            </children>
+        </VBox>
+        <Label fx:id="txtDescription" alignment="TOP_LEFT" layoutX="35.0" layoutY="322.0" prefHeight="109.0"
+               prefWidth="483.0" style="-fx-border-color: #dedede;" text="Descripcion">
+            <font>
+                <Font size="14.0"/>
+            </font>
+            <padding>
+                <Insets bottom="9.0" left="9.0" right="9.0" top="9.0"/>
+            </padding>
+        </Label>
+        <Button fx:id="btnAddArticle" layoutX="367.0" layoutY="465.0" mnemonicParsing="false"
+                onAction="#btnAddArticleAction" prefHeight="32.0" prefWidth="155.0" text="Añadir al carrito"
+                textAlignment="CENTER">
+            <graphic>
+                <ImageView preserveRatio="true">
+                    <image>
+                        <Image url="@../images/añadir.png"/>
+                    </image>
+                </ImageView>
+            </graphic>
+        </Button>
+    </children>
+</AnchorPane>

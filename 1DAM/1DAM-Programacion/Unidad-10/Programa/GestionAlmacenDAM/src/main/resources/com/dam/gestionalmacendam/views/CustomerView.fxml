@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+            prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/18"
+            fx:controller="com.dam.gestionalmacendam.controllers.viewCustomer.CustomerViewController">
+    <children>
+        <VBox prefHeight="720.0" prefWidth="1280.0">
+            <children>
+                <AnchorPane prefHeight="696.0" prefWidth="1280.0">
+                    <children>
+                        <Label layoutX="53.0" layoutY="25.0" prefHeight="35.0" prefWidth="91.0" text="Buscar por CIC"/>
+                        <TextField fx:id="busqueda" layoutX="144.0" layoutY="25.0" onAction="#findByCIC"
+                                   prefHeight="35.0" prefWidth="330.0"/>
+                        <ButtonBar layoutX="640.0" layoutY="23.0" prefHeight="40.0" prefWidth="568.0">
+                            <buttons>
+                                <Button fx:id="btnMody" mnemonicParsing="false" onAction="#onModifyAction"
+                                        prefHeight="44.0" prefWidth="155.0" text="Modificar"/>
+                                <Button fx:id="btnAdd" mnemonicParsing="false" onAction="#onAddAction" prefHeight="44.0"
+                                        text="Crear Nuevo"/>
+                            </buttons>
+                        </ButtonBar>
+                        <AnchorPane layoutY="92.0" minHeight="0.0" minWidth="0.0" prefHeight="611.0" prefWidth="1280.0"
+                                    AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                    AnchorPane.rightAnchor="0.0">
+                            <children>
+                                <TableView fx:id="customerTable" prefHeight="599.0" prefWidth="1280.0">
+                                    <columns>
+                                        <TableColumn fx:id="tbCic" prefWidth="120.0" text="CIC"/>
+                                        <TableColumn fx:id="tbName" prefWidth="120.0" text="Nombre"/>
+                                        <TableColumn fx:id="tbSurname" minWidth="0.0" prefWidth="150.0"
+                                                     resizable="false" text="Apellidos"/>
+                                        <TableColumn fx:id="tbCif" minWidth="0.0" prefWidth="110.0" text="CIF"/>
+                                        <TableColumn fx:id="tbDirection" minWidth="2.4000244140625" prefWidth="150.0"
+                                                     text="Dirección"/>
+                                        <TableColumn fx:id="tbNick" minWidth="0.0" prefWidth="150.0"
+                                                     text="Nombre Usuario"/>
+                                        <TableColumn fx:id="tbPhone" minWidth="5.60003662109375" prefWidth="130.0"
+                                                     text="Teléfono"/>
+                                        <TableColumn fx:id="tbEmail" prefWidth="130.0" text="Email"/>
+                                        <TableColumn fx:id="tbCreateAt" prefWidth="130.0" text="Fecha Alta"/>
+                                        <TableColumn fx:id="tbActive" prefWidth="90.0" text="Activo"/>
+                                    </columns>
+                                </TableView>
+                            </children>
+                        </AnchorPane>
+                    </children>
+                </AnchorPane>
+            </children>
+        </VBox>
+    </children>
+</AnchorPane>

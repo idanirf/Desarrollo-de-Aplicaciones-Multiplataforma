@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es-Es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 17 - LMSGI JavaScript</title>
+</head>
+<body>
+    <h2>Tabla de Multiplicar</h2>
+    <script>
+        var num=prompt("Introduce número: ")
+        var i
+        document.write("<center> <hr> <h2> * TABLA DEL ", num, " *</h2> </hr></center> ")
+        document.write("<table border='2' align='center'>")
+            for (i=0; i<11; i++) {
+                document.write("<tr> <td>", num, " * ", i, "= </td><td>", (num * i), "</td> </tr>")
+            }
+            document.write("</table> <hr>")
+
+    </script>
+
+    
+</body>
+</html>

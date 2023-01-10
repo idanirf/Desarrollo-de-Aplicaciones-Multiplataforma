@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 5 UD4-LMSGI</title>
+    <script type="text/javascript"> 
+        function informar(){ 
+            var mensaje = "Usuario no encontrado ...";
+            var usuario = new Array(3);
+            var clave = new Array(3);
+
+                usuario[0]="CARLOS";
+                usuario[1]="JUAN";
+                usuario[2]="PEPE";
+
+                clave[0]="12345";
+                clave[1]="QWERTY";
+                clave[2]="98765";
+
+                for(var i = 0; i < usuario.length; i++){
+                    if((usuario[i]==document.miFormulario.usuario.value.toUpperCase()) && (clave[i]==document.miFormulario.password.value))
+                        mensaje = "Bienvenido al sistema";
+                        break;
+                }
+                
+                alert(mensaje);
+                documnent.miFormulario.clean.click();
+                document.miFormulario.usario.focus();
+            }
+    </script>
+</head>
+<body>
+  <H1>Registro</H1>
+    <form name="miFormulario" action="javascript:informar()">
+        <p>usuario:<input type="text" name="usuario"></p>
+        <p>Contraseña:<input type="password" name="password"></p>
+        <input type="submit" name="botonEnviar" value="Acceso">
+        <input type="reset" name="clean" value="Limpiar">
+    </form>    
+</body>
+</html>

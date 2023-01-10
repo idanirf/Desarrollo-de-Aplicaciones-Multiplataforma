@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 6 - LMSGI UD5</title>
+    <script>
+        function infor(){
+
+            var array_palabras = new Array();
+            var nueva_ventana;
+            var num_palabras;
+
+            array_palabras = miFormulario.miArea.value.split(" ");
+            num_palabras = array_palabras.length;
+        
+            var nueva_ventana = window.open("","","width=400, height=300, menubar=no");
+            nueva_ventana.document.write("<title>Array's</title>");
+            nueva_ventana.document.write("<center>");
+            nueva_ventana.document.write("<h3>Información sobre el texto introducido....:</h3>");
+            nueva_ventana.document.write("Número de palabras : ");
+            nueva_ventana.document.write("<b>"+num_palabras+ "</b>");
+            nueva_ventana.document.write("<br>Primera palabra : ");
+            nueva_ventana.document.write(array_palabras[0].bold())
+            nueva_ventana.document.write("<br>Última palabra : ");
+            nueva_ventana.document.write(array_palabras[num_palabras-1].bold());
+            nueva_ventana.document.write("<br>Colocadas al revés : <br>");
+            nueva_ventana.document.write(array_palabras.reverse().join("...").bold());
+            nueva_ventana.document.write("<br>Ordenadas de la 'a' a la 'z' : <br>");
+            nueva_ventana.document.write(array_palabras.sort().join("...").bold());
+            nueva_ventana.document.write("<br>Ordenadas de la 'z' a la 'a' : <br>");
+            nueva_ventana.document.write(array_palabras.sort().reverse().join("...").bold());
+            nueva_ventana.document.write("<h3>Hecho....:</h3>");
+            nueva_ventana.document.write("</center>");
+        }
+    </script>
+
+</head>
+<body>
+    <h1>Array's</h1>
+    <form name="miFormulario">
+        <h3>Introduce un texto: </h3>
+        <textarea name="miArea" cols="30" rows="10"></textarea>
+        <input type="button" value="Ver" name="miBoton "onclick="infor()">
+    </form>
+</body>
+</html>

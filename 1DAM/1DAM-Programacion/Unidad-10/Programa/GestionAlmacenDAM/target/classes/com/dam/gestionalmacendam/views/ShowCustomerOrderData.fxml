@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="680.0" prefWidth="870.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.dam.gestionalmacendam.controllers.viewMainCustomer.ShowCustomerOrderController">
+   <children>
+      <Label layoutX="97.0" layoutY="59.0" text="Tus Pedidos" AnchorPane.leftAnchor="97.0">
+         <font>
+            <Font name="SansSerif Bold" size="29.0" />
+         </font>
+      </Label>
+      <ListView fx:id="listOrder" layoutX="97.0" layoutY="116.0" prefHeight="470.0" prefWidth="680.0" AnchorPane.bottomAnchor="94.0" AnchorPane.topAnchor="116.0" />
+      <Label fx:id="labelNotOrder" layoutX="257.0" layoutY="249.0" opacity="0.54" text="No Tiene Ningún Pedido">
+         <font>
+            <Font name="SansSerif Regular" size="33.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnTicket" layoutX="551.0" layoutY="654.0" mnemonicParsing="false" onAction="#onTicketAction" prefHeight="35.0" prefWidth="226.0" text="IMPRIMIR TICKET" textAlignment="CENTER" AnchorPane.bottomAnchor="30.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+         <opaqueInsets>
+            <Insets right="20.0" />
+         </opaqueInsets>
+      </Button>
+   </children>
+</AnchorPane>

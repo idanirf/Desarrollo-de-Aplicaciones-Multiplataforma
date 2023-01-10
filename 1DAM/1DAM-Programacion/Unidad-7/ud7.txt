@@ -1,0 +1,97 @@
+OBSERVER
+------------
+
+EVENTOS:
+----------
+Un evento es algo que se produce pero no sabes cuando, cuando sucede tienes que reaccionar a el.
+Va a producir un mensaje asíncrono al reaccionar ante una acción.
+
+INTERFAZ DE USUARIO:
+------------------------
+Interactua con los usari@s y establece un dialogo con ellos.
+Hay que hace un buen diseño de la capa de dialogo.
+
+PROTOTIPOS:
+--------------
+En los casos de uso es donde indicaremos el prototipo del diseño.
+Los prototipos es una simulación interactiva real de como funcionará una aplicación
+Tipos:
+Alta(como si se lo estuvieses dando echo) o baja fidelidad (como si fuese a lapiz).
+Horizontal o vertical(todo detallado, solo de una parte).
+Usabilidad: eficiencia, efectiva y satisfación.
+
+GUÍAS DE DISEÑO:
+------------------
+Guías que ofrecen los fabricantes de sistemas con el fin de mejorar la experiencia de diseño
+Ejemplos: material, Windows
+
+PROGRAMACIÓN INTERACTIVA:
+--------------------------------
+Java Swing:
+	Ya no se usa.
+Java FX:
+	Reemplaza a Swing, permite la creación de RIAs
+	Fundamentos:
+	- Stage: es el contenedor principal, toda la ventana
+	- Scene: diferentes escenas, apilar, cambiar ... elementos que cuelgan de la escena, botones, cuadro de texto...
+	- Root Node: contenedor principal donde están el resto de elementos
+	- Nodos: elementos que aparecen en la escena
+	Se hace con un lenguaje llamado FXML, es un lenguaje de marcas
+
+	++XML++ --> es como un arbol, se mete dentro de etiquetas.
+
+			Binding!!
+	V		C		M
+	FXML		
+	
+Tenemos que hacer visible para el controlador, para ello asignamos un id (fx:id), otra opción sería indicar el nombre del evento (On Action)
+Necesitamos la etiqueta @FXML en el controlador.
+
+
+En log4j2.xml modificar el paquete.
+
+Properties: todas las opciones/configuracion.
+Resources: clase de los recursos
+______________________________________________________________________________________________________________________________________________________________
+REACTIVIDAD
+--------------
+Reactividad: table, list...
+En kotlin se puede implementar el patron observable en una variable haciendola reactiva.
+
+ObjectProperty para LocalDate, aunque no tenga su propia Property.
+En el constructor new SimpleStringProperty(nombre)
+public String nombre(){return nombre.get();}
+
+El repositorio será un ObservableList, reactivamente puede reaccionar ante cualquier cambio.
+
+Importante para las líneas de venta.
+Renderizar la celda con un Combo, Choice
+_________________________________________________________________________________________________________________________________________________________________
+IMÁGENES -- AVATAR
+----------------------
+En el directorio resources siempre tener una imágen por defecto, nunca este vacio sino va a salir un null pointer exception, utilizar uuid de usuario para
+nombrar la imágen de cada usuario, también la imágen se le puede añadir fecha con milisegundos.
+Una vez sepamos la clave del usuario llevarla al directorio de destino.
+Se puede almacenar el Path completo de la imágen o se almacenar el nombre de la imágen, concatenar la ruta con el nombre de la imágen.
+
+_________________________________________________________________________________________________________________________________________________________________
+OPERACIONES CRUD
+---------------------
+Borrar:
+Si se confirma el borrado se elimina la persona, también se borra su avatar.
+
+Crear:
+
+Editar:
+
+__________________________________________________________________________________________________________________________________________________________________
+LOGS
+------
+Cuatro niveles de log: info, debug, warning, err
+
+
+
+
+RECOMENDACIONES
+---------------------
+- Libro de psicologia objetos cotidianos

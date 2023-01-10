@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta author="author" content="Daniel Rodríguez Fernández">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de envio</title>
+</head>
+<style>
+    .h1{
+        text-align: center;
+    }
+    td{
+        padding-left: 32px;
+    }
+    table,td{
+        border: red 1px solid;
+    }
+</style>
+<body>
+    <h1>Formulario de envío</h1>
+    <form action="get">
+    <fieldset id="table1">
+        <legend>Datos personales</legend>
+        <table>
+            <tr>
+                <td> Nombre: <input type="text" size="14px"><br><br>
+                 Apellido 1: <input type="text" size="12px"><br><br>
+                 Apellido 2: <input type="text" size="12px"></td><br>
+                <td>
+                    Dirección postal: <textarea name="texto" rows="4" cols="20" placeholder="Escribe la dirección"></textarea><br><br>
+                    Codigo postal: <input type="text" size="12px"></td>
+
+                </td>
+                <td> Población: <input type="text" size="14px"><br><br>
+                    Provincia: <input type="text" size="12px"><br><br>
+                    País: <input type="text" size="12px"></td>
+                   <td>Edad: <select name="Selecciona">
+                    <option value="0">Elige tu franja de edad</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    </select><br>
+                    <label>Fecha de nacimiento:</label>
+                        <select name="Selecciona">
+                            <option value="0">Día</option>
+                            <option value="1">1</option>
+                        </select>
+                        <select name="Selecciona">
+                            <option value="0">Mes</option>
+                            <option value="1">1</option>
+                        </select>
+                        <select name="Selecciona">
+                            <option value="0">Año</option>
+                        </select>
+                        <br>
+                        Sexo: <input type="radio">Hombre <input type="radio">Mujer
+                       
+                </td>
+                <td>
+                    <p>Estudios</p>
+                    <ul>
+                        <li><input type="checkbox">ESO</li>
+                        <li><input type="checkbox">Bachillerato</li>
+                        <li><input type="checkbox">Ciclo Medio</li>
+                        <li><input type="checkbox">Ciclo Superior</li>
+                        <li><input type="checkbox">Prueba de acceso</li>
+                    </ul>
+                </td>
+            </tr>
+          
+
+
+        </table>
+    </fieldset>
+    <fieldset id="table1">
+        <legend>Datos alta usuario</legend>
+        Correo: <input type="text" size="12px"><br><br>
+        Contraseña: <input type="password" size="12px"><br><br>
+        Repite Contraseña: <input type="password" size="12px"><br>
+
+    </fieldset>
+    <fieldset id="table1">
+        <legend>Otros</legend>
+            Aficiones: <textarea name="texto" rows="10" cols="20" placeholder="Escribe la dirección"></textarea><br>
+            Carnet de conducir: <input type="radio">Si <input type="radio">No
+            
+    </fieldset>
+    <br>
+        <input type="submit" value="Envía tu formulario"></input>
+        <input type="reset" value="Volver a empezar"></input>
+    </form>
+</body>
+</html>
