@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="474.0" prefWidth="308.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="es.drodriguez.com.reproductormusica.controller.PlayerViewController">
+   <children>
+      <Pane layoutY="-1.0" prefHeight="474.0" prefWidth="308.0">
+         <children>
+            <Slider id="barraProgreso" fx:id="barraProgreso" layoutX="83.0" layoutY="364.0" />
+            <Button id="anteriorBoton" fx:id="anteriorBoton" layoutX="46.0" layoutY="309.0" mnemonicParsing="false" text="Anterior" />
+            <Button id="playBoton" fx:id="playBoton" layoutX="133.0" layoutY="309.0" mnemonicParsing="false" text="Play" />
+            <Button fx:id="siguienteBoton" layoutX="197.0" layoutY="309.0" mnemonicParsing="false" text="Siguiente" />
+            <Label id="albumLabel" fx:id="albumLabel" alignment="CENTER" contentDisplay="CENTER" layoutY="277.0" prefHeight="17.0" prefWidth="308.0" text="nombre del álbum" textAlignment="CENTER" />
+            <Label id="grupoLabel" fx:id="grupoLabel" alignment="CENTER" contentDisplay="CENTER" layoutY="256.0" minWidth="-Infinity" prefHeight="23.0" prefWidth="308.0" text="nombre del grupo/interprete" textAlignment="CENTER">
+               <padding>
+                  <Insets bottom="5.0" left="12.0" right="12.0" top="1.0" />
+               </padding></Label>
+            <Label id="cancionLabel" fx:id="cancionLabel" alignment="CENTER" contentDisplay="CENTER" layoutY="237.0" prefHeight="23.0" prefWidth="308.0" text="nombre de la canción" textAlignment="CENTER">
+               <padding>
+                  <Insets bottom="5.0" left="12.0" right="12.0" top="1.0" />
+               </padding></Label>
+            <ImageView fx:id="imageView" fitHeight="212.0" fitWidth="170.0" layoutX="69.0" layoutY="41.0" nodeOrientation="INHERIT" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../media/cancion.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
