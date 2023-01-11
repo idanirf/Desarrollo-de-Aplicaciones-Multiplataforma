@@ -1,0 +1,37 @@
+EMPLEADOS -> ID, NOMBRE_EMPLEADO, FECHA_NACIMIENTO.
+1
+N
+DEPARTAMENTO -> ID, NOMBRE_DEPARTAMENTO, PRESUPUESTO.
+
+
+PENSAR TODOS LOS CASOS DE USO Y TODAS LAS NAVEGACIONES.
+CONSULTAS -> EMPLEADO MAS JOVEN Y MÁS VIEJO DE CADA DPTO, TODOS LOS EMPLEADOS DE UN DPTO, PRESUPUESTO MEDIO DE TODOS
+LOS DPTO, NUMERO DE EMPLEADOS POR DPTO, EMPLEADO QUE TRABAJA EN EL DPTO CON MAYOR PRESUPUESTO, EMPLEADO MÁS JOVEN
+Y MÁS VIEJO DE UN DPTO.
+
+TESTEAR TODAS LAS OPERACIONES QUE DISEÑE.
+
+----------------------------------------------------------------
+NOTES:
+24/10/2022 14:20 [idanirf]
+Crear la base de datos en H2 de departamentos y empleados.
+Además de escribir la solución de propuesta al problema planteado.
+
+25/10/2022 13:06 [joseluisgs]
+Resolver dos veces el ejercicio de las dos formas 1/0 de dpt, que haya al menos un departamento o que no haya ninguno.
+Pensar en el check()//para control. Al igual que raqueta y tenista.
+require() para asegurarnos de que es una restricción.
+
+26/10/2022 10:26 [joseluisgs]
+1er Caso -> No hay empleado sin departamento 1...N
+2º Caso -> Sí hay empleado sin departamento 0..M
+3er Caso -> Sí se elimina el departamento se eliminan los empleados (Composición/Agregación)
+--------------------------------------------------------------------------------------------
+RECOMENDACIONES:
+require/checked
+evitar try catch // para ello ->(toIntOrNull()) // por ejemplo haciendo una lectura de string siendo int
+Interfaz closable(Java) -> ahorra hacer el open y el close.
+Funciones scope (this/it)
+
+
+

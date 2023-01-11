@@ -1,0 +1,72 @@
+
+<DataofUse>
+  <id>818a7011-a22e-43db-a13f-47d8b3e4f515</id>
+  <instanteFormatoISO>2022-10-19T21:25:06.938338512</instanteFormatoISO>
+  <tipoOpcion>resumen</tipoOpcion>
+  <exito>true</exito>
+  <tiempoDeEjecucion>9271</tiempoDeEjecucion>
+</DataofUse>
+
+<DataofUse>
+  <id>db955365-59fd-4778-9fd2-2b1fe58c3285</id>
+  <instanteFormatoISO>2022-10-19T21:25:31.721776761</instanteFormatoISO>
+  <tipoOpcion>resumen district</tipoOpcion>
+  <exito>true</exito>
+  <tiempoDeEjecucion>6720</tiempoDeEjecucion>
+</DataofUse>
+
+<DataofUse>
+  <id>01e3c36d-9bf8-4827-94b3-3633e9705c82</id>
+  <instanteFormatoISO>2022-10-19T21:25:49.285942871</instanteFormatoISO>
+  <tipoOpcion>Parser</tipoOpcion>
+  <exito>true</exito>
+  <tiempoDeEjecucion>5502</tiempoDeEjecucion>
+</DataofUse>
+
+<DataofUse>
+  <id>f33c8d22-75e8-41a5-b3f7-765a68d16199</id>
+  <instanteFormatoISO>2022-10-19T21:26:38.737312929</instanteFormatoISO>
+  <tipoOpcion>resumen</tipoOpcion>
+  <exito>true</exito>
+  <tiempoDeEjecucion>8773</tiempoDeEjecucion>
+</DataofUse>
+
+<DataofUse>
+  <id>16b82ba3-f81e-45ca-8c45-0190f6856987</id>
+  <instanteFormatoISO>2022-10-19T21:27:01.647197558</instanteFormatoISO>
+  <tipoOpcion>resumen district</tipoOpcion>
+  <exito>true</exito>
+  <tiempoDeEjecucion>6431</tiempoDeEjecucion>
+</DataofUse>
+
+<DataofUse>
+  <id>bcbafd79-ce0b-4445-957c-6c9ce8d5b40b</id>
+  <instanteFormatoISO>2022-10-19T21:27:46.901245171</instanteFormatoISO>
+  <tipoOpcion>resumen district</tipoOpcion>
+  <exito>true</exito>
+  <tiempoDeEjecucion>9311</tiempoDeEjecucion>
+</DataofUse>
+
+<DataofUse>
+  <id>249ef325-f6df-4863-b4f6-09628b7322a7</id>
+  <instanteFormatoISO>2022-10-19T21:28:55.138980627</instanteFormatoISO>
+  <tipoOpcion>resumen district</tipoOpcion>
+  <exito>true</exito>
+  <tiempoDeEjecucion>7318</tiempoDeEjecucion>
+</DataofUse>
+
+<DataofUse>
+  <id>4b58190a-f477-436e-94ab-2965d6376ffa</id>
+  <instanteFormatoISO>2022-10-19T21:29:19.597127086</instanteFormatoISO>
+  <tipoOpcion>resumen</tipoOpcion>
+  <exito>true</exito>
+  <tiempoDeEjecucion>10166</tiempoDeEjecucion>
+</DataofUse>
+
+<DataofUse>
+  <id>8a7b5f80-53f5-4f75-9b02-9885c95018e5</id>
+  <instanteFormatoISO>2022-10-19T22:09:00.380341614</instanteFormatoISO>
+  <tipoOpcion>Error</tipoOpcion>
+  <exito>false</exito>
+  <tiempoDeEjecucion>4</tiempoDeEjecucion>
+</DataofUse>

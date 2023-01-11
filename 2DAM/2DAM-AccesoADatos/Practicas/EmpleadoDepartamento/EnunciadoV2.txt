@@ -1,0 +1,10 @@
+Departamento: id, nombre, presupuesto
+Persona: id, nombre, fecha_alta
+Empleado: salario, rol(Analsita, Programador, Testeador)
+Director: fecha_posesion
+Ordenador: id, modelo, fecha_alta
+
+Estadísticas y consultas
+Testear repositorio y controladores y métodos
+Inyección de dependencias (sí quiero puedo usar librería de inyección de dependencias).
+Pensar si es necesaria la herencia
