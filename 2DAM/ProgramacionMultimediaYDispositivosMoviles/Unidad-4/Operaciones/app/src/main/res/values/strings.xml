@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="numero1">Introduce número 1</string>
+    <string name="numero2">Introduce número 2</string>
+    <string name="num1">Num1</string>
+    <string name="num2">Num2</string>
+</resources>

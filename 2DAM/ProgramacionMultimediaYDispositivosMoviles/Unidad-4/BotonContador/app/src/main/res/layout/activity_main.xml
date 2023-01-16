@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+    <TextView
+            android:text="0"
+            android:layout_width="150dp"
+            android:layout_height="100dp" android:id="@+id/resultadoContador"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="120dp" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498" android:textSize="48sp" android:gravity="center"/>
+    <Button
+            android:text="+1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/botonSuma"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="264dp"
+            app:layout_constraintHorizontal_bias="0.086"/>
+    <Button
+            android:text="Reset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/botonReset"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="264dp" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"/>
+    <Button
+            android:text="-1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/botonResta"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginTop="264dp"
+            app:layout_constraintHorizontal_bias="0.949"/>
+    <Button
+            android:text="Salir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/botonSalida"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginTop="368dp"
+            app:layout_constraintHorizontal_bias="0.498"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

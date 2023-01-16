@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InitApp</string>
+    <string name="secondapp">Mi segunda aplicación</string>
+    <string name="aceptar1">Aceptar</string>
+</resources>
