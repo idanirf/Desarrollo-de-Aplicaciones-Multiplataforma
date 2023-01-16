@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5b3f092-10ef-4016-acc5-9aa25a516ab6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejemplo-5/out/production/Ejemplo-5/Ejemplo-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo-6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo-6/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo-6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo-6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo-6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo-6/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo-6/Ejemplo-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo-6/out/production/Ejemplo-6/Ejemplo-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/19-Corrutinas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/19-Corrutinas/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/19-Corrutinas/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/19-Corrutinas/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/19-Corrutinas/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/19-Corrutinas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/19-Corrutinas/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/19-Corrutinas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/21-Jamones-Flows/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/21-Jamones-Flows/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/21-Jamones-Flows/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/21-Jamones-Flows/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/21-Jamones-Flows/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejemplo-5/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejemplo-5/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgServiciosProcesos-01-2022-2023/04-Procesos/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgServiciosProcesos-01-2022-2023/05-Procesos/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgServiciosProcesos-01-2022-2023/05-Procesos/src/es/joseluisgs/dam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgServiciosProcesos-01-2022-2023/05-Procesos/src/es/joseluisgs/dam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgServiciosProcesos-01-2022-2023/06-Procesos/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/12-Monitor-Filosofos-Comensales/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/12-Monitor-Filosofos-Comensales/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/12-Monitor-Filosofos-Comensales/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/12-Monitor-Filosofos-Comensales/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/12-Monitor-Filosofos-Comensales/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/12-Monitor-Filosofos-Comensales/src/main/java/es/joseluisgs/dam/Filosofo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/12-Monitor-Filosofos-Comensales/src/main/java/es/joseluisgs/dam/Filosofo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/12-Monitor-Filosofos-Comensales/src/main/java/es/joseluisgs/dam/Tenedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/12-Monitor-Filosofos-Comensales/src/main/java/es/joseluisgs/dam/Tenedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/13-Monitor-Fumadores/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/13-Monitor-Fumadores/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/13-Monitor-Fumadores/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/13-Monitor-Fumadores/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/13-Monitor-Fumadores/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Monitor-Barbero/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Monitor-Barbero/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Monitor-Barbero/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Monitor-Barbero/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Monitor-Barbero/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Monitor-Barbero/src/main/java/es/joseluisgs/dam/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Monitor-Barbero/src/main/java/es/joseluisgs/dam/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Monitor-Barbero/src/main/java/es/joseluisgs/dam/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Monitor-Barbero/src/main/java/es/joseluisgs/dam/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Problema-Camellos/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Problema-Camellos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Problema-Camellos/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Problema-Camellos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/14-Problema-Camellos/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/src/main/java/es/joseluisgs/dam/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/src/main/java/es/joseluisgs/dam/FabricaJamones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/src/main/java/es/joseluisgs/dam/Granja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/src/main/java/es/joseluisgs/dam/Jamon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/src/main/java/es/joseluisgs/dam/Mensajero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/17-Problema-Jamones/src/main/java/es/joseluisgs/dam/Secadero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/src/main/kotlin/Hello.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/src/main/kotlin/jamones/FabricaJamones.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/src/main/kotlin/jamones/FabricaJamones.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/src/main/kotlin/jamones/models/Granja.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/src/main/kotlin/jamones/models/Granja.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/src/main/kotlin/jamones/models/Mensajero.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/src/main/kotlin/jamones/models/Mensajero.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/18-Jamones-Kotlin/src/main/kotlin/jamones/monitor/Secadero.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/ProgServiciosProcesos-02-2022-2023/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unidad-2/unidad2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unidad-2/unidad2.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H0ArbKR2pDy2tLLKTaAn4Nwggb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5b3f092-10ef-4016-acc5-9aa25a516ab6" name="Changes" comment="" />
+      <created>1667411827774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667411827774</updated>
+      <workItem from="1667411829143" duration="2108000" />
+      <workItem from="1667416528302" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
