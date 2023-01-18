@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.PieChart?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="es.drodriguez.com.visorproductosdanielrodriguez.controller.MainViewController">
+   <children>
+      <ListView fx:id="listView" layoutX="22.0" layoutY="60.0" prefHeight="238.0" prefWidth="580.0" AnchorPane.leftAnchor="22.0" AnchorPane.topAnchor="60.0" />
+      <Label fx:id="tituloLabel" layoutX="396.0" layoutY="14.0" prefHeight="27.0" prefWidth="208.0" text="LISTA DE PRODUCTOS" AnchorPane.leftAnchor="396.0" AnchorPane.rightAnchor="396.0" AnchorPane.topAnchor="14.0">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnActualizar" layoutX="22.0" layoutY="309.0" mnemonicParsing="false" onAction="#updateListView" prefHeight="26.0" prefWidth="580.0" text="ACTUALIZAR DATOS" AnchorPane.bottomAnchor="264.6" AnchorPane.leftAnchor="22.0" AnchorPane.rightAnchor="398.0" AnchorPane.topAnchor="309.0" />
+      <Label fx:id="categoriaLabel" layoutX="628.0" layoutY="58.0" text="Categoría" AnchorPane.bottomAnchor="524.4" AnchorPane.leftAnchor="628.0" AnchorPane.rightAnchor="320.79999999999995" AnchorPane.topAnchor="58.0" />
+      <Label fx:id="precioLabel" layoutX="630.0" layoutY="148.0" text="Precio" AnchorPane.bottomAnchor="434.4" AnchorPane.leftAnchor="630.0" AnchorPane.rightAnchor="337.2" AnchorPane.topAnchor="148.0" />
+      <Label fx:id="descripcionLabel" layoutX="630.0" layoutY="192.0" text="Descripción" AnchorPane.bottomAnchor="390.4" AnchorPane.leftAnchor="630.0" AnchorPane.rightAnchor="307.6" AnchorPane.topAnchor="192.00000000000003" />
+      <Label fx:id="nombreLabel" layoutX="630.0" layoutY="104.0" text="Nombre" AnchorPane.bottomAnchor="478.4" AnchorPane.leftAnchor="630.0" AnchorPane.rightAnchor="326.0" AnchorPane.topAnchor="104.0" />
+      <TextField fx:id="categoriaArea" editable="false" layoutX="629.0" layoutY="79.0" prefHeight="26.0" prefWidth="291.0" AnchorPane.bottomAnchor="494.6" AnchorPane.leftAnchor="629.0" AnchorPane.rightAnchor="79.80000000000001" AnchorPane.topAnchor="79.0" />
+      <TextArea fx:id="descripcionArea" editable="false" layoutX="630.0" layoutY="209.0" prefHeight="90.0" prefWidth="291.0" AnchorPane.bottomAnchor="300.6" AnchorPane.leftAnchor="630.0" AnchorPane.rightAnchor="78.80000000000001" AnchorPane.topAnchor="208.99999999999997" />
+      <TextField fx:id="nombreArea" editable="false" layoutX="629.0" layoutY="122.0" prefHeight="26.0" prefWidth="291.0" AnchorPane.bottomAnchor="451.6" AnchorPane.leftAnchor="629.0" AnchorPane.rightAnchor="79.80000000000001" AnchorPane.topAnchor="122.0" />
+      <TextField fx:id="precioArea" editable="false" layoutX="630.0" layoutY="167.0" prefHeight="26.0" prefWidth="291.0" AnchorPane.bottomAnchor="406.6" AnchorPane.leftAnchor="630.0" AnchorPane.rightAnchor="78.80000000000001" AnchorPane.topAnchor="167.0" />
+      <ImageView fx:id="imagenArea" fitHeight="150.0" fitWidth="200.0" layoutX="679.0" layoutY="335.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="115.0" AnchorPane.leftAnchor="679.0" AnchorPane.rightAnchor="121.0" AnchorPane.topAnchor="335.0" />
+      <PieChart fx:id="grafico" layoutX="146.0" layoutY="369.0" prefHeight="204.0" prefWidth="299.0" />
+   </children>
+</AnchorPane>
