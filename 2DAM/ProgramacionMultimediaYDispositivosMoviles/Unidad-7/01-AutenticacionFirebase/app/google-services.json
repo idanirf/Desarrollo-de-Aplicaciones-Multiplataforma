@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897547281454",
+    "project_id": "azainstrucciones",
+    "storage_bucket": "azainstrucciones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897547281454:android:d4501c858ad2ccc56aabbf",
+        "android_client_info": {
+          "package_name": "com.drodriguez.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897547281454-cn20l5sjhem2rcscekjt1rgioatfv9hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPA672bZiUzpRC6daWpusFV0bRfLxzUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897547281454-cn20l5sjhem2rcscekjt1rgioatfv9hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
