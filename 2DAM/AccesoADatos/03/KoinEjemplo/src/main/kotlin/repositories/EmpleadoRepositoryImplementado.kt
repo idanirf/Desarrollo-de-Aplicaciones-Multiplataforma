@@ -1,6 +1,7 @@
 package repositories
 
 import models.Empleado
+import org.koin.core.annotation.Named
 import org.koin.core.annotation.Single
 
 @Single
