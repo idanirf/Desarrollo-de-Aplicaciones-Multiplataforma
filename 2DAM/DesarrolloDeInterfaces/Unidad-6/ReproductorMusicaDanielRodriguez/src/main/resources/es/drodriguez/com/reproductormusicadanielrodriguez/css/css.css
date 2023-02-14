@@ -1,0 +1,184 @@
+.root {
+    -fx-background-color: #0e0e0e;
+}
+
+/* Fondo reproductor view */
+#reproductorView {
+    -fx-background-color: #0e0e0e;
+    /* Boton con reflejo */
+    /* Boton con degradado */
+    -fx-background-insets: 0, 1, 1;
+}
+
+#salirView {
+    -fx-background-color: #0e0e0e;
+    /* Boton con reflejo */
+    /* Boton con degradado */
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 20;
+}
+
+#helloView {
+    -fx-background-color: #0e0e0e;
+    /* Boton con reflejo */
+    /* Boton con degradado */
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 20;
+}
+
+#listasView {
+    -fx-background-color: #0e0e0e;
+    /* Boton con reflejo */
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    /* Boton con degradado */
+    -fx-background-insets: 0, 1, 1;
+
+}
+
+#btnSalir {
+    -fx-background-color: #1c1c1c;
+    /* Boton con reflejo */
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    /* Boton con degradado */
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 80;
+    /* Letra negrita*/
+    -fx-font-weight: bold;
+    /* Letra a 16*/
+    -fx-font-size: 15;
+}
+
+#btnHome {
+    -fx-background-color: #1c1c1c;
+    /* Boton con reflejo */
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    /* Boton con degradado */
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 80;
+    /* Letra negrita*/
+    -fx-font-weight: bold;
+    /* Letra a 16*/
+    -fx-font-size: 15;
+}
+
+#btnListas {
+    -fx-background-color: #1c1c1c;
+    /* Boton con reflejo */
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    /* Boton con degradado */
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 40;
+    /* Letra negrita*/
+    -fx-font-weight: bold;
+    /* Letra a 16*/
+    -fx-font-size: 15;
+}
+
+#buttonIdioma {
+    -fx-background-color: #1c1c1c;
+    /* Boton con reflejo */
+    -fx-effect: dropshadow(three-pass-box, rgba(171, 163, 163, 0.8), 10, 0, 0, 0);
+    /* Boton con degradado */
+    -fx-background-insets: 0, 1, 1;
+    -fx-background-radius: 40;
+    /* Letra negrita*/
+    -fx-font-weight: bold;
+    /* Letra a 16*/
+    -fx-font-size: 15;
+}
+
+#btnPlay {
+    -fx-background-color: #230fd8;
+    /* Letra blanca*/
+    -fx-text-fill: #ffffff;
+    /* Letra negrita*/
+    -fx-font-weight: bold;
+    /* Letra a 16*/
+    -fx-font-size: 16;
+}
+
+#btnSiguiente {
+    -fx-background-color: #d85c0f;
+    /* Letra blanca*/
+    -fx-text-fill: #ffffff;
+    /* Letra negrita*/
+    -fx-font-weight: bold;
+    /* Letra a 16*/
+    -fx-font-size: 12;
+}
+
+#btnAnterior {
+    -fx-background-color: #d85c0f;
+    /* Letra blanca*/
+    -fx-text-fill: #ffffff;
+    /* Letra negrita*/
+    -fx-font-weight: bold;
+    /* Letra a 16*/
+    -fx-font-size: 12;
+}
+
+#iconoHome {
+    -fx-icon-code: mdi2h-home;
+    -fx-icon-size: 20px;
+    -fx-icon-color: white;
+}
+
+#iconoListas {
+    -fx-icon-code: mdi2p-playlist-music;
+    -fx-icon-size: 20px;
+    -fx-icon-color: white;
+}
+
+#iconoSalir {
+    -fx-icon-code: mdi2e-exit-to-app;
+    -fx-icon-size: 20px;
+    -fx-icon-color: white;
+}
+
+#iconoPlay {
+    -fx-icon-code: mdi2p-play-outline;
+    -fx-icon-size: 20px;
+    -fx-icon-color: white;
+}
+
+#iconoSiguiente {
+    -fx-icon-code: mdi2s-skip-next-outline;
+    -fx-icon-size: 20px;
+    -fx-icon-color: white;
+}
+
+#iconoAnterior {
+    -fx-icon-code: mdi2s-skip-previous-outline;
+    -fx-icon-size: 20px;
+    -fx-icon-color: white;
+}
+
+#iconoAceptar {
+    -fx-icon-code: mdi2c-check;
+    -fx-icon-size: 20px;
+    -fx-icon-color: green;
+}
+
+#iconoCancelar {
+    -fx-icon-code: mdi2c-close;
+    -fx-icon-size: 20px;
+    -fx-icon-color: red;
+}
+
+#idiomaBoton {
+    -fx-icon-code: mdi2c-chat-outline;
+    -fx-icon-size: 20px;
+    -fx-icon-color: white;
+}
+
+#listView {
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+}
+
+#paneListas {
+    -fx-background-color: #0e0e0e;
+}
+
+

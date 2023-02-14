@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<BorderPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" stylesheets="@../css/css.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="es.drodriguez.com.reproductormusicadanielrodriguez.controller.ViewController">
+    <center>
+        <StackPane prefHeight="400.0" prefWidth="113.0" stylesheets="@../css/css.css" BorderPane.alignment="CENTER">
+            <children>
+                <fx:include fx:id="reproductorView" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" source="reproductor-view.fxml" />
+                <fx:include fx:id="listasView" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" source="listas-view.fxml" />
+                <fx:include fx:id="salirView" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" source="salir-view.fxml" />
+            </children>
+        </StackPane>
+    </center>
+    <left>
+        <VBox alignment="TOP_CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="400.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+            <children>
+                <ToggleButton id="btnHome" fx:id="btnHome" contentDisplay="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" stylesheets="@../css/css.css">
+                    <VBox.margin>
+                        <Insets top="20.0" />
+                    </VBox.margin>
+                    <graphic>
+                        <FontIcon id="iconoHome" />
+                    </graphic>
+                </ToggleButton>
+                <ToggleButton id="btnListas" fx:id="btnListas" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" stylesheets="@../css/css.css">
+                    <VBox.margin>
+                        <Insets top="20.0" />
+                    </VBox.margin>
+                    <graphic>
+                        <FontIcon id="iconoListas" />
+                    </graphic>
+                </ToggleButton>
+                <ToggleButton id="btnSalir" fx:id="btnSalir" contentDisplay="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" stylesheets="@../css/css.css">
+                    <VBox.margin>
+                        <Insets top="20.0" />
+                    </VBox.margin>
+                    <graphic>
+                        <FontIcon id="iconoSalir" />
+                    </graphic>
+                </ToggleButton>
+                <ToggleButton id="buttonIdioma" fx:id="btnIdioma" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" stylesheets="@../css/css.css" textAlignment="CENTER">
+                    <VBox.margin>
+                        <Insets top="20.0" />
+                    </VBox.margin>
+                    <graphic>
+                        <FontIcon id="idiomaBoton" textAlignment="CENTER" />
+                    </graphic>
+                </ToggleButton>
+            </children>
+            <BorderPane.margin>
+                <Insets />
+            </BorderPane.margin>
+        </VBox>
+    </left>
+    <bottom>
+        <HBox alignment="CENTER_LEFT" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="66.0" prefWidth="600.0" spacing="12.0" BorderPane.alignment="CENTER">
+            <children>
+                <ToggleButton fx:id="btnAnterior" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" prefHeight="27.0" prefWidth="50.0" textAlignment="CENTER">
+                    <graphic>
+                        <FontIcon id="iconoAnterior" />
+                    </graphic>
+                </ToggleButton>
+                <ToggleButton fx:id="btnPlay" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" prefHeight="50.0" prefWidth="54.0">
+                    <graphic>
+                        <FontIcon id="iconoPlay" textAlignment="CENTER" />
+                    </graphic>
+                </ToggleButton>
+                <ToggleButton fx:id="btnSiguiente" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" prefHeight="26.0" prefWidth="46.0" textAlignment="CENTER">
+                    <HBox.margin>
+                        <Insets />
+                    </HBox.margin>
+                    <graphic>
+                        <FontIcon id="iconoSiguiente" textAlignment="CENTER" wrappingWidth="28.799987316131592" />
+                    </graphic>
+                </ToggleButton>
+            </children>
+            <padding>
+                <Insets left="280.0" />
+            </padding>
+            <BorderPane.margin>
+                <Insets left="100.0" />
+            </BorderPane.margin>
+            <opaqueInsets>
+                <Insets />
+            </opaqueInsets>
+        </HBox>
+    </bottom>
+</BorderPane>
