@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "12345678910",
+        "estado": "TERMINADO",
+        "fechaEntrada": "2022-12-27T00:00",
+        "fechaSalidaProgramada": "2022-12-27T00:00",
+        "fechaEntrega": "2022-12-27T00:00",
+        "precio": 222.2,
+        "usuario_id": "67"
+    },
+    {
+        "_id": "12345678911",
+        "estado": "TERMINADO",
+        "fechaEntrada": "2022-12-27T00:00",
+        "fechaSalidaProgramada": "2022-12-27T00:00",
+        "fechaEntrega": "2022-12-27T00:00",
+        "precio": 222.2,
+        "usuario_id": "53"
+    }
+]

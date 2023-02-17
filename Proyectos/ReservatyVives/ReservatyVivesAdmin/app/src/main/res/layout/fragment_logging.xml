@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/fragment_horizontal_margin"
+    android:paddingTop="@dimen/fragment_vertical_margin"
+    android:paddingRight="@dimen/fragment_horizontal_margin"
+    android:paddingBottom="@dimen/fragment_vertical_margin"
+    tools:context=".LoggingFragment" >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reserva_espacios_ies_luis_vives"
+        android:textAlignment="center"
+        android:textColor="#E91E63"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="197dp"
+        android:layout_height="152dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginLeft="90dp"
+        android:contentDescription="TODO"
+        android:src="@drawable/logo"
+        android:textAlignment="center"
+        tools:src="@drawable/logo" />
+
+    <Button
+        android:id="@+id/buttonSalas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salas" />
+
+    <Button
+        android:id="@+id/buttonReserbas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reservas" />
+
+    <Button
+        android:id="@+id/buttonCrearNuevaSala"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Crear Nueva Sala" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salir" />
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "63e021bfef13e42a579bda96",
+        "marca": "Nike",
+        "modelo": " Babolat",
+        "precio": 200.6,
+        "stock": "3345",
+        "tipoProducto": "RAQUETA",
+        "pedido_id": "12345678910"
+    },
+    {
+        "_id": "63e021bfef13e42a579bda97",
+        "marca": "Adidas",
+        "modelo": " Babolat",
+        "precio": 180.6,
+        "stock": "245",
+        "tipoProducto": "RAQUETA",
+        "pedido_id": "123456789"
+    },
+    {
+        "_id": "63e021bfef13e42a579bda98",
+        "marca": "Siemens",
+        "modelo": " Negro",
+        "precio": 118.6,
+        "stock": "2458",
+        "tipoProducto": "COMPLEMENTO",
+        "pedido_id": "12345678911"
+    },
+    {
+        "_id": "63e021ccef13e42a579bdaa8",
+        "marca": "Babolat",
+        "modelo": "DAM",
+        "precio": 22.0,
+        "stock": "12",
+        "tipoProducto": "RAQUETA",
+        "pedido_id": "63e021caef13e42a579bda9b"
+    }
+]

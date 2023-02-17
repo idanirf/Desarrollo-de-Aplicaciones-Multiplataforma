@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "63e022bd276b01623067af05",
+        "estado": "EN_PROCESO",
+        "fechaEntrada": "2021-02-15T00:00",
+        "fechaSalidaProgramada": "2022-02-15T00:00",
+        "fechaEntrega": "2022-02-15T00:00",
+        "precio": 222.2,
+        "usuario_id": "null"
+    },
+    {
+        "_id": "63e022d4276b01623067af48",
+        "estado": "EN_PROCESO",
+        "fechaEntrada": "2022-12-27T00:00",
+        "fechaSalidaProgramada": "2022-12-27T00:00",
+        "fechaEntrega": "2022-12-27T00:00",
+        "precio": 62.0,
+        "usuario_id": "User(_id='63e022bd276b01623067af01', id='525', name='Alfredo', username='alfred', email='encordador@gmail.com', password='3e058f0117b3dfe5c80cc94df52c77c0797a3376221c2eb5f0c16f90506e90a09a30aed7d0358cd07b0f29b67608e96606b1eb8624e4093e05362f4f5610119b', tipoUser=TRABAJADOR, phone='736363736', website='http://www.juan')"
+    }
+]

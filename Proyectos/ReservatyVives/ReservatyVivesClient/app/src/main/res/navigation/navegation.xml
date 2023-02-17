@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navegation"
+    app:startDestination="@id/loggingFragment">
+    <fragment
+        android:id="@+id/loggingFragment"
+        android:name="com.example.reservatyvivesadmin.LoggingFragment"
+        android:label="fragment_logging"
+        tools:layout="@layout/fragment_logging" >
+        <action
+            android:id="@+id/action_loggingFragment_to_recyclerReserbasUsuariosFragment"
+            app:destination="@id/recyclerReserbasUsuariosFragment" />
+        <action
+            android:id="@+id/action_loggingFragment_to_recyclerReserbasUsuariosFragment2"
+            app:destination="@id/recyclerReserbasUsuariosFragment" />
+        <action
+            android:id="@+id/action_loggingFragment_to_recyclerSalasFragment"
+            app:destination="@id/recyclerSalasFragment" />
+        <action
+            android:id="@+id/action_loggingFragment_to_createReserbationFragment"
+            app:destination="@id/createReserbationFragment" />
+        <action
+            android:id="@+id/action_loggingFragment_to_newReservaClient"
+            app:destination="@id/newReservaClient" />
+    </fragment>
+    <fragment
+        android:id="@+id/recyclerSalasFragment"
+        android:name="com.example.reservatyvivesadmin.RecyclerSalasFragment"
+        android:label="fragment_recycler_salas"
+        tools:layout="@layout/fragment_recycler_salas" >
+        <action
+            android:id="@+id/action_recyclerSalasFragment_to_loggingFragment"
+            app:destination="@id/loggingFragment" />
+        <action
+            android:id="@+id/action_recyclerSalasFragment_to_loggingFragment2"
+            app:destination="@id/loggingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/createReserbationFragment"
+        android:name="com.example.reservatyvivesadmin.CreateReserbationFragment"
+        android:label="fragment_create_reserbation"
+        tools:layout="@layout/fragment_create_reserbation" >
+        <action
+            android:id="@+id/action_createReserbationFragment_to_loggingFragment"
+            app:destination="@id/loggingFragment" />
+        <action
+            android:id="@+id/action_createReserbationFragment_to_loggingFragment2"
+            app:destination="@id/loggingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/recyclerReserbasUsuariosFragment"
+        android:name="com.example.reservatyvivesadmin.RecyclerReserbasUsuariosFragment"
+        android:label="fragment_recycler_reserbas_usuarios"
+        tools:layout="@layout/fragment_recycler_reserbas_usuarios" >
+        <action
+            android:id="@+id/action_recyclerReserbasUsuariosFragment_to_loggingFragment"
+            app:destination="@id/loggingFragment" />
+        <action
+            android:id="@+id/action_recyclerReserbasUsuariosFragment_to_loggingFragment2"
+            app:destination="@id/loggingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newReservaClient"
+        android:name="com.example.reservatyvivesadmin.newReservaClient"
+        android:label="newReservaClient" >
+        <action
+            android:id="@+id/action_newReservaClient_to_loggingFragment"
+            app:destination="@id/loggingFragment" />
+    </fragment>
+</navigation>

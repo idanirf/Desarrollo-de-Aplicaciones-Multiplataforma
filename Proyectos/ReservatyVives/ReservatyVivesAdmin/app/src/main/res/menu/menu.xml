@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/salas_itenMenu"
+        android:title="Salas"
+        />
+    <item
+        android:id="@+id/crearSalaItenMenu"
+        android:title="Crear Sala" />
+    <item
+        android:id="@+id/sesionIntemMenu"
+        android:title="Sesion" />
+    <item
+        android:id="@+id/gestionReserbasItemMenu"
+        android:title="Geston Reserbas" />
+    <item
+        android:id="@+id/salirItem"
+        android:title="Salir" />
+</menu>

@@ -1,0 +1,11 @@
+[
+    {
+        "_id": "123456789",
+        "estado": "EN_PROCESO",
+        "fechaEntrada": "2022-12-27T00:00",
+        "fechaSalidaProgramada": "2022-12-27T00:00",
+        "fechaEntrega": "2022-12-27T00:00",
+        "precio": 222.2,
+        "usuario_id": "666"
+    }
+]

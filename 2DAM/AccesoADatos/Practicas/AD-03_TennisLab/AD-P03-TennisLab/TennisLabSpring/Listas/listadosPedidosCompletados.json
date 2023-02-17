@@ -1,0 +1,11 @@
+[
+    {
+        "_id": "63e022bd276b01623067af09",
+        "estado": "TERMINADO",
+        "fechaEntrada": "2021-02-15T00:00",
+        "fechaSalidaProgramada": "2022-02-15T00:00",
+        "fechaEntrega": "2022-02-15T00:00",
+        "precio": 8342.2,
+        "usuario_id": "null"
+    }
+]

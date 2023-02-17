@@ -1,0 +1,32 @@
+-- src/main/sqldelight/database/TennisLab.sq
+
+CREATE TABLE User (
+  _id TEXT PRIMARY KEY,
+  id TEXT NOT NULL,
+  name TEXT NOT NULL,
+  username TEXT NOT NULL,
+  email TEXT NOT NULL,
+  password TEXT NOT NULL,
+  tipoUser TEXT NOT NULL,
+  phone TEXT NOT NULL,
+  website TEXT NOT NULL
+);
+
+removeAllUsers:
+DELETE FROM User;
+
+selectUsers:
+SELECT * FROM User;
+
+selectByIdUser:
+SELECT * FROM User WHERE _id = ?;
+
+insertUser:
+INSERT INTO User (_id, id, name, username, email,password,tipoUser, phone, website)
+VALUES(?, ?, ?, ?, ?,?,?, ?, ?);
+
+updateUser:
+UPDATE User SET id = ?, name = ?, username = ?, email = ?,password = ?,tipoUser = ?, phone = ?, website = ? WHERE _id = ?;
+
+deleteUser:
+DELETE FROM User WHERE _id = ?;

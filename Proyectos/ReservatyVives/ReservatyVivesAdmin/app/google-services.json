@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371991407055",
+    "project_id": "reservatyvives",
+    "storage_bucket": "reservatyvives.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371991407055:android:9779637773de13db468aba",
+        "android_client_info": {
+          "package_name": "com.example.reservatyvivesadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371991407055-vjj2il2uim5lgibj3h9eq2cd9k75lpsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJUOb49X0IjjCj3VJdh0O-lyM2JxP7x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371991407055-vjj2il2uim5lgibj3h9eq2cd9k75lpsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
