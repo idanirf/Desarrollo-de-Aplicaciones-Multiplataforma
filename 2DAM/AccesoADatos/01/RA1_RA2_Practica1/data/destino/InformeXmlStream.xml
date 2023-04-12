@@ -1,0 +1,44 @@
+<Informe>
+   <DiaEnMadrid>
+      <fecha>2017-10-31</fecha>
+      <DatosInforme>
+         <TemperaturaMedia>11.528947368421054</TemperaturaMedia>
+         <TemperaturaMaxima>22.4</TemperaturaMaxima>
+         <TemperaturaMaximaLugar>Aranjuez</TemperaturaMaximaLugar>
+         <TemperaturaMaximaMomento>16:40</TemperaturaMaximaMomento>
+         <TemperaturaMinima>-0.9</TemperaturaMinima>
+         <TemperaturaMinimaLugar>Rascafr�a</TemperaturaMinimaLugar>
+         <TemperaturaMinimaMomento>06:20</TemperaturaMinimaMomento>
+         <HuboPrecipitacion>false</HuboPrecipitacion>
+         <Precipitaciones>0.0</Precipitaciones>
+      </DatosInforme>
+   </DiaEnMadrid>
+   <DiaEnMadrid>
+      <fecha>2017-10-30</fecha>
+      <DatosInforme>
+         <TemperaturaMedia>13.56842105263158</TemperaturaMedia>
+         <TemperaturaMaxima>24.7</TemperaturaMaxima>
+         <TemperaturaMaximaLugar>Arganda del Rey</TemperaturaMaximaLugar>
+         <TemperaturaMaximaMomento>15:20</TemperaturaMaximaMomento>
+         <TemperaturaMinima>-0.2</TemperaturaMinima>
+         <TemperaturaMinimaLugar>Rascafr�a</TemperaturaMinimaLugar>
+         <TemperaturaMinimaMomento>14:10</TemperaturaMinimaMomento>
+         <HuboPrecipitacion>false</HuboPrecipitacion>
+         <Precipitaciones>0.0</Precipitaciones>
+      </DatosInforme>
+   </DiaEnMadrid>
+   <DiaEnMadrid>
+      <fecha>2017-10-29</fecha>
+      <DatosInforme>
+         <TemperaturaMedia>14.976315789473684</TemperaturaMedia>
+         <TemperaturaMaxima>25.1</TemperaturaMaxima>
+         <TemperaturaMaximaLugar>Aranjuez</TemperaturaMaximaLugar>
+         <TemperaturaMaximaMomento>16:30</TemperaturaMaximaMomento>
+         <TemperaturaMinima>3.5</TemperaturaMinima>
+         <TemperaturaMinimaLugar>Rascafr�a</TemperaturaMinimaLugar>
+         <TemperaturaMinimaMomento>15:20</TemperaturaMinimaMomento>
+         <HuboPrecipitacion>false</HuboPrecipitacion>
+         <Precipitaciones>0.0</Precipitaciones>
+      </DatosInforme>
+   </DiaEnMadrid>
+</Informe>

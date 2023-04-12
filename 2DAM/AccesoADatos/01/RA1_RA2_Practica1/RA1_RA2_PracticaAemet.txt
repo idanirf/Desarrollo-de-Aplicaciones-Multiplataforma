@@ -1,0 +1,13 @@
+PRÁCTICA 1 AD
+Ficheros en el directorio resources
+API de fails
+Listar
+Leer CSV los 3 y convinarlos (insertar columna fecha) Local.data (inserta columna hora) Local.time  --> parsear con el of //no hay segundos los pomemos a 0
+Sacar un CSV resultado de los 3 almacenandolo en data
+Sacar como json y como xml
+Consultas:
+- Colecciones //horizontal
+- Secuencias //vertical
+- DataFrames
+
+Fichero property con origen y destino con dos path W-LX
