@@ -1,3 +1,5 @@
+package OtherForms
+
 import java.util.concurrent.Callable
 import java.util.concurrent.Executors
 import java.util.concurrent.Future
@@ -32,6 +34,9 @@ fun main(){
         }
     }
 
+    executor.shutdown()
+
+
     reparaciones.forEach {
         recaudacionTotal += it.get()
         tiempoTotalReparacion += (100..300).random()
@@ -41,5 +46,4 @@ fun main(){
 
     println("La recaudación total es de $recaudacionTotal €")
 
-    executor.shutdown()
 }

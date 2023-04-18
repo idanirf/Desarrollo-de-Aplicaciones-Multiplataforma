@@ -1,9 +1,8 @@
-import java.util.concurrent.Callable
-import java.util.concurrent.Executors
-import java.util.concurrent.atomic.AtomicInteger
+package OtherForms
 
+import kotlin.concurrent.thread
 
-fun main(args: Array<String>) {
+fun main() {
     println("Taller de forma Secuencial")
 
     val numMecanicos = 3
@@ -18,31 +17,26 @@ fun main(args: Array<String>) {
     var tiempoTotalReparacion = 0
     var recaudacionTotal = 0
 
-    val executor = Executors.newFixedThreadPool(numMecanicos)
 
-    val tareas = mutableListOf<Callable<Int>>()
+    val hilos = mutableListOf<Thread>()
 
     for ((mecanico, coches) in mecanicos) {
         for (coche in coches) {
-            tareas.add(Callable {
+            val hilo = thread {
                 val tiempoReparacion = (100..300).random()
                 val precio = (50..200).random()
                 println("$mecanico está reparando el coche $coche")
                 Thread.sleep(tiempoReparacion.toLong())
-                tiempoTotalReparacion += tiempoReparacion
-                precio
-            })
+
+            }
+            hilos.add(hilo)
         }
     }
 
-    val resultado = executor.invokeAll(tareas)
-
-    for (r in resultado) {
-        recaudacionTotal += r.get()
+    for (hilo in hilos) {
+        hilo.join()
     }
 
     println("El tiempo total:  $tiempoTotalReparacion ms")
     println("Recaudación total: $recaudacionTotal euros")
-
-    executor.shutdown()
 }
