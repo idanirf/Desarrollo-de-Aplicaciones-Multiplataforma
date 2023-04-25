@@ -1,0 +1,23 @@
+Restricciones:
+No usar data base manager.
+Usar SQLite
+Base de datos en db
+Ficheros en data
+Antes de nada comprobar si existe la bd, tablas ...
+Cadenas de conexión en cofig.properties // cadenas de conexion //delete if true delete data
+Config para la gestion del properties
+
+Ejercicio:
+Tenemos un CSV con los siguintes datos: UUID, marca, modelo, matricula, fechaMatriculacio, tipoMotor(Gasolina, Diesel, Hibrido, Electrico)
+Tabla Coches: id auto, uuid, marca, modelo, matricula, fechaMatriculacion, tipoMotor, createdAt(localdate), update(localdate), delete(Boolean)
+
+Controlador: loadData, CRUD (findAll, findById, findByUUID, findByMarca, save[save, update], delete, deleteById, deleteAll), SaveDataJSON
+StorageCsv
+StorageJson
+Repositorio que se conecte con la bbdd
+
+
+
+
+ClassLoader
+

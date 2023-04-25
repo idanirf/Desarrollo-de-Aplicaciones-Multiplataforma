@@ -1,0 +1,38 @@
+CREATE TABLE IF NOT EXISTS vehiculoDto (
+                id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL ,
+                uuid TEXT UNIQUE NOT NULL,
+                marca TEXT NOT NULL,
+                modelo TEXT NOT NULL,
+                matricula TEXT NOT NULL,
+                fechaMatriculacion TEXT NOT NULL,
+                tipoMotor TEXT NOT NULL,
+                createdAt TEXT NOT NULL,
+                updatedAt TEXT NOT NULL,
+                deleted TEXT NOT NULL
+             );
+
+
+findAll:
+SELECT * FROM vehiculoDto;
+
+dropById:
+DELETE FROM vehiculoDto WHERE id = ?;
+
+findById:
+SELECT * FROM vehiculoDto WHERE id = ?;
+
+
+
+findByUuid:
+SELECT * FROM vehiculoDto WHERE uuid = ?;
+
+updateById:
+UPDATE vehiculoDto SET uuid =?, marca =?, modelo =?, matricula=?, fechaMatriculacion =?, tipoMotor =? , createdAt =?, updatedAt =?, deleted =? WHERE id =?;
+
+
+exixstsById:
+SELECT * FROM vehiculoDto WHERE id = ? ;
+
+create:
+INSERT INTO vehiculoDto (uuid, marca, modelo, matricula, fechaMatriculacion, tipoMotor, createdAt,updatedAt,deleted) VALUES(?,?,?,?,?,?,?,?,?);
+

@@ -1,9 +1,13 @@
 package repositories
 
-interface ICrudRepository<T, ID> {
-    fun findAll(): List<T>
+import models.VehiculoDto
+
+interface ICrudRepository<ID, T> {
+    fun findAll(): List<VehiculoDto>
+    fun exixstsById(id: ID): Boolean
+    fun create(vehiculo: VehiculoDto): Int
     fun findById(id: ID): T?
-    fun save(entity: T): T
-    fun update(entity: T): T
-    fun deleteById(id: ID): Boolean
+    fun dropById(id: ID): Boolean
+    fun findByUuid(uuid: String): T?
+    fun updateByUuid(vehiculo: VehiculoDto): Boolean
 }
