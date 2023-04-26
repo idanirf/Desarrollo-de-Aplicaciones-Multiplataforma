@@ -1,0 +1,2262 @@
+dia,localidad,provincia,temperaturaMax,horaRegistroTempMac,temperaturaMin,horaRegistroTempMin,precipitacion
+2017-10-29,Estaca de Bares,A Coru�a,18.3,12:50,15.9,12:50,0.0
+2017-10-29,As Pontes,A Coru�a,22.4,15:30,8.3,15:30,0.0
+2017-10-29,A Coru�a,A Coru�a,19.7,13:40,14.0,13:40,0.0
+2017-10-29,A Coru�a Aeropuerto,A Coru�a,21.7,16:00,8.5,16:00,0.0
+2017-10-29,Carballo, Depuradora,A Coru�a,20.5,15:20,5.3,15:20,0.0
+2017-10-29,Vimianzo,A Coru�a,21.4,13:40,12.1,13:40,0.0
+2017-10-29,Fisterra,A Coru�a,23.7,01:20,15.3,01:20,0.0
+2017-10-29,Mazaricos,A Coru�a,23.6,14:10,11.9,14:10,0.0
+2017-10-29,Sobrado,A Coru�a,22.6,16:30,11.2,16:30,0.0
+2017-10-29,Santiago de Compostela Aeropuerto,A Coru�a,23.8,16:30,11.6,16:30,0.0
+2017-10-29,Noia,A Coru�a,25.8,16:20,14.3,16:20,0.0
+2017-10-29,Boiro,A Coru�a,27.4,17:00,14.6,17:00,0.0
+2017-10-29,Padr�n,A Coru�a,26.8,16:20,13.3,16:20,0.0
+2017-10-29,Santiago de Compostela,A Coru�a,25.0,15:40,12.9,15:40,0.0
+2017-10-29,Rois, Casas do Porto,A Coru�a,24.3,16:30,14.5,16:30,0.0
+2017-10-29,Villarrobledo,Albacete,23.4,16:40,6.9,16:40,0.0
+2017-10-29,Munera,Albacete,21.8,15:50,2.2,15:50,0.0
+2017-10-29,Yeste, Embalse Fuensanta,Albacete,25.0,16:30,7.2,16:30,0.0
+2017-10-29,Nerpio,Albacete,20.6,15:40,3.5,15:40,0.0
+2017-10-29,Yeste,Albacete,22.3,16:40,9.6,16:40,0.0
+2017-10-29,Hell�n,Albacete,22.5,16:40,12.1,16:40,0.0
+2017-10-29,Tobarra,Albacete,22.6,16:50,9.8,16:50,0.0
+2017-10-29,Albacete Base A�rea,Albacete,22.0,16:20,4.9,16:20,0.0
+2017-10-29,Chinchilla,Albacete,21.7,16:10,7.6,16:10,0.0
+2017-10-29,Albacete,Albacete,24.0,16:10,7.0,16:10,0.0
+2017-10-29,Alcal� del J�car,Albacete,25.5,17:00,8.8,17:00,0.0
+2017-10-29,Almansa,Albacete,23.3,16:20,6.2,16:20,0.0
+2017-10-29,Orihuela,Alacant/Alicante,24.6,14:40,13.4,14:40,0.0
+2017-10-29,Pinoso,Alacant/Alicante,20.9,14:40,7.7,14:40,0.0
+2017-10-29,Rojales,Alacant/Alicante,24.1,16:10,15.3,16:10,0.0
+2017-10-29,Villena,Alacant/Alicante,23.3,15:10,5.9,15:10,0.0
+2017-10-29,Novelda,Alacant/Alicante,25.0,14:00,14.0,14:00,0.2
+2017-10-29,Elche/Elx,Alacant/Alicante,24.5,12:40,13.8,12:40,0.0
+2017-10-29,Alicante-Elche Aeropuerto,Alacant/Alicante,24.5,14:00,15.0,14:00,0.0
+2017-10-29,Alicante/Alacant,Alacant/Alicante,24.0,13:00,13.7,13:00,0.0
+2017-10-29,Benidorm,Alacant/Alicante,25.0,14:10,15.5,14:10,1.5
+2017-10-29,J�vea/ X�bia,Alacant/Alicante,24.2,13:00,14.3,13:00,0.0
+2017-10-29,Pego,Alacant/Alicante,23.7,14:20,16.8,14:20,0.2
+2017-10-29,Alcoy/Alcoi,Alacant/Alicante,22.5,13:50,12.4,13:50,0.0
+2017-10-29,V�lez Blanco - Topares,Almer�a,20.4,16:20,9.8,16:20,0.0
+2017-10-29,Adra,Almer�a,24.1,15:40,15.7,15:40,0.0
+2017-10-29,El Ejido,Almer�a,25.4,14:50,14.2,14:50,0.0
+2017-10-29,Roquetas de Mar,Almer�a,24.3,13:10,13.1,13:10,0.0
+2017-10-29,Abla,Almer�a,22.6,15:00,12.4,15:00,0.0
+2017-10-29,Almer�a Aeropuerto,Almer�a,27.2,15:10,14.6,15:10,0.2
+2017-10-29,Cabo de Gata,Almer�a,23.8,13:50,18.2,13:50,0.0
+2017-10-29,Garrucha, Puerto,Almer�a,23.5,14:10,15.9,14:10,0.0
+2017-10-29,Albox,Almer�a,25.4,15:30,13.3,15:30,0.0
+2017-10-29,Huercal Overa,Almer�a,25.5,14:30,12.0,14:30,0.0
+2017-10-29,Aramaio,Araba/�lava,13.0,16:20,9.1,16:20,0.0
+2017-10-29,Amurrio,Araba/�lava,17.2,16:10,9.3,16:10,0.0
+2017-10-29,Lalastra,Araba/�lava,12.6,17:30,7.4,17:30,0.0
+2017-10-29,Agurain/Salvatierra,Araba/�lava,14.3,17:10,6.8,17:10,0.6
+2017-10-29,Labastida,Araba/�lava,16.5,16:00,9.3,16:00,0.4
+2017-10-29,Leza,Araba/�lava,17.1,14:30,10.7,14:30,0.0
+2017-10-29,Campezo/Kanpezu,Araba/�lava,15.3,13:40,8.5,13:40,0.0
+2017-10-29,Cabrales,Asturias,20.0,15:00,12.9,15:00,0.0
+2017-10-29,Llanes,Asturias,19.7,12:20,13.8,12:20,0.0
+2017-10-29,Amieva, Panizales,Asturias,20.8,14:30,12.6,14:30,0.0
+2017-10-29,Pilo�a,Asturias,20.6,14:40,14.2,14:40,0.0
+2017-10-29,Colunga,Asturias,19.7,13:50,13.0,13:50,0.0
+2017-10-29,Gij�n, Campus,Asturias,20.7,14:20,15.1,14:20,0.0
+2017-10-29,Cabo Pe�as,Asturias,18.6,15:30,15.0,15:30,0.0
+2017-10-29,Asturias Aeropuerto,Asturias,20.0,14:00,13.2,14:00,0.0
+2017-10-29,Puerto de Pajares,Asturias,14.1,12:00,7.1,12:00,0.0
+2017-10-29,Pola de Lena,Asturias,19.8,16:20,11.9,16:20,0.0
+2017-10-29,Aller,Asturias,18.4,15:20,4.7,15:20,0.0
+2017-10-29,Mieres,Asturias,21.4,16:20,14.4,16:20,0.0
+2017-10-29,Oviedo,Asturias,19.3,15:20,14.1,15:20,0.0
+2017-10-29,Tineo, Soto de la Barca,Asturias,20.2,15:40,14.0,15:40,0.0
+2017-10-29,Pola de Somiedo,Asturias,20.1,16:00,3.6,16:00,0.0
+2017-10-29,Salas,Asturias,19.3,16:10,14.6,16:10,0.2
+2017-10-29,Cabo Busto,Asturias,18.6,14:40,15.3,14:40,0.0
+2017-10-29,Dega�a,Asturias,20.1,16:20,6.9,16:20,0.0
+2017-10-29,Ibias, San Antolin,Asturias,21.9,15:50,9.3,15:50,0.0
+2017-10-29,Villay�n, Oneta,Asturias,19.2,15:10,12.2,15:10,0.0
+2017-10-29,Castropol,Asturias,19.6,14:50,13.1,14:50,0.0
+2017-10-29,Taramundi, Ouria,Asturias,17.8,15:00,13.1,15:00,0.0
+2017-10-29,Puerto de Leitariegos,Asturias,18.9,14:10,8.8,14:10,0.0
+2017-10-29,Mu�otello,�vila,19.8,14:20,7.2,14:20,0.0
+2017-10-29,�vila,�vila,16.9,18:10,5.8,18:10,0.0
+2017-10-29,Gotarrendura,�vila,18.7,17:40,5.3,17:40,0.0
+2017-10-29,Arevalo,�vila,20.3,16:50,3.5,16:50,0.0
+2017-10-29,Rivilla de Barajas,�vila,18.6,17:20,7.7,17:20,0.0
+2017-10-29,Barco de Avila,�vila,21.6,14:10,3.7,14:10,0.0
+2017-10-29,Puerto El Pico,�vila,21.9,15:30,3.7,15:30,0.0
+2017-10-29,Candeleda,�vila,25.9,17:40,12.0,17:40,0.0
+2017-10-29,Herrera del Duque,Badajoz,28.1,16:40,9.0,16:40,0.0
+2017-10-29,Peraleda del Zaucejo,Badajoz,26.9,16:50,9.3,16:50,0.0
+2017-10-29,Castuera,Badajoz,26.1,17:10,17.5,17:10,0.0
+2017-10-29,Navalvillar de Pela,Badajoz,28.6,16:40,10.2,16:40,0.0
+2017-10-29,Don Benito,Badajoz,28.6,16:30,11.1,16:30,0.0
+2017-10-29,Llerena,Badajoz,26.1,17:20,14.6,17:20,0.0
+2017-10-29,Villafranca de los Barros,Badajoz,28.2,16:10,7.0,16:10,0.0
+2017-10-29,M�rida,Badajoz,28.9,16:10,8.9,16:10,0.0
+2017-10-29,Zafra,Badajoz,29.0,16:50,9.3,16:50,0.0
+2017-10-29,Almendralejo,Badajoz,27.7,16:20,12.3,16:20,0.0
+2017-10-29,Badajoz Aeropuerto,Badajoz,30.5,17:10,8.8,17:10,0.0
+2017-10-29,Alburquerque,Badajoz,29.6,16:50,13.1,16:50,0.0
+2017-10-29,Puebla de Obando,Badajoz,28.6,16:10,14.2,16:10,0.0
+2017-10-29,Badajoz,Badajoz,31.0,17:30,10.8,17:30,0.0
+2017-10-29,Olivenza,Badajoz,28.5,17:10,13.3,17:10,0.0
+2017-10-29,Alconchel,Badajoz,29.7,16:10,13.2,16:10,0.0
+2017-10-29,Barcarrota,Badajoz,28.7,17:40,12.1,17:40,0.0
+2017-10-29,Villanueva del Fresno,Badajoz,30.2,16:00,16.5,16:00,0.0
+2017-10-29,Monesterio,Badajoz,25.6,16:10,13.8,16:10,0.0
+2017-10-29,Fuente de Cantos,Badajoz,27.0,16:10,14.3,16:10,0.0
+2017-10-29,Jerez de los Caballeros,Badajoz,29.2,16:20,12.4,16:20,0.0
+2017-10-29,Fregenal de la Sierra,Badajoz,27.2,15:50,11.0,15:50,0.0
+2017-10-29,Azuaga,Badajoz,26.8,16:30,12.4,16:30,0.0
+2017-10-29,Pontons,Barcelona,22.7,16:40,10.3,16:40,0.0
+2017-10-29,Vilafranca del Pened�s,Barcelona,23.2,15:30,11.3,15:30,0.0
+2017-10-29,Sitges,Barcelona,22.7,14:10,14.4,14:10,0.0
+2017-10-29,Berga,Barcelona,18.4,16:50,9.7,16:50,0.0
+2017-10-29,Balsareny,Barcelona,21.1,17:00,8.6,17:00,0.0
+2017-10-29,Prats de Llu�an�s,Barcelona,19.3,16:20,7.1,16:20,0.0
+2017-10-29,Moi�,Barcelona,18.2,16:40,8.6,16:40,0.0
+2017-10-29,Manresa,Barcelona,22.1,17:00,9.4,17:00,0.0
+2017-10-29,Monistrol de Montserrat,Barcelona,16.8,15:30,10.7,15:30,0.0
+2017-10-29,Igualada,Barcelona,21.9,15:30,9.1,15:30,0.0
+2017-10-29,Corbera, Pic d'Agulles,Barcelona,21.6,15:10,10.9,15:10,0.0
+2017-10-29,Barcelona,Barcelona,22.2,14:20,16.8,14:20,0.0
+2017-10-29,Barcelona, Museo Mar�timo,Barcelona,22.8,14:20,16.8,14:20,0.0
+2017-10-29,Caldes de Montbui,Barcelona,23.1,16:50,10.7,16:50,0.0
+2017-10-29,Vilassar de Dalt,Barcelona,24.0,14:10,16.1,14:10,0.0
+2017-10-29,Arenys de Mar,Barcelona,23.3,14:00,14.6,14:00,0.0
+2017-10-29,Fogars de Montcl�s,Barcelona,18.6,13:00,10.8,13:00,0.0
+2017-10-29,Sant Juli�  de Vilatorta,Barcelona,19.2,15:30,8.3,15:30,0.0
+2017-10-29,Lekeitio,Bizkaia,17.3,14:30,13.4,14:30,0.0
+2017-10-29,Forua,Bizkaia,17.7,14:30,9.8,14:30,0.0
+2017-10-29,Punta Galea,Bizkaia,18.0,14:30,11.4,14:30,0.0
+2017-10-29,Orozko,Bizkaia,17.0,17:00,8.7,17:00,0.0
+2017-10-29,Abadi�o,Bizkaia,12.1,16:10,7.5,16:10,0.0
+2017-10-29,Amorebieta--Etxano,Bizkaia,17.5,15:40,9.2,15:40,0.0
+2017-10-29,Balmaseda,Bizkaia,17.7,16:10,8.8,16:10,0.0
+2017-10-29,G�e�es,Bizkaia,17.6,15:30,10.3,15:30,0.0
+2017-10-29,Bilbao Aeropuerto,Bizkaia,19.2,15:20,10.1,15:20,0.0
+2017-10-29,Sopuerta,Bizkaia,17.9,15:20,9.9,15:20,0.0
+2017-10-29,Coru�a del Conde,Burgos,19.9,15:50,5.0,15:50,0.0
+2017-10-29,Aranda de Duero,Burgos,19.1,14:40,4.7,14:40,0.2
+2017-10-29,Pedrosa del Pr�ncipe,Burgos,18.0,15:50,7.4,15:50,0.8
+2017-10-29,Palacios de la Sierra,Burgos,18.1,14:50,3.2,14:50,1.4
+2017-10-29,Monterrubio de la Demanda,Burgos,13.7,13:40,6.9,13:40,0.6
+2017-10-29,Villamayor de los Montes,Burgos,15.3,15:50,8.9,15:50,0.0
+2017-10-29,Burgos Aeropuerto,Burgos,16.2,16:30,7.1,16:30,0.0
+2017-10-29,Santa Gadea de Alfoz,Burgos,13.7,15:20,7.6,15:20,0.2
+2017-10-29,Sargentes de la Lora,Burgos,15.8,14:50,7.0,14:50,0.0
+2017-10-29,Briviesca,Burgos,16.9,15:00,8.8,15:00,0.0
+2017-10-29,Medina de Pomar,Burgos,18.1,16:10,7.5,16:10,0.0
+2017-10-29,Miranda de Ebro,Burgos,19.2,14:40,7.1,14:40,0.0
+2017-10-29,Madrigal de la Vera,C�ceres,24.8,16:50,13.2,16:50,0.0
+2017-10-29,Navalmoral de la Mata,C�ceres,25.6,17:20,6.9,17:20,0.0
+2017-10-29,Garganta de la Olla,C�ceres,23.2,17:20,15.1,17:20,0.0
+2017-10-29,Serradilla,C�ceres,24.5,16:40,15.7,16:40,0.0
+2017-10-29,Jaraicejo,C�ceres,24.7,16:10,15.0,16:10,0.0
+2017-10-29,Trujillo,C�ceres,27.2,15:10,11.1,15:10,0.0
+2017-10-29,C�ceres,C�ceres,26.8,15:50,13.2,15:50,0.0
+2017-10-29,Ca�averal,C�ceres,26.2,16:30,18.7,16:30,0.0
+2017-10-29,Nu�omoral,C�ceres,26.4,15:20,8.5,15:20,0.0
+2017-10-29,Guijo de Granadilla,C�ceres,26.1,15:50,17.2,15:50,0.0
+2017-10-29,Herv�s,C�ceres,24.2,14:20,12.6,14:20,0.0
+2017-10-29,Montehermoso,C�ceres,28.0,16:00,19.0,16:00,0.0
+2017-10-29,Tornavacas,C�ceres,23.3,15:30,13.4,15:30,0.0
+2017-10-29,Piornal,C�ceres,23.4,15:40,12.5,15:40,0.0
+2017-10-29,Plasencia,C�ceres,26.6,17:30,15.4,17:30,0.0
+2017-10-29,Coria,C�ceres,27.7,16:30,16.2,16:30,0.0
+2017-10-29,Hoyos,C�ceres,26.4,16:00,18.3,16:00,0.0
+2017-10-29,Zarza La Mayor,C�ceres,27.6,16:10,17.5,16:10,0.0
+2017-10-29,Valverde del Fresno,C�ceres,26.9,15:50,18.4,15:50,0.0
+2017-10-29,Aliseda,C�ceres,27.3,15:20,12.6,15:20,0.0
+2017-10-29,Brozas,C�ceres,26.8,16:10,16.9,16:10,0.0
+2017-10-29,Valencia de Alc�ntara,C�ceres,26.9,16:40,11.1,16:40,0.0
+2017-10-29,Guadalupe,C�ceres,26.5,15:20,13.9,15:20,0.0
+2017-10-29,Ca�amero,C�ceres,26.5,16:10,14.0,16:10,0.0
+2017-10-29,Zorita,C�ceres,28.5,18:20,16.0,18:20,0.0
+2017-10-29,Alcuescar,C�ceres,28.1,17:00,12.8,17:00,0.0
+2017-10-29,Chipiona,C�diz,26.8,13:40,13.2,13:40,0.0
+2017-10-29,Rota, Base Naval,C�diz,25.9,17:10,12.4,17:10,0.0
+2017-10-29,Grazalema,C�diz,26.9,15:30,12.7,15:30,0.0
+2017-10-29,Olvera,C�diz,28.6,14:10,15.4,14:10,0.0
+2017-10-29,El Bosque,C�diz,26.9,13:10,12.8,13:10,0.0
+2017-10-29,San Jos� del Valle,C�diz,28.8,14:50,13.9,14:50,0.0
+2017-10-29,Jerez de la Frontera Aeropuerto,C�diz,28.9,14:00,10.7,14:00,0.0
+2017-10-29,San Fernando,C�diz,26.6,15:10,16.4,15:10,0.0
+2017-10-29,C�diz,C�diz,25.5,16:10,16.4,16:10,0.0
+2017-10-29,Medina Sidonia,C�diz,26.1,12:40,11.4,12:40,0.0
+2017-10-29,Vejer de la Frontera,C�diz,24.8,13:10,17.4,13:10,0.0
+2017-10-29,Barbate,C�diz,26.4,13:10,12.9,13:10,0.0
+2017-10-29,Tarifa,C�diz,23.3,15:40,18.5,15:40,0.0
+2017-10-29,Jimena de la Frontera,C�diz,21.8,15:40,7.8,15:40,0.0
+2017-10-29,San Roque,C�diz,21.3,16:20,11.3,16:20,0.0
+2017-10-29,Castro Urdiales,Cantabria,18.2,14:10,12.8,14:10,0.0
+2017-10-29,Ramales de la Victoria,Cantabria,19.6,16:20,8.8,16:20,0.0
+2017-10-29,Barcena de Cicero, Treto,Cantabria,18.9,15:00,10.2,15:00,0.0
+2017-10-29,Soba, Alto Miera,Cantabria,14.1,16:40,7.9,16:40,0.0
+2017-10-29,Santander Aeropuerto,Cantabria,19.8,13:40,11.7,13:40,0.0
+2017-10-29,Santander,Cantabria,18.3,13:40,13.6,13:40,0.0
+2017-10-29,Villacarriedo,Cantabria,17.8,16:00,9.7,16:00,0.0
+2017-10-29,Los Tojos, B�rcena Mayor,Cantabria,18.2,16:00,8.9,16:00,0.0
+2017-10-29,San Felices de Buelna,Cantabria,19.9,16:00,10.1,16:00,0.0
+2017-10-29,Torrelavega, Sierrapando,Cantabria,19.1,15:40,12.4,15:40,0.0
+2017-10-29,San Vicente de la Barquera,Cantabria,18.9,13:10,12.1,13:10,0.0
+2017-10-29,Camale�o, Fuente De,Cantabria,18.0,15:10,6.5,15:10,0.0
+2017-10-29,Cill�rigo de Li�bana, Tama,Cantabria,20.8,16:20,10.3,16:20,0.0
+2017-10-29,Tresviso,Cantabria,16.3,16:50,9.9,16:50,0.0
+2017-10-29,Santillana del Mar, Altamira,Cantabria,18.4,11:40,12.5,11:40,0.0
+2017-10-29,Reinosa,Cantabria,15.5,16:00,5.3,16:00,0.0
+2017-10-29,Alto Campoo,Cantabria,13.9,16:30,6.3,16:30,0.0
+2017-10-29,Valderredible, Cubillo de Ebro,Cantabria,17.1,15:10,8.7,15:10,0.0
+2017-10-29,Valderredible, Polientes,Cantabria,17.5,15:50,7.5,15:50,0.2
+2017-10-29,Segorbe,Castell�/Castell�n,23.8,14:20,11.3,14:20,0.0
+2017-10-29,Montanejos,Castell�/Castell�n,22.9,15:20,11.7,15:20,0.0
+2017-10-29,Villafranca del Cid/Vilafranca,Castell�/Castell�n,19.1,16:10,6.8,16:10,0.0
+2017-10-29,Atzeneta del Maestrat,Castell�/Castell�n,24.1,15:30,11.0,15:30,0.0
+2017-10-29,Castell�n - Almassora,Castell�/Castell�n,24.2,12:50,15.0,12:50,0.0
+2017-10-29,Torreblanca,Castell�/Castell�n,24.2,12:10,15.9,12:10,0.0
+2017-10-29,La Pobla de Benifass�-Fredes,Castell�/Castell�n,16.5,16:00,7.3,16:00,0.0
+2017-10-29,Vinar�s,Castell�/Castell�n,25.6,13:20,12.8,13:20,0.0
+2017-10-29,Morella,Castell�/Castell�n,17.4,16:00,9.2,16:00,0.0
+2017-10-29,Castellfort,Castell�/Castell�n,15.0,15:30,7.9,15:30,0.0
+2017-10-29,Ceuta,Ceuta,21.0,14:30,17.4,14:30,0.0
+2017-10-29,Alcazar de San Juan,Ciudad Real,22.2,16:30,9.2,16:30,0.0
+2017-10-29,Tomelloso,Ciudad Real,22.7,16:20,4.8,16:20,0.0
+2017-10-29,Ciudad Real,Ciudad Real,22.6,15:50,9.0,15:50,0.0
+2017-10-29,Villanueva de los Infantes,Ciudad Real,23.4,15:30,10.2,15:30,0.0
+2017-10-29,Valdepe�as,Ciudad Real,22.8,16:50,8.7,16:50,0.0
+2017-10-29,Viso del Marqu�s,Ciudad Real,22.6,15:30,8.4,15:30,0.0
+2017-10-29,Aben�jar,Ciudad Real,22.7,16:30,11.1,16:30,0.0
+2017-10-29,Puebla de Don Rodrigo,Ciudad Real,26.7,16:10,5.5,16:10,0.0
+2017-10-29,Almad�n,Ciudad Real,27.2,17:20,14.3,17:20,0.0
+2017-10-29,Puertollano,Ciudad Real,23.0,16:40,12.9,16:40,0.0
+2017-10-29,Fuencaliente,Ciudad Real,26.7,16:10,15.5,16:10,0.0
+2017-10-29,Valsequillo,C�rdoba,26.7,15:50,7.6,15:50,0.0
+2017-10-29,Hinojosa del Duque,C�rdoba,25.3,16:20,10.1,16:20,0.0
+2017-10-29,Carde�a,C�rdoba,28.0,16:40,15.3,16:40,0.0
+2017-10-29,Montoro,C�rdoba,30.8,17:20,7.9,17:20,0.0
+2017-10-29,Villanueva de C�rdoba,C�rdoba,26.9,16:20,14.0,16:20,0.0
+2017-10-29,C�rdoba, Embalse de Guadanu�o,C�rdoba,28.7,17:00,12.6,17:00,0.0
+2017-10-29,C�rdoba Aeropuerto,C�rdoba,31.2,18:20,9.7,18:20,0.0
+2017-10-29,Priego de Cordoba,C�rdoba,27.2,16:50,9.1,16:50,0.0
+2017-10-29,Do�a Menc�a,C�rdoba,26.2,17:00,17.0,17:00,0.0
+2017-10-29,C�rdoba, Pr�gdena,C�rdoba,30.2,18:40,12.5,18:40,0.0
+2017-10-29,Espiel,C�rdoba,29.2,16:40,7.4,16:40,0.0
+2017-10-29,Fuente Palmera,C�rdoba,30.0,16:50,12.9,16:50,0.0
+2017-10-29,Benamej�,C�rdoba,27.1,14:40,12.6,14:40,0.0
+2017-10-29,Aguilar de la Frontera,C�rdoba,28.8,16:30,10.6,16:30,0.0
+2017-10-29,La Rambla,C�rdoba,30.4,17:00,12.8,17:00,0.0
+2017-10-29,Beteta,Cuenca,16.9,15:30,7.4,15:30,0.0
+2017-10-29,Ca�izares,Cuenca,22.9,16:20,6.1,16:20,0.0
+2017-10-29,Taranc�n,Cuenca,22.5,17:20,10.7,17:20,0.0
+2017-10-29,Alc�zar del Rey,Cuenca,22.3,16:50,9.2,16:50,0.0
+2017-10-29,Abia de Obispalia,Cuenca,23.1,16:50,4.8,16:50,0.0
+2017-10-29,Villares del Saz,Cuenca,22.1,15:50,8.2,15:50,0.0
+2017-10-29,Alberca de Zancara,Cuenca,19.8,16:30,8.7,16:30,0.0
+2017-10-29,San Clemente,Cuenca,21.5,16:30,7.4,16:30,0.0
+2017-10-29,Osa de la Vega,Cuenca,22.0,18:20,8.4,18:20,0.0
+2017-10-29,Cuenca,Cuenca,22.8,17:30,6.6,17:30,0.0
+2017-10-29,Motilla del Palancar,Cuenca,21.3,16:20,9.2,16:20,0.0
+2017-10-29,Salvaca�ete,Cuenca,18.9,16:30,5.9,16:30,0.0
+2017-10-29,Mira,Cuenca,21.3,17:00,6.7,17:00,0.0
+2017-10-29,Ir�n,Gipuzkoa,16.7,16:10,12.6,16:10,0.0
+2017-10-29,Renteria,Gipuzkoa,16.6,16:00,9.2,16:00,0.0
+2017-10-29,Segura - Lastala,Gipuzkoa,16.9,16:00,10.0,16:00,0.0
+2017-10-29,Beasain,Gipuzkoa,16.2,16:10,9.5,16:10,0.0
+2017-10-29,Ordizia,Gipuzkoa,15.2,16:10,10.1,16:10,0.0
+2017-10-29,Legazpia,Gipuzkoa,14.2,16:20,8.7,16:20,0.0
+2017-10-29,Zumarraga,Gipuzkoa,14.1,16:10,7.9,16:10,0.0
+2017-10-29,Azpeitia,Gipuzkoa,16.2,16:10,10.5,16:10,0.0
+2017-10-29,Zumaia,Gipuzkoa,17.8,13:10,11.7,13:10,0.0
+2017-10-29,Aretxabaleta,Gipuzkoa,15.4,16:40,7.8,16:40,0.0
+2017-10-29,Elgeta,Gipuzkoa,14.7,16:20,8.5,16:20,0.0
+2017-10-29,Elgoibar,Gipuzkoa,16.0,14:50,9.3,14:50,0.0
+2017-10-29,Mutriku,Gipuzkoa,16.4,12:20,13.1,12:20,0.0
+2017-10-29,Blanes,Girona,23.1,15:40,14.8,15:40,0.6
+2017-10-29,Castell, Platja d'Aro,Girona,22.8,12:40,11.6,12:40,0.2
+2017-10-29,Sant Pau de Seg�ries,Girona,18.7,14:30,5.5,14:30,0.4
+2017-10-29,Planoles,Girona,19.1,14:30,5.6,14:30,0.8
+2017-10-29,Ripoll,Girona,19.3,14:40,7.6,14:40,0.4
+2017-10-29,Les Planes d'Hostoles,Girona,22.0,16:20,7.1,16:20,0.5
+2017-10-29,Sant Hilari,Girona,17.8,13:30,6.7,13:30,0.6
+2017-10-29,Girona Aeropuerto,Girona,23.5,15:00,9.2,15:00,0.0
+2017-10-29,Girona,Girona,24.4,15:30,10.8,15:30,1.0
+2017-10-29,Porqueres,Girona,24.3,15:50,9.4,15:50,0.6
+2017-10-29,L'Estartit,Girona,23.7,16:30,15.1,16:30,0.2
+2017-10-29,La Vall de Bianya,Girona,22.9,15:30,8.0,15:30,0.0
+2017-10-29,Castell� d'Emp�ries,Girona,23.9,16:50,16.1,16:50,0.0
+2017-10-29,Espolla,Girona,23.1,16:10,16.1,16:10,0.0
+2017-10-29,Figueres,Girona,23.4,16:20,16.1,16:20,0.0
+2017-10-29,La Molina,Girona,15.6,15:00,4.0,15:00,0.0
+2017-10-29,Baza,Granada,25.2,16:30,4.1,16:30,0.0
+2017-10-29,D�lar,Granada,21.8,12:40,11.1,12:40,0.0
+2017-10-29,Granada-Cartuja,Granada,29.4,16:50,11.9,16:50,0.0
+2017-10-29,Granada Aeropuerto,Granada,29.3,17:50,5.7,17:50,0.0
+2017-10-29,Loja,Granada,29.2,16:40,11.8,16:40,0.0
+2017-10-29,Lanjar�n,Granada,21.1,14:10,11.1,14:10,0.0
+2017-10-29,Salobre�a,Granada,23.2,14:50,10.9,14:50,0.0
+2017-10-29,Motril,Granada,23.0,10:40,13.7,10:40,0.0
+2017-10-29,Motril, Puerto,Granada,25.2,11:00,13.2,11:00,0.0
+2017-10-29,Castell de Ferro,Granada,21.5,14:10,16.0,14:10,0.0
+2017-10-29,V�lor,Granada,23.4,12:10,13.9,12:10,0.0
+2017-10-29,Molina de Arag�n,Guadalajara,19.5,17:30,3.4,17:30,0.0
+2017-10-29,Zaorejas,Guadalajara,18.6,16:30,6.3,16:30,0.0
+2017-10-29,Pastrana,Guadalajara,21.5,16:20,9.9,16:20,0.0
+2017-10-29,Pantano el Vado,Guadalajara,22.9,15:20,8.3,15:20,0.0
+2017-10-29,Sig�enza,Guadalajara,18.8,15:00,3.4,15:00,0.0
+2017-10-29,Guadalajara,Guadalajara,22.5,16:50,11.7,16:50,0.0
+2017-10-29,Brihuega,Guadalajara,20.4,15:50,7.6,15:50,0.1
+2017-10-29,El Pedregal,Guadalajara,18.1,16:30,4.2,16:30,0.0
+2017-10-29,Aroche,Huelva,30.7,16:10,9.1,16:10,0.0
+2017-10-29,El Granado,Huelva,32.7,16:10,10.4,16:10,0.0
+2017-10-29,Ayamonte,Huelva,29.3,13:40,13.5,13:40,0.0
+2017-10-29,Cartaya,Huelva,25.9,15:20,9.7,15:20,0.0
+2017-10-29,Alajar,Huelva,30.6,16:00,17.2,16:00,0.0
+2017-10-29,Valverde del Camino,Huelva,31.6,15:40,14.1,15:40,0.0
+2017-10-29,El Cerro de And�valo,Huelva,32.9,16:00,17.6,16:00,0.0
+2017-10-29,Alosno, Tharsis,Huelva,31.9,16:20,18.1,16:20,0.0
+2017-10-29,El Campillo,Huelva,30.5,16:50,17.4,16:50,0.0
+2017-10-29,Villarrasa,Huelva,32.0,14:10,12.5,14:10,0.0
+2017-10-29,Huelva, Ronda Este,Huelva,30.6,16:00,12.6,16:00,0.0
+2017-10-29,Cala,Huelva,25.3,15:20,13.0,15:20,0.0
+2017-10-29,Almonte,Huelva,31.1,15:40,9.0,15:40,0.0
+2017-10-29,Moguer, El Arenosillo,Huelva,29.9,14:40,14.0,14:40,0.0
+2017-10-29,Canfranc,Huesca,14.5,15:50,7.8,15:50,0.0
+2017-10-29,Jaca,Huesca,19.5,15:30,5.3,15:30,0.0
+2017-10-29,Valle de Hecho, Hecho,Huesca,18.4,15:00,6.4,15:00,0.0
+2017-10-29,Arag��s del Puerto,Huesca,20.2,15:30,7.4,15:30,0.0
+2017-10-29,Bailo,Huesca,20.0,15:10,8.3,15:10,0.0
+2017-10-29,Biescas,Huesca,19.2,14:00,5.6,14:00,0.0
+2017-10-29,Sabi��nigo,Huesca,20.5,15:50,3.2,15:50,0.0
+2017-10-29,Almud�var,Huesca,22.6,15:00,10.6,15:00,0.0
+2017-10-29,Sopeira,Huesca,21.9,15:30,9.9,15:30,0.0
+2017-10-29,Benabarre,Huesca,19.4,16:00,7.6,16:00,0.0
+2017-10-29,Bielsa,Huesca,22.9,14:30,5.9,14:30,0.0
+2017-10-29,Ainsa,Huesca,20.9,14:50,8.0,14:50,0.0
+2017-10-29,Torla - Dep�sito,Huesca,26.4,14:40,7.7,14:40,0.0
+2017-10-29,Benasque,Huesca,21.3,16:30,5.1,16:30,0.0
+2017-10-29,Seira,Huesca,21.8,17:00,6.1,17:00,0.0
+2017-10-29,Capella,Huesca,19.9,16:00,5.6,16:00,0.0
+2017-10-29,Barbastro,Huesca,23.3,17:00,5.8,17:00,0.0
+2017-10-29,Sari�ena, Dep�sito agua,Huesca,23.2,17:30,9.7,17:30,0.0
+2017-10-29,Huesca Aeropuerto,Huesca,21.8,16:30,9.8,16:30,0.0
+2017-10-29,Huesca,Huesca,22.4,15:50,8.7,15:50,0.0
+2017-10-29,Lanaja,Huesca,22.0,16:10,11.6,16:10,0.0
+2017-10-29,Ballobar,Huesca,22.1,15:10,9.5,15:10,0.0
+2017-10-29,Tamarite de Litera,Huesca,22.2,17:00,5.3,17:00,0.0
+2017-10-29,Fraga,Huesca,24.3,16:50,11.7,16:50,0.0
+2017-10-29,Escorca, Lluc,Illes Balears,18.2,11:50,8.7,11:50,0.0
+2017-10-29,Banyalbufar,Illes Balears,22.1,17:20,16.5,17:20,0.0
+2017-10-29,Calvi�, Es Capdell�,Illes Balears,25.2,15:20,12.4,15:20,0.0
+2017-10-29,Palma, Puerto,Illes Balears,24.3,13:40,16.2,13:40,0.0
+2017-10-29,Palma, Universitat,Illes Balears,23.3,12:40,10.9,12:40,0.0
+2017-10-29,Sierra de Alfabia, Bunyola,Illes Balears,15.1,14:30,10.5,14:30,0.0
+2017-10-29,Marratx�,Illes Balears,22.8,13:20,14.2,13:20,0.0
+2017-10-29,Palma de Mallorca, Aeropuerto,Illes Balears,23.0,13:30,11.4,13:30,0.0
+2017-10-29,Llucmajor, Cap Blanc,Illes Balears,23.6,16:40,15.7,16:40,0.0
+2017-10-29,Llucmajor,Illes Balears,21.7,13:10,12.6,13:10,0.0
+2017-10-29,Campos, Can Sion,Illes Balears,23.4,14:50,10.1,14:50,0.0
+2017-10-29,Campos, Salines Llevant,Illes Balears,22.5,15:10,10.8,15:10,0.0
+2017-10-29,Santany�,Illes Balears,22.5,13:20,14.0,13:20,0.0
+2017-10-29,Portocolom,Illes Balears,22.3,13:20,15.1,13:20,0.0
+2017-10-29,Son Servera,Illes Balears,21.6,12:40,12.9,12:40,0.0
+2017-10-29,Art�,Illes Balears,20.7,13:10,12.4,13:10,0.0
+2017-10-29,Art�-Col�nia de Sant Pere,Illes Balears,20.6,01:10,15.5,01:10,0.8
+2017-10-29,Muro, S'Albufera,Illes Balears,21.1,12:20,13.4,12:20,0.2
+2017-10-29,Manacor,Illes Balears,21.7,13:40,11.9,13:40,0.1
+2017-10-29,Sineu,Illes Balears,21.0,12:30,12.5,12:30,0.0
+2017-10-29,Santa Mar�a del Cam�,Illes Balears,22.1,16:10,10.9,16:10,0.0
+2017-10-29,Binissalem,Illes Balears,21.7,13:00,12.2,13:00,0.0
+2017-10-29,Escorca, Son Torrella,Illes Balears,15.8,15:40,9.1,15:40,0.0
+2017-10-29,Sa Pobla,Illes Balears,22.2,12:30,12.7,12:30,0.0
+2017-10-29,Pollen�a,Illes Balears,22.1,11:30,12.8,11:30,0.0
+2017-10-29,Port de Pollen�a,Illes Balears,22.3,12:00,13.5,12:00,0.0
+2017-10-29,Es Mercadal,Illes Balears,20.4,00:10,15.6,00:10,0.0
+2017-10-29,Ciutadella,Illes Balears,21.1,14:30,15.3,14:30,0.0
+2017-10-29,Ciutadella, Cala Galdana,Illes Balears,20.9,00:00,11.5,00:00,0.0
+2017-10-29,Menorca, Aeropuerto,Illes Balears,20.9,15:10,13.9,15:10,0.0
+2017-10-29,Sant Joan de Labritja,Illes Balears,22.0,14:40,12.1,14:40,0.0
+2017-10-29,Ibiza, Aeropuerto,Illes Balears,21.9,13:50,14.7,13:50,0.0
+2017-10-29,Eivissa,Illes Balears,22.8,13:30,14.5,13:30,0.0
+2017-10-29,Formentera,Illes Balears,25.6,12:30,15.6,12:30,0.0
+2017-10-29,Baeza,Ja�n,28.0,16:40,14.0,16:40,0.0
+2017-10-29,Torres,Ja�n,25.6,16:40,13.7,16:40,0.0
+2017-10-29,Villanueva del Arzobispo,Ja�n,27.1,18:40,10.0,18:40,0.0
+2017-10-29,Santa Elena,Ja�n,23.6,16:30,13.7,16:30,0.2
+2017-10-29,Ja�n,Ja�n,26.5,16:20,15.0,16:20,0.0
+2017-10-29,Linares,Ja�n,26.8,15:50,15.2,15:50,0.0
+2017-10-29,Bail�n,Ja�n,28.8,15:20,11.9,15:20,0.8
+2017-10-29,Alcal� La Real,Ja�n,26.3,13:40,12.6,13:40,0.2
+2017-10-29,Valdezcaray, estaci�n de esqu�,La Rioja,7.9,02:10,3.0,02:10,0.0
+2017-10-29,Haro,La Rioja,17.8,15:50,10.2,15:50,0.0
+2017-10-29,Anguiano,La Rioja,13.6,15:00,6.2,15:00,0.0
+2017-10-29,N�jera,La Rioja,17.7,16:10,9.6,16:10,0.0
+2017-10-29,Cenicero,La Rioja,18.2,16:10,11.3,16:10,0.0
+2017-10-29,Enciso,La Rioja,15.6,15:50,7.4,15:50,0.0
+2017-10-29,Alfaro,La Rioja,19.6,14:10,12.0,14:10,0.8
+2017-10-29,T�as,Las Palmas,28.4,14:00,18.7,14:00,0.3
+2017-10-29,Yaiza Playa Blanca,Las Palmas,27.7,00:20,21.0,00:20,0.0
+2017-10-29,Lanzarote Aeropuerto,Las Palmas,28.8,13:50,18.9,13:50,0.2
+2017-10-29,Har�a,Las Palmas,27.5,14:00,18.1,14:00,0.0
+2017-10-29,Tinajo,Las Palmas,30.2,15:40,19.1,15:40,0.0
+2017-10-29,P�jara,Las Palmas,30.5,13:10,24.0,13:10,0.0
+2017-10-29,Tuineje,Puerto Gran Tarajal,Las Palmas,29.3,15:50,22.8,15:50,0.0
+2017-10-29,Fuerteventura Aeropuerto,Las Palmas,26.7,14:20,21.4,14:20,0.0
+2017-10-29,La Oliva,Las Palmas,28.1,15:10,19.6,15:10,0.0
+2017-10-29,La Oliva, Puerto de Corralejo,Las Palmas,25.1,00:10,21.7,00:10,0.0
+2017-10-29,Vega de San Mateo,Las Palmas,21.2,14:10,13.4,14:10,0.0
+2017-10-29,Tejeda, Cruz de Tejeda,Las Palmas,22.6,15:00,15.3,15:00,0.0
+2017-10-29,Agaete,Las Palmas,29.0,15:00,23.5,15:00,0.0
+2017-10-29,La Aldea de San Nicol�s,Las Palmas,29.3,13:50,17.7,13:50,0.0
+2017-10-29,San Bartolome Tirajana, Cuevas del Pinar,Las Palmas,22.2,14:00,17.7,14:00,0.0
+2017-10-29,San Bartolome Tirajana, Lomo Pedro Alfonso,Las Palmas,27.6,14:40,21.0,14:40,0.0
+2017-10-29,La Aldea de San Nicol�s, Tasarte,Las Palmas,30.4,12:20,22.2,12:20,0.0
+2017-10-29,Mog�n, Puerto Rico,Las Palmas,30.6,12:20,22.4,12:20,0.0
+2017-10-29,San Bartolome Tirajana, Las Tirajanas,Las Palmas,26.0,14:10,17.8,14:10,0.0
+2017-10-29,Maspalomas, C. Insular Turismo,Las Palmas,29.6,00:20,22.3,00:20,0.0
+2017-10-29,San Bartolome Tirajana, El Matorral,Las Palmas,28.5,14:30,23.0,14:30,0.0
+2017-10-29,Ag�imes,Las Palmas,28.8,15:00,22.6,15:00,0.0
+2017-10-29,Telde, Centro Forestal Doramas,Las Palmas,27.7,12:50,21.0,12:50,0.0
+2017-10-29,Gran Canaria Aeropuerto,Las Palmas,27.9,12:20,22.5,12:20,0.0
+2017-10-29,Telde, Melenara,Las Palmas,28.1,12:50,19.8,12:50,0.0
+2017-10-29,Teror,Las Palmas,28.7,14:00,16.9,14:00,0.0
+2017-10-29,Las Palmas de Gran Canaria, Tafira,Las Palmas,27.6,13:10,20.1,13:10,0.0
+2017-10-29,Las Palmas de Gran Canaria, San Cristobal,Las Palmas,30.5,13:10,21.3,13:10,0.0
+2017-10-29,Las Palmas de Gran Canaria, Pl. de la Feria,Las Palmas,28.7,12:50,22.4,12:50,0.0
+2017-10-29,Valleseco,Las Palmas,27.2,14:00,17.8,14:00,0.0
+2017-10-29,Arucas,Las Palmas,30.4,15:00,21.8,15:00,0.0
+2017-10-29,Maspalomas,Las Palmas,29.1,00:20,20.6,00:20,0.0
+2017-10-29,Teguise,Las Palmas,28.2,11:20,20.6,11:20,0.0
+2017-10-29,Posada de Valde�n, Soto,Le�n,15.5,15:50,4.9,15:50,0.0
+2017-10-29,Villablino,Le�n,26.0,15:20,3.4,15:20,0.0
+2017-10-29,Ponferrada,Le�n,27.1,18:10,6.2,18:10,0.0
+2017-10-29,Vega de Espinareda,Le�n,28.3,16:40,6.7,16:40,0.0
+2017-10-29,Ria�o,Le�n,20.7,14:20,7.3,14:20,0.0
+2017-10-29,Cubillas de Rueda,Le�n,21.5,16:50,1.3,16:50,0.0
+2017-10-29,Le�n, Virgen del Camino,Le�n,20.5,17:20,6.7,17:20,0.0
+2017-10-29,Valencia de Don Juan,Le�n,21.2,17:20,3.6,17:20,0.0
+2017-10-29,Barrios de Luna, Mi�era,Le�n,21.5,14:40,10.1,14:40,0.0
+2017-10-29,Quintana del Castillo, Villameca,Le�n,22.1,16:00,3.9,16:00,0.0
+2017-10-29,Astorga,Le�n,22.2,15:50,4.7,15:50,0.0
+2017-10-29,Bustillo del P�ramo,Le�n,20.4,17:10,2.6,17:10,0.0
+2017-10-29,Martinet,Lleida,22.1,15:30,4.2,15:30,0.0
+2017-10-29,La Seu d'Urgell,Lleida,24.5,16:10,5.0,16:10,0.0
+2017-10-29,Josa i Tuix�n,Lleida,20.6,15:30,4.7,15:30,0.0
+2017-10-29,Coll de Narg�,Lleida,19.0,15:40,7.9,15:40,0.0
+2017-10-29,Tor�,Lleida,19.6,16:10,5.0,16:10,0.0
+2017-10-29,Artesa de Segre,Lleida,20.0,16:50,5.3,16:50,0.0
+2017-10-29,Talarn,Lleida,22.6,15:10,11.1,15:10,0.0
+2017-10-29,Llimiana,Lleida,22.5,14:40,8.6,14:40,0.0
+2017-10-29,Granyanella,Lleida,19.1,16:30,9.5,16:30,0.0
+2017-10-29,T�rrega,Lleida,19.2,16:00,7.1,16:00,0.0
+2017-10-29,Os de Balaguer,Lleida,20.2,16:50,6.7,16:50,0.0
+2017-10-29,Mollerussa,Lleida,21.5,16:20,8.2,16:20,0.0
+2017-10-29,Vall de Bo�,Lleida,21.6,15:30,3.7,15:30,0.0
+2017-10-29,Lleida,Lleida,23.1,17:20,8.0,17:20,0.0
+2017-10-29,La Pobla de C�rvoles,Lleida,19.7,16:10,10.1,16:10,0.0
+2017-10-29,El Soler�s,Lleida,21.5,16:50,11.0,16:50,0.0
+2017-10-29,Naut Aran, Arties,Lleida,17.9,14:40,6.2,14:40,0.0
+2017-10-29,Boss�st,Lleida,16.6,14:30,7.3,14:30,0.0
+2017-10-29,Cervantes,Lugo,22.4,17:00,10.2,17:00,0.0
+2017-10-29,Ribadeo,Lugo,18.3,12:40,13.5,12:40,0.0
+2017-10-29,Mondo�edo,Lugo,17.7,16:10,15.5,16:10,0.0
+2017-10-29,Burela,Lugo,18.6,12:00,16.5,12:00,0.0
+2017-10-29,Lugo Aeropuerto,Lugo,20.3,15:20,9.8,15:20,0.0
+2017-10-29,Lugo,Lugo,20.4,14:40,12.0,14:40,0.0
+2017-10-29,O P�ramo,Lugo,22.3,16:00,9.4,16:00,0.0
+2017-10-29,Becerre�,Lugo,19.1,15:30,9.9,15:30,0.0
+2017-10-29,O Savi�ao,Lugo,22.0,16:40,11.1,16:40,0.0
+2017-10-29,Folgoso do Courel,Lugo,22.2,17:40,7.9,17:40,0.0
+2017-10-29,Monforte de Lemos,Lugo,26.9,17:00,5.0,17:00,0.0
+2017-10-29,Puerto de Navacerrada,Madrid,16.2,14:10,6.3,14:10,0.0
+2017-10-29,Aranjuez,Madrid,25.1,16:30,6.5,16:30,0.0
+2017-10-29,Rascafr�a,Madrid,24.3,15:20,3.5,15:20,0.0
+2017-10-29,Buitrago del Lozoya,Madrid,22.8,14:40,6.6,14:40,0.0
+2017-10-29,Somosierra,Madrid,15.1,16:10,5.3,16:10,0.0
+2017-10-29,Madrid, El Goloso,Madrid,21.2,17:00,7.6,17:00,0.0
+2017-10-29,Madrid Aeropuerto,Madrid,23.8,16:40,8.3,16:40,0.0
+2017-10-29,Alcala de Henares,Madrid,23.5,16:30,9.8,16:30,0.0
+2017-10-29,Arganda del Rey,Madrid,24.4,16:50,6.1,16:50,0.0
+2017-10-29,Colmenar Viejo,Madrid,20.1,16:10,9.7,16:10,0.0
+2017-10-29,Madrid, Ciudad Universitaria,Madrid,23.6,16:20,6.8,16:20,0.0
+2017-10-29,Pozuelo de Alarc�n,Madrid,24.4,17:30,5.2,17:30,0.0
+2017-10-29,Madrid, Retiro,Madrid,22.2,15:50,12.3,15:50,0.0
+2017-10-29,Tielmes,Madrid,23.1,15:50,11.8,15:50,0.0
+2017-10-29,Puerto Alto del Le�n,Madrid,14.5,00:10,4.2,00:10,0.0
+2017-10-29,Alpedrete,Madrid,24.5,14:50,10.6,14:50,0.0
+2017-10-29,Rozas de Puerto Real,Madrid,22.5,17:30,12.6,17:30,0.0
+2017-10-29,Robledo de Chavela,Madrid,23.4,16:30,8.7,16:30,0.0
+2017-10-29,Valdemorillo,Madrid,23.0,16:30,9.5,16:30,0.0
+2017-10-29,Ronda Instituto,M�laga,27.0,14:40,14.3,14:40,0.0
+2017-10-29,Cortes de la Frontera,M�laga,21.6,12:00,10.2,12:00,0.0
+2017-10-29,Alpandeire,M�laga,25.7,14:30,15.2,14:30,0.0
+2017-10-29,Estepona,M�laga,22.0,15:20,13.3,15:20,0.0
+2017-10-29,Benahavis,M�laga,20.1,14:00,14.1,14:00,0.0
+2017-10-29,Marbella, Puerto,M�laga,20.4,18:00,14.4,18:00,0.0
+2017-10-29,Marbella,M�laga,21.6,17:10,15.8,17:10,0.0
+2017-10-29,Fuengirola,M�laga,21.6,16:30,14.8,16:30,0.0
+2017-10-29,Torremolinos,M�laga,22.4,17:00,13.0,17:00,0.0
+2017-10-29,�lora,M�laga,23.4,15:40,13.5,15:40,0.0
+2017-10-29,Co�n,M�laga,24.4,14:40,13.9,14:40,0.0
+2017-10-29,M�laga Aeropuerto,M�laga,23.1,16:00,11.6,16:00,0.0
+2017-10-29,M�laga, Centro Meteorol�gico,M�laga,23.6,14:20,12.5,14:20,0.0
+2017-10-29,M�laga, Puerto,M�laga,22.1,16:20,15.6,16:20,0.0
+2017-10-29,Rincon de la Victoria,M�laga,25.0,16:50,15.2,16:50,0.0
+2017-10-29,V�lez-M�laga,M�laga,24.3,13:30,12.5,13:30,0.0
+2017-10-29,Algarrobo,M�laga,22.9,14:10,12.6,14:10,0.0
+2017-10-29,Nerja,M�laga,22.2,13:30,15.3,13:30,0.0
+2017-10-29,Fuente de Piedra,M�laga,23.7,15:10,8.2,15:10,0.0
+2017-10-29,Melilla,Melilla,22.0,15:20,16.3,15:20,0.0
+2017-10-29,�guilas,Murcia,25.2,12:00,16.5,12:00,0.0
+2017-10-29,Mazarr�n,Murcia,25.8,13:20,14.8,13:20,0.0
+2017-10-29,Cartagena,Murcia,25.1,14:10,13.2,14:10,0.0
+2017-10-29,Fuente �lamo de Murcia,Murcia,25.6,14:20,14.2,14:20,0.0
+2017-10-29,Torre-Pacheco,Murcia,25.2,15:00,12.9,15:00,0.0
+2017-10-29,San Javier Aeropuerto,Murcia,24.9,15:10,14.8,15:10,0.0
+2017-10-29,Moratalla,Murcia,20.7,14:50,10.1,14:50,0.0
+2017-10-29,Caravaca de La Cruz,Murcia,23.0,15:10,9.7,15:10,0.0
+2017-10-29,Calasparra,Murcia,24.1,15:50,11.2,15:50,0.0
+2017-10-29,Bullas,Murcia,22.3,15:30,14.0,15:30,0.0
+2017-10-29,Jumilla,Murcia,23.5,15:10,8.2,15:10,0.0
+2017-10-29,Cieza,Murcia,23.9,16:00,11.1,16:00,0.0
+2017-10-29,Archena,Murcia,26.3,16:00,12.6,16:00,0.0
+2017-10-29,Mula,Murcia,24.3,16:40,14.6,16:40,0.0
+2017-10-29,Murcia,Murcia,26.6,15:50,14.3,15:50,0.0
+2017-10-29,Caravaca de La Cruz, Los Royos,Murcia,20.8,15:20,9.0,15:20,0.0
+2017-10-29,Lorca, Zarcilla de Ramos,Murcia,23.3,14:20,10.7,14:20,0.0
+2017-10-29,Lorca,Murcia,25.2,17:10,12.7,17:10,0.0
+2017-10-29,Puerto Lumbreras,Murcia,23.7,14:50,14.9,14:50,0.0
+2017-10-29,Totana,Murcia,24.6,15:40,14.7,15:40,0.0
+2017-10-29,Alhama de Murcia,Murcia,24.3,16:10,13.2,16:10,0.0
+2017-10-29,Molina de Segura,Murcia,24.6,16:10,13.4,16:10,0.0
+2017-10-29,Abanilla,Murcia,24.8,14:30,12.8,14:30,0.0
+2017-10-29,Yecla,Murcia,22.6,16:40,8.8,16:40,0.0
+2017-10-29,Baztan, Irurita,Navarra,16.9,16:40,5.9,16:40,0.0
+2017-10-29,Bera,Navarra,17.3,14:20,8.2,14:20,0.0
+2017-10-29,Areso,Navarra,14.3,16:10,9.5,16:10,0.0
+2017-10-29,Los Arcos,Navarra,19.4,16:00,9.3,16:00,0.0
+2017-10-29,Isaba/Izaba,Navarra,16.0,12:50,8.5,12:50,0.0
+2017-10-29,Oroz-Betelu/Orotz-Betelu,Navarra,13.7,14:30,10.3,14:30,0.0
+2017-10-29,Roncesvalles,Navarra,9.9,00:00,6.8,00:00,0.0
+2017-10-29,Navascu�s/Nabaskoze,Navarra,18.9,15:10,5.2,15:10,0.0
+2017-10-29,C�seda,Navarra,18.2,13:40,11.9,13:40,0.0
+2017-10-29,Olite/Erriberri,Navarra,17.2,16:10,11.7,16:10,0.0
+2017-10-29,Esteribar, Eugui,Navarra,14.2,15:30,7.4,15:30,0.0
+2017-10-29,Monreal/Elo,Navarra,14.9,16:20,9.7,16:20,0.0
+2017-10-29,Pamplona Aeropuerto,Navarra,16.4,14:50,10.3,14:50,0.0
+2017-10-29,Aranguren, Ilundain,Navarra,15.6,15:10,9.7,15:10,0.0
+2017-10-29,Irurtzun,Navarra,15.5,16:10,11.1,16:10,0.0
+2017-10-29,Larraga,Navarra,17.9,15:20,10.1,15:20,0.0
+2017-10-29,Bardenas Reales, Base A�rea,Navarra,19.0,15:40,12.6,15:40,0.0
+2017-10-29,Monteagudo,Navarra,18.7,14:40,12.6,14:40,0.0
+2017-10-29,Tudela,Navarra,19.2,16:00,12.6,16:00,0.0
+2017-10-29,Luzaide/Valcarlos,Navarra,14.3,16:00,9.4,16:00,0.0
+2017-10-29,O Barco de Valdeorras,Ourense,22.6,18:20,6.6,18:20,0.0
+2017-10-29,A Pobra de Trives,Ourense,23.6,15:30,10.2,15:30,0.0
+2017-10-29,Ourense,Ourense,27.2,17:50,8.3,17:50,0.0
+2017-10-29,Beariz,Ourense,26.8,15:00,11.0,15:00,0.0
+2017-10-29,Carballi�o, O,Ourense,26.4,17:20,6.8,17:20,0.0
+2017-10-29,Ribadavia,Ourense,27.1,17:20,7.6,17:20,0.0
+2017-10-29,Allariz,Ourense,23.9,18:10,5.2,18:10,0.0
+2017-10-29,Xinzo de Limia,Ourense,24.6,17:00,1.0,17:00,0.0
+2017-10-29,Mui�os,Ourense,23.8,17:40,10.2,17:40,0.0
+2017-10-29,A Gudi�a,Ourense,22.0,16:30,9.6,16:30,0.0
+2017-10-29,Ver�n,Ourense,25.4,16:30,4.5,16:30,0.0
+2017-10-29,Cervera de Pisuerga,Palencia,20.8,14:40,7.1,14:40,0.7
+2017-10-29,Aguilar de Campoo,Palencia,15.4,15:50,6.8,15:50,0.8
+2017-10-29,Villaeles de Valdavia,Palencia,16.9,16:20,3.5,16:20,0.4
+2017-10-29,Velilla del R�o Carri�n, Camporredondo de Alba,Palencia,20.1,16:00,8.9,16:00,0.0
+2017-10-29,Carri�n de los Condes,Palencia,18.5,16:00,2.5,16:00,0.0
+2017-10-29,Autilla del Pino,Palencia,17.8,14:40,7.9,14:40,0.0
+2017-10-29,Palencia,Palencia,18.8,15:20,8.5,15:20,1.2
+2017-10-29,Santerv�s de la Vega, Villap�n,Palencia,17.9,14:00,4.7,14:00,0.0
+2017-10-29,Silleda,Pontevedra,27.6,15:50,13.5,15:50,0.0
+2017-10-29,A Estrada,Pontevedra,25.7,16:30,10.7,16:30,0.0
+2017-10-29,Vilagarc�a de Arousa,Pontevedra,27.8,17:20,13.4,17:20,0.4
+2017-10-29,Pontevedra,Pontevedra,27.4,14:40,14.1,14:40,0.0
+2017-10-29,A Lama,Pontevedra,27.5,15:20,19.0,15:20,0.0
+2017-10-29,Vigo Aeropuerto,Pontevedra,29.3,16:10,14.9,16:10,0.0
+2017-10-29,Vigo,Pontevedra,29.3,15:50,18.5,15:50,0.0
+2017-10-29,A Ca�iza,Pontevedra,25.6,16:20,12.8,16:20,0.0
+2017-10-29,Ponteareas, Canedo,Pontevedra,29.7,17:20,10.1,17:20,0.0
+2017-10-29,O Rosal,Pontevedra,29.3,16:40,18.4,16:40,0.0
+2017-10-29,La Covatilla, estaci�n de esqu�,Salamanca,15.2,15:40,8.8,15:40,0.0
+2017-10-29,Pedrosillo de Los Aires,Salamanca,18.8,17:40,7.5,17:40,0.6
+2017-10-29,Pedraza de Alba,Salamanca,18.7,17:50,6.8,17:50,0.0
+2017-10-29,Salamanca Aeropuerto,Salamanca,20.8,17:00,4.1,17:00,0.0
+2017-10-29,Salamanca,Salamanca,22.4,16:40,7.3,16:40,0.0
+2017-10-29,Barbadillo,Salamanca,21.0,17:20,7.7,17:20,0.0
+2017-10-29,Ledesma,Salamanca,20.7,17:20,5.7,17:20,0.0
+2017-10-29,Villarino de los Aires,Salamanca,23.5,17:40,7.6,17:40,0.0
+2017-10-29,Boadilla Fuente San Esteban,Salamanca,20.8,17:00,9.0,17:00,0.0
+2017-10-29,Vitigudino,Salamanca,22.2,17:20,8.7,17:20,0.0
+2017-10-29,El Ma�llo,Salamanca,19.5,15:10,12.0,15:10,0.0
+2017-10-29,Ba�ob�rez,Salamanca,21.3,16:00,10.6,16:00,0.0
+2017-10-29,Navasfr�as,Salamanca,21.7,16:10,2.4,16:10,0.0
+2017-10-29,El Bod�n Base A�rea,Salamanca,21.1,15:20,8.8,15:20,0.0
+2017-10-29,Saelices El Chico,Salamanca,22.4,15:40,11.5,15:40,0.0
+2017-10-29,Fresno de Cantespino,Segovia,19.5,17:20,3.7,17:20,0.0
+2017-10-29,Aldeanueva de Serrezuela,Segovia,16.9,15:30,6.4,15:30,0.0
+2017-10-29,La Pinilla, estaci�n de esqu�,Segovia,14.7,14:20,6.3,14:20,0.0
+2017-10-29,Pedraza,Segovia,18.2,17:00,4.5,17:00,0.0
+2017-10-29,Cu�llar,Segovia,21.2,14:50,2.3,14:50,0.0
+2017-10-29,Segovia,Segovia,18.1,17:30,6.0,17:30,0.0
+2017-10-29,San Rafael,Segovia,15.9,16:50,5.1,16:50,0.0
+2017-10-29,Miguela�ez,Segovia,19.5,16:40,5.6,16:40,0.0
+2017-10-29,La Roda de Andaluc�a,Sevilla,26.1,15:40,10.6,15:40,0.0
+2017-10-29,Lora de Estepa,Sevilla,25.8,14:10,12.6,14:10,0.0
+2017-10-29,�cija,Sevilla,29.8,16:40,8.9,16:40,0.0
+2017-10-29,La Puebla de los Infantes,Sevilla,29.2,16:20,8.1,16:20,0.0
+2017-10-29,Fuentes de Andaluc�a,Sevilla,30.5,17:30,14.0,17:30,0.0
+2017-10-29,Carmona,Sevilla,31.2,18:00,12.5,18:00,0.0
+2017-10-29,Guadalcanal,Sevilla,26.8,16:50,16.1,16:50,0.0
+2017-10-29,Almad�n de la Plata,Sevilla,30.7,16:20,16.4,16:20,0.0
+2017-10-29,Sevilla Aeropuerto,Sevilla,31.6,18:10,12.9,18:10,0.0
+2017-10-29,Sevilla, Tablada,Sevilla,31.9,16:50,13.1,16:50,0.0
+2017-10-29,Mor�n de la Frontera,Sevilla,30.8,16:50,11.3,16:50,0.0
+2017-10-29,Carri�n de los C�spedes,Sevilla,30.1,17:00,12.0,17:00,0.0
+2017-10-29,Las Cabezas de San Juan,Sevilla,28.5,16:00,12.7,16:00,0.0
+2017-10-29,Osuna,Sevilla,28.4,16:50,15.1,16:50,0.0
+2017-10-29,Vinuesa, Quintanarejo,Soria,15.7,14:50,5.2,14:50,0.0
+2017-10-29,La P�veda de Soria, Barriomart�n,Soria,13.3,14:40,6.9,14:40,0.0
+2017-10-29,Soria,Soria,18.8,15:50,8.6,15:50,0.0
+2017-10-29,Lubia,Soria,18.1,16:10,4.4,16:10,0.0
+2017-10-29,Mor�n de Almaz�n,Soria,18.5,16:10,2.4,16:10,0.0
+2017-10-29,La Riba de Escalote,Soria,18.8,16:40,5.4,16:40,0.0
+2017-10-29,Ucero,Soria,21.3,17:20,0.2,17:20,0.0
+2017-10-29,Burgo de Osma,Soria,20.5,17:30,0.9,17:30,0.0
+2017-10-29,Liceras,Soria,17.5,17:10,5.5,17:10,0.0
+2017-10-29,�lvega,Soria,15.4,16:40,7.9,16:40,0.0
+2017-10-29,San Pedro Manrique,Soria,14.2,16:50,9.4,16:50,0.0
+2017-10-29,Arcos de Jal�n,Soria,18.5,14:10,4.9,14:10,0.0
+2017-10-29,Almazul,Soria,16.5,16:30,7.4,16:30,0.0
+2017-10-29,Puntagorda,Santa Cruz de Tenerife,29.5,15:50,20.0,15:50,0.0
+2017-10-29,Tijarafe,Santa Cruz de Tenerife,28.3,15:20,20.6,15:20,0.0
+2017-10-29,El Paso,Santa Cruz de Tenerife,28.4,15:30,16.6,15:30,0.0
+2017-10-29,Fuencaliente,Santa Cruz de Tenerife,28.6,13:40,22.6,13:40,0.0
+2017-10-29,Tazacorte,Santa Cruz de Tenerife,29.3,16:00,21.8,16:00,0.0
+2017-10-29,La Palma Aeropuerto,Santa Cruz de Tenerife,27.4,14:40,22.6,14:40,0.0
+2017-10-29,San Andr�s y Sauces,Santa Cruz de Tenerife,26.8,15:10,19.2,15:10,0.0
+2017-10-29,Vallehermoso, Alto Igualero,Santa Cruz de Tenerife,20.9,17:20,16.3,17:20,0.0
+2017-10-29,Agulo,Santa Cruz de Tenerife,28.3,13:30,20.6,13:30,0.0
+2017-10-29,Vallehermoso, Dama,Santa Cruz de Tenerife,28.7,12:10,19.5,12:10,0.0
+2017-10-29,Hermigua,Santa Cruz de Tenerife,29.7,13:40,19.2,13:40,0.0
+2017-10-29,San Sebasti�n de la Gomera,Santa Cruz de Tenerife,29.4,12:10,22.6,12:10,0.0
+2017-10-29,La Orotava, Ca�adas Teide,Santa Cruz de Tenerife,19.3,11:40,8.1,11:40,0.0
+2017-10-29,Adeje,Santa Cruz de Tenerife,31.7,14:30,20.8,14:30,0.0
+2017-10-29,Arico,Santa Cruz de Tenerife,28.5,13:20,20.9,13:20,0.0
+2017-10-29,Tenerife Sur Aeropuerto,Santa Cruz de Tenerife,32.3,14:00,24.2,14:00,0.0
+2017-10-29,Iza�a,Santa Cruz de Tenerife,16.5,12:20,9.0,12:20,0.0
+2017-10-29,Candelaria,Santa Cruz de Tenerife,25.8,13:10,20.1,13:10,0.0
+2017-10-29,G��mar,Santa Cruz de Tenerife,28.1,12:50,20.0,12:50,0.0
+2017-10-29,San Crist�bal de La Laguna,Llano de los Loros,Santa Cruz de Tenerife,27.3,16:10,17.0,16:10,0.0
+2017-10-29,Tenerife Norte Aeropuerto,Santa Cruz de Tenerife,27.8,16:20,19.3,16:20,0.0
+2017-10-29,Sta.Cruz de Tenerife,Santa Cruz de Tenerife,28.9,13:30,21.9,13:30,0.0
+2017-10-29,Anaga,Santa Cruz de Tenerife,29.1,13:20,20.7,13:20,0.0
+2017-10-29,La Victoria de Acentejo,Santa Cruz de Tenerife,30.2,16:40,19.8,16:40,0.0
+2017-10-29,Tacoronte,Santa Cruz de Tenerife,32.2,16:40,23.5,16:40,0.0
+2017-10-29,Puerto de la Cruz,Santa Cruz de Tenerife,29.3,16:50,22.9,16:50,0.0
+2017-10-29,Los Silos,Santa Cruz de Tenerife,29.5,13:30,18.4,13:30,0.0
+2017-10-29,El Pinar, Dep�sito,Santa Cruz de Tenerife,23.5,17:30,16.4,17:30,0.0
+2017-10-29,Valverde,Santa Cruz de Tenerife,22.0,17:10,15.0,17:10,0.0
+2017-10-29,Hierro Aeropuerto,Santa Cruz de Tenerife,29.2,17:40,23.4,17:40,0.0
+2017-10-29,Frontera, Sabinosa,Santa Cruz de Tenerife,29.6,14:30,21.9,14:30,0.0
+2017-10-29,Alforja,Tarragona,21.1,17:00,12.5,17:00,0.0
+2017-10-29,Reus Aeropuerto,Tarragona,24.7,16:10,10.7,16:10,0.0
+2017-10-29,Valls,Tarragona,23.2,15:10,11.0,15:10,0.0
+2017-10-29,Tarragona,Tarragona,25.2,15:50,13.6,15:50,0.0
+2017-10-29,Llorac,Tarragona,18.0,16:40,4.4,16:40,0.0
+2017-10-29,Horta de Sant Joan,Tarragona,21.1,17:00,12.6,17:00,0.0
+2017-10-29,La Pobla de Massaluca,Tarragona,21.2,17:10,12.7,17:10,0.0
+2017-10-29,Cabac�s,Tarragona,22.3,16:50,11.1,16:50,0.0
+2017-10-29,Rasquera,Tarragona,24.3,16:20,15.6,16:20,0.0
+2017-10-29,Tortosa,Tarragona,26.9,16:10,17.3,16:10,0.0
+2017-10-29,Sant Jaume d'Enveja,Tarragona,23.9,14:30,15.9,14:30,0.0
+2017-10-29,Teruel,Teruel,19.8,16:40,8.3,16:40,0.0
+2017-10-29,Jabaloyas,Teruel,15.2,15:50,6.5,15:50,0.0
+2017-10-29,Cedrillas,Teruel,17.3,15:50,4.9,15:50,0.0
+2017-10-29,Mosqueruela,Teruel,17.3,15:50,5.8,15:50,0.0
+2017-10-29,Santa Eulalia del Campo,Teruel,18.6,16:20,7.6,16:20,0.0
+2017-10-29,Calamocha,Teruel,19.0,15:10,6.1,15:10,0.0
+2017-10-29,Fonfr�a,Teruel,14.4,15:30,5.4,15:30,0.0
+2017-10-29,Muniesa,Teruel,18.2,15:40,9.4,15:40,0.0
+2017-10-29,Montalb�n,Teruel,17.6,16:40,7.0,16:40,0.0
+2017-10-29,Hijar,Teruel,24.5,15:50,12.7,15:50,0.0
+2017-10-29,Andorra,Teruel,18.8,15:20,10.0,15:20,0.0
+2017-10-29,Castellote,Teruel,19.9,17:10,11.5,17:10,0.0
+2017-10-29,Calanda,Teruel,21.0,16:30,11.2,16:30,0.0
+2017-10-29,Alca�iz,Teruel,21.3,16:40,9.3,16:40,0.0
+2017-10-29,Valderrobres,Teruel,19.5,16:50,8.3,16:50,0.0
+2017-10-29,Bello,Teruel,17.2,16:10,3.2,16:10,0.0
+2017-10-29,Tembleque,Toledo,22.6,16:50,7.7,16:50,0.0
+2017-10-29,Mora,Toledo,22.9,16:30,8.5,16:30,0.0
+2017-10-29,Toledo,Toledo,25.2,16:50,10.0,16:50,0.0
+2017-10-29,San Pablo de los Montes,Toledo,22.0,16:50,11.1,16:50,0.0
+2017-10-29,Navahermosa,Toledo,23.5,16:50,10.0,16:50,0.0
+2017-10-29,Castillo de Bayuela,Toledo,24.8,17:10,11.5,17:10,0.0
+2017-10-29,Talavera de la Reina,Toledo,25.1,17:20,9.4,17:20,0.0
+2017-10-29,Oropesa,Toledo,26.1,17:30,6.4,17:30,0.0
+2017-10-29,Quintanar de la Orden,Toledo,22.8,15:30,9.1,15:30,0.0
+2017-10-29,Madridejos,Toledo,21.7,17:10,6.6,17:10,0.0
+2017-10-29,Puerto del Rey,C�ceres,26.5,15:20,13.4,15:20,0.0
+2017-10-29,Fontanars dels Alforins,Val�ncia/Valencia,22.1,15:10,8.4,15:10,0.0
+2017-10-29,Oliva,Val�ncia/Valencia,22.3,15:20,15.1,15:20,0.0
+2017-10-29,Miramar,Val�ncia/Valencia,23.2,13:00,16.8,13:00,0.0
+2017-10-29,Barx,Val�ncia/Valencia,24.0,14:10,13.9,14:10,0.0
+2017-10-29,Jalance,Val�ncia/Valencia,25.0,17:00,7.6,17:00,0.0
+2017-10-29,Zarra,Val�ncia/Valencia,20.7,16:20,12.8,16:20,0.0
+2017-10-29,Bicorp,Val�ncia/Valencia,24.8,15:20,12.8,15:20,0.0
+2017-10-29,Ontinyent,Val�ncia/Valencia,24.3,15:50,11.5,15:50,0.0
+2017-10-29,X�tiva,Val�ncia/Valencia,25.5,15:20,13.6,15:20,0.0
+2017-10-29,Carcaixent,Val�ncia/Valencia,26.0,15:10,11.9,15:10,0.0
+2017-10-29,Utiel,Val�ncia/Valencia,22.5,17:50,9.0,17:50,0.0
+2017-10-29,Bu�ol,Val�ncia/Valencia,20.8,15:30,8.6,15:30,0.0
+2017-10-29,Poliny� de X�quer,Val�ncia/Valencia,23.5,14:30,12.8,14:30,0.0
+2017-10-29,Tur�s,Val�ncia/Valencia,25.3,15:00,10.4,15:00,0.0
+2017-10-29,Ademuz,Val�ncia/Valencia,21.7,16:50,7.6,16:50,0.0
+2017-10-29,Chelva,Val�ncia/Valencia,23.8,16:10,9.9,16:10,0.0
+2017-10-29,Lliria,Val�ncia/Valencia,26.1,15:40,12.7,15:40,0.0
+2017-10-29,Valencia Aeropuerto,Val�ncia/Valencia,25.1,14:30,12.9,14:30,0.0
+2017-10-29,Val�ncia, Viveros,Val�ncia/Valencia,25.4,14:00,14.7,14:00,0.0
+2017-10-29,Sagunto,Val�ncia/Valencia,24.7,13:10,14.3,13:10,0.0
+2017-10-29,Pe�afiel,Valladolid,18.6,14:50,10.2,14:50,0.0
+2017-10-29,Sard�n de Duero,Valladolid,21.3,15:10,6.2,15:10,0.0
+2017-10-29,Valladolid,Valladolid,20.3,16:00,8.4,16:00,0.0
+2017-10-29,Olmedo, Dep�sito de Agua,Valladolid,20.5,16:30,4.7,16:30,0.0
+2017-10-29,Olmedo,Valladolid,21.3,16:10,5.9,16:10,0.0
+2017-10-29,Rueda,Valladolid,20.4,16:50,4.8,16:50,0.0
+2017-10-29,Fuente el Sol,Valladolid,21.3,17:00,2.7,17:00,0.0
+2017-10-29,Villal�n de Campos,Valladolid,20.0,17:00,6.4,17:00,0.0
+2017-10-29,Medina de Rioseco,Valladolid,19.7,16:30,5.3,16:30,0.0
+2017-10-29,Morales del Toro,Zamora,21.9,16:30,6.2,16:30,0.0
+2017-10-29,Fuentesauco,Zamora,20.8,16:50,5.0,16:50,0.0
+2017-10-29,Villaf�fila,Zamora,22.3,16:10,4.7,16:10,0.0
+2017-10-29,Zamora,Zamora,21.5,16:30,5.8,16:30,0.0
+2017-10-29,Benavente,Zamora,21.8,16:50,4.8,16:50,0.0
+2017-10-29,Sanabria, Robleda-Cervantes,Zamora,20.2,17:40,-0.6,17:40,0.0
+2017-10-29,Villardeciervos,Zamora,22.1,16:30,1.2,16:30,0.0
+2017-10-29,Santiba�ez de Vidriales,Zamora,21.3,17:30,2.9,17:30,0.0
+2017-10-29,Pozuelo de Tabara,Zamora,21.6,17:30,5.5,17:30,0.0
+2017-10-29,Villadepera,Zamora,20.6,17:00,7.7,17:00,0.0
+2017-10-29,Fresno de Sayago,Zamora,21.0,17:10,2.2,17:10,0.0
+2017-10-29,Alca�ices,Zamora,21.6,16:10,6.7,16:10,0.0
+2017-10-29,Sos del Rey Cat�lico,Zaragoza,18.7,15:30,11.7,15:30,0.0
+2017-10-29,Tarazona,Zaragoza,18.9,16:00,10.7,16:00,0.0
+2017-10-29,Ejea de los Caballeros,Zaragoza,21.7,16:20,11.7,16:20,0.0
+2017-10-29,Castejon de Valdejasa,Zaragoza,19.2,14:30,8.8,14:30,0.0
+2017-10-29,Alhama de Aragon,Zaragoza,23.0,16:10,7.8,16:10,0.0
+2017-10-29,Daroca,Zaragoza,19.8,16:20,6.0,16:20,0.0
+2017-10-29,Calatayud,Zaragoza,22.1,17:30,5.3,17:30,0.0
+2017-10-29,La Almunia de Do�a Godina,Zaragoza,21.0,14:40,11.8,14:40,0.0
+2017-10-29,Zaragoza Aeropuerto,Zaragoza,20.5,15:20,13.8,15:20,0.0
+2017-10-29,Zaragoza, Valdespartera,Zaragoza,20.4,15:40,13.6,15:40,0.0
+2017-10-29,Leci�ena,Zaragoza,22.6,15:40,7.7,15:40,0.0
+2017-10-29,Valmadrid,Zaragoza,18.9,14:30,11.4,14:30,0.0
+2017-10-29,Quinto,Zaragoza,22.0,15:30,14.1,15:30,0.0
+2017-10-29,Caspe,Zaragoza,23.5,17:00,14.1,17:00,0.0
+2017-10-29,Bujaraloz,Zaragoza,21.8,16:10,9.9,16:10,0.0
+2017-10-30,Estaca de Bares,A Coru�a,16.9,14:40,15.2,14:40,0.0
+2017-10-30,As Pontes,A Coru�a,18.1,12:00,7.9,12:00,0.0
+2017-10-30,A Coru�a,A Coru�a,19.7,13:10,12.7,13:10,0.0
+2017-10-30,A Coru�a Aeropuerto,A Coru�a,20.2,14:30,6.7,14:30,0.0
+2017-10-30,Carballo, Depuradora,A Coru�a,19.0,14:10,4.6,14:10,0.0
+2017-10-30,Cabo Vilan,A Coru�a,16.3,13:10,13.9,13:10,0.0
+2017-10-30,Vimianzo,A Coru�a,17.7,13:40,11.4,13:40,0.0
+2017-10-30,Fisterra,A Coru�a,20.6,02:10,13.2,02:10,0.0
+2017-10-30,Mazaricos,A Coru�a,17.9,12:50,10.1,12:50,0.0
+2017-10-30,Sobrado,A Coru�a,17.5,13:40,9.1,13:40,0.0
+2017-10-30,Santiago de Compostela Aeropuerto,A Coru�a,19.7,15:20,9.2,15:20,0.0
+2017-10-30,Noia,A Coru�a,21.7,13:30,13.1,13:30,0.0
+2017-10-30,Boiro,A Coru�a,23.0,15:40,13.4,15:40,0.0
+2017-10-30,Padr�n,A Coru�a,23.0,15:20,9.9,15:20,0.0
+2017-10-30,Santiago de Compostela,A Coru�a,21.1,15:30,10.9,15:30,0.0
+2017-10-30,Rois, Casas do Porto,A Coru�a,20.3,16:00,11.5,16:00,0.0
+2017-10-30,Villarrobledo,Albacete,24.1,15:00,9.3,15:00,0.0
+2017-10-30,Munera,Albacete,19.4,16:00,4.3,16:00,0.0
+2017-10-30,Yeste, Embalse Fuensanta,Albacete,25.6,16:20,11.6,16:20,0.0
+2017-10-30,Nerpio,Albacete,19.8,15:00,4.1,15:00,0.0
+2017-10-30,Yeste,Albacete,22.0,15:40,8.3,15:40,0.0
+2017-10-30,Hell�n,Albacete,21.8,15:30,13.8,15:30,0.0
+2017-10-30,Tobarra,Albacete,22.6,15:50,11.3,15:50,0.0
+2017-10-30,Albacete Base A�rea,Albacete,20.2,16:40,8.1,16:40,0.0
+2017-10-30,Chinchilla,Albacete,19.6,15:20,10.3,15:20,0.0
+2017-10-30,Albacete,Albacete,21.9,15:10,11.1,15:10,0.0
+2017-10-30,Alcal� del J�car,Albacete,23.9,16:00,10.9,16:00,0.0
+2017-10-30,Almansa,Albacete,21.0,14:50,7.7,14:50,0.0
+2017-10-30,Orihuela,Alacant/Alicante,24.6,14:30,13.7,14:30,0.0
+2017-10-30,Pinoso,Alacant/Alicante,19.8,16:00,7.2,16:00,0.0
+2017-10-30,Rojales,Alacant/Alicante,24.8,13:50,15.7,13:50,0.0
+2017-10-30,Villena,Alacant/Alicante,22.2,15:50,9.5,15:50,0.0
+2017-10-30,Novelda,Alacant/Alicante,23.9,14:30,13.8,14:30,0.0
+2017-10-30,Elche/Elx,Alacant/Alicante,25.4,13:10,13.4,13:10,0.0
+2017-10-30,Alicante-Elche Aeropuerto,Alacant/Alicante,24.6,14:20,15.2,14:20,0.0
+2017-10-30,Alicante/Alacant,Alacant/Alicante,24.8,14:30,14.8,14:30,0.0
+2017-10-30,Benidorm,Alacant/Alicante,23.9,12:10,14.9,12:10,0.0
+2017-10-30,J�vea/ X�bia,Alacant/Alicante,23.9,11:40,14.2,11:40,0.0
+2017-10-30,Pego,Alacant/Alicante,23.0,15:00,15.3,15:00,0.0
+2017-10-30,Alcoy/Alcoi,Alacant/Alicante,23.6,15:30,11.5,15:30,0.0
+2017-10-30,V�lez Blanco - Topares,Almer�a,21.4,16:20,7.2,16:20,0.0
+2017-10-30,Adra,Almer�a,25.8,10:10,17.9,10:10,0.0
+2017-10-30,El Ejido,Almer�a,25.9,10:40,16.5,10:40,0.0
+2017-10-30,Roquetas de Mar,Almer�a,24.2,13:30,13.9,13:30,0.0
+2017-10-30,Abla,Almer�a,22.3,14:10,9.5,14:10,0.0
+2017-10-30,Almer�a Aeropuerto,Almer�a,25.3,12:20,16.3,12:20,0.0
+2017-10-30,Cabo de Gata,Almer�a,23.5,11:20,19.4,11:20,0.0
+2017-10-30,Garrucha, Puerto,Almer�a,23.9,11:50,17.0,11:50,0.0
+2017-10-30,Albox,Almer�a,24.5,14:00,13.2,14:00,0.0
+2017-10-30,Huercal Overa,Almer�a,24.4,13:00,13.5,13:00,0.0
+2017-10-30,Amurrio,Araba/�lava,14.6,15:10,6.6,15:10,1.0
+2017-10-30,Lalastra,Araba/�lava,12.6,12:50,4.6,12:50,0.0
+2017-10-30,Agurain/Salvatierra,Araba/�lava,13.1,12:50,4.4,12:50,0.2
+2017-10-30,Labastida,Araba/�lava,13.9,12:10,6.7,12:10,0.8
+2017-10-30,Leza,Araba/�lava,15.3,13:50,4.8,13:50,1.4
+2017-10-30,Campezo/Kanpezu,Araba/�lava,14.9,12:20,6.0,12:20,0.0
+2017-10-30,Cabrales,Asturias,19.1,14:50,9.0,14:50,0.0
+2017-10-30,Llanes,Asturias,21.0,13:40,11.4,13:40,0.6
+2017-10-30,Amieva, Panizales,Asturias,19.8,13:30,9.9,13:30,0.0
+2017-10-30,Pilo�a,Asturias,18.3,14:00,9.8,14:00,1.0
+2017-10-30,Colunga,Asturias,20.2,13:00,11.2,13:00,0.2
+2017-10-30,Gij�n, Campus,Asturias,19.9,12:40,9.3,12:40,1.6
+2017-10-30,Cabo Pe�as,Asturias,18.5,11:10,13.5,11:10,0.1
+2017-10-30,Asturias Aeropuerto,Asturias,19.5,11:40,12.0,11:40,1.6
+2017-10-30,Puerto de Pajares,Asturias,12.5,10:30,4.6,10:30,0.0
+2017-10-30,Pola de Lena,Asturias,16.7,12:40,8.1,12:40,0.0
+2017-10-30,Aller,Asturias,15.7,13:50,4.0,13:50,0.0
+2017-10-30,Mieres,Asturias,19.4,16:10,10.6,16:10,0.0
+2017-10-30,Oviedo,Asturias,17.8,13:10,12.2,13:10,0.0
+2017-10-30,Tineo, Soto de la Barca,Asturias,17.8,15:00,10.6,15:00,0.0
+2017-10-30,Pola de Somiedo,Asturias,16.8,14:30,3.2,14:30,0.0
+2017-10-30,Salas,Asturias,18.3,12:20,12.2,12:20,0.0
+2017-10-30,Cabo Busto,Asturias,17.7,12:20,13.3,12:20,0.2
+2017-10-30,Dega�a,Asturias,15.9,11:20,3.9,11:20,0.0
+2017-10-30,Ibias, San Antolin,Asturias,17.2,13:40,8.0,13:40,0.0
+2017-10-30,Villay�n, Oneta,Asturias,15.4,11:20,11.8,11:20,0.0
+2017-10-30,Castropol,Asturias,17.6,11:50,11.3,11:50,0.2
+2017-10-30,Taramundi, Ouria,Asturias,16.0,12:20,10.0,12:20,0.4
+2017-10-30,Puerto de Leitariegos,Asturias,14.8,11:30,3.6,11:30,0.0
+2017-10-30,Mu�otello,�vila,20.1,14:40,3.6,14:40,0.0
+2017-10-30,�vila,�vila,17.7,14:10,2.8,14:10,0.0
+2017-10-30,Gotarrendura,�vila,17.9,16:20,1.4,16:20,0.0
+2017-10-30,Arevalo,�vila,19.8,16:40,-0.1,16:40,0.0
+2017-10-30,Rivilla de Barajas,�vila,17.7,16:50,3.2,16:50,0.0
+2017-10-30,Barco de Avila,�vila,21.4,14:50,0.0,14:50,0.0
+2017-10-30,Puerto El Pico,�vila,21.5,14:50,-2.3,14:50,0.0
+2017-10-30,Cebreros,�vila,24.2,13:30,10.7,13:30,0.0
+2017-10-30,Candeleda,�vila,25.1,16:10,9.0,16:10,0.0
+2017-10-30,Herrera del Duque,Badajoz,26.8,15:50,8.8,15:50,0.0
+2017-10-30,Peraleda del Zaucejo,Badajoz,24.9,15:00,6.4,15:00,0.0
+2017-10-30,Castuera,Badajoz,24.7,16:30,13.8,16:30,0.0
+2017-10-30,Navalvillar de Pela,Badajoz,27.1,16:10,10.7,16:10,0.0
+2017-10-30,Don Benito,Badajoz,27.2,14:50,10.4,14:50,0.0
+2017-10-30,Llerena,Badajoz,24.5,15:20,12.1,15:20,0.0
+2017-10-30,Villafranca de los Barros,Badajoz,26.5,16:30,7.2,16:30,0.0
+2017-10-30,M�rida,Badajoz,28.9,16:10,8.1,16:10,0.0
+2017-10-30,Zafra,Badajoz,27.1,17:00,8.6,17:00,0.0
+2017-10-30,Almendralejo,Badajoz,25.7,15:30,10.0,15:30,0.0
+2017-10-30,Badajoz Aeropuerto,Badajoz,27.8,15:50,7.9,15:50,0.0
+2017-10-30,Alburquerque,Badajoz,27.4,15:50,9.6,15:50,0.0
+2017-10-30,Puebla de Obando,Badajoz,26.6,15:00,11.3,15:00,0.0
+2017-10-30,Badajoz,Badajoz,28.7,15:50,9.5,15:50,0.0
+2017-10-30,Olivenza,Badajoz,26.4,15:00,10.0,15:00,0.0
+2017-10-30,Alconchel,Badajoz,27.3,15:40,12.0,15:40,0.0
+2017-10-30,Barcarrota,Badajoz,26.8,16:40,9.1,16:40,0.0
+2017-10-30,Villanueva del Fresno,Badajoz,28.3,14:50,11.6,14:50,0.0
+2017-10-30,Monesterio,Badajoz,24.5,16:30,11.6,16:30,0.0
+2017-10-30,Fuente de Cantos,Badajoz,25.0,15:50,13.7,15:50,0.0
+2017-10-30,Jerez de los Caballeros,Badajoz,27.7,16:20,10.5,16:20,0.0
+2017-10-30,Fregenal de la Sierra,Badajoz,25.3,14:50,8.4,14:50,0.0
+2017-10-30,Azuaga,Badajoz,24.8,15:20,10.0,15:20,0.0
+2017-10-30,Pontons,Barcelona,18.9,13:50,8.8,13:50,0.0
+2017-10-30,Vilafranca del Pened�s,Barcelona,23.9,15:00,9.4,15:00,0.0
+2017-10-30,Sitges,Barcelona,22.8,13:30,14.0,13:30,0.0
+2017-10-30,Berga,Barcelona,18.4,15:20,4.5,15:20,0.0
+2017-10-30,Balsareny,Barcelona,19.0,16:10,4.0,16:10,0.0
+2017-10-30,Prats de Llu�an�s,Barcelona,18.8,14:40,3.9,14:40,0.0
+2017-10-30,Moi�,Barcelona,17.4,13:40,6.1,13:40,0.0
+2017-10-30,Manresa,Barcelona,19.5,15:20,6.5,15:20,0.0
+2017-10-30,Monistrol de Montserrat,Barcelona,15.3,15:30,8.0,15:30,0.0
+2017-10-30,Igualada,Barcelona,18.7,15:10,8.4,15:10,0.0
+2017-10-30,Corbera, Pic d'Agulles,Barcelona,15.7,13:00,7.9,13:00,0.0
+2017-10-30,Barcelona,Barcelona,23.5,14:30,15.0,14:30,0.0
+2017-10-30,Barcelona, Museo Mar�timo,Barcelona,24.7,15:40,14.8,15:40,0.0
+2017-10-30,Caldes de Montbui,Barcelona,23.8,14:30,7.4,14:30,0.0
+2017-10-30,Vilassar de Dalt,Barcelona,25.5,14:10,14.1,14:10,0.0
+2017-10-30,Arenys de Mar,Barcelona,24.5,12:20,12.6,12:20,0.0
+2017-10-30,Fogars de Montcl�s,Barcelona,20.7,14:20,9.0,14:20,0.0
+2017-10-30,Sant Juli�  de Vilatorta,Barcelona,18.4,14:50,3.7,14:50,0.1
+2017-10-30,Lekeitio,Bizkaia,16.4,14:10,11.4,14:10,0.0
+2017-10-30,Forua,Bizkaia,17.2,13:20,7.9,13:20,3.6
+2017-10-30,Punta Galea,Bizkaia,15.2,15:00,9.5,15:00,2.5
+2017-10-30,Orozko,Bizkaia,14.4,14:20,7.6,14:20,2.6
+2017-10-30,Abadi�o,Bizkaia,11.4,14:20,7.1,14:20,2.2
+2017-10-30,Amorebieta--Etxano,Bizkaia,15.6,13:50,7.2,13:50,0.6
+2017-10-30,G�e�es,Bizkaia,13.6,15:10,7.1,15:10,1.4
+2017-10-30,Bilbao Aeropuerto,Bizkaia,15.6,13:40,8.1,13:40,4.2
+2017-10-30,Sopuerta,Bizkaia,15.6,14:00,7.6,14:00,3.2
+2017-10-30,Coru�a del Conde,Burgos,19.6,16:20,1.4,16:20,0.0
+2017-10-30,Aranda de Duero,Burgos,19.1,14:10,-1.3,14:10,0.0
+2017-10-30,Pedrosa del Pr�ncipe,Burgos,17.7,14:40,2.5,14:40,0.0
+2017-10-30,Palacios de la Sierra,Burgos,18.7,12:40,0.2,12:40,0.0
+2017-10-30,Monterrubio de la Demanda,Burgos,13.3,13:30,2.3,13:30,0.0
+2017-10-30,Villamayor de los Montes,Burgos,14.7,13:40,6.1,13:40,0.0
+2017-10-30,Burgos Aeropuerto,Burgos,14.3,14:40,4.2,14:40,0.0
+2017-10-30,Santa Gadea de Alfoz,Burgos,11.9,12:40,5.2,12:40,0.2
+2017-10-30,Sargentes de la Lora,Burgos,14.4,14:10,5.2,14:10,0.0
+2017-10-30,Briviesca,Burgos,14.0,13:10,2.0,13:10,0.0
+2017-10-30,Medina de Pomar,Burgos,16.4,13:00,1.1,13:00,0.0
+2017-10-30,Miranda de Ebro,Burgos,15.3,14:30,2.0,14:30,0.0
+2017-10-30,Madrigal de la Vera,C�ceres,25.0,16:20,11.4,16:20,0.0
+2017-10-30,Navalmoral de la Mata,C�ceres,25.3,16:00,7.0,16:00,0.0
+2017-10-30,Garganta de la Olla,C�ceres,22.8,16:10,11.2,16:10,0.0
+2017-10-30,Serradilla,C�ceres,23.9,15:30,13.1,15:30,0.0
+2017-10-30,Jaraicejo,C�ceres,24.4,15:00,11.8,15:00,0.0
+2017-10-30,Trujillo,C�ceres,25.6,16:00,10.1,16:00,0.0
+2017-10-30,C�ceres,C�ceres,25.6,16:40,10.7,16:40,0.0
+2017-10-30,Ca�averal,C�ceres,25.4,16:20,12.0,16:20,0.0
+2017-10-30,Nu�omoral,C�ceres,26.4,15:10,3.5,15:10,0.0
+2017-10-30,Guijo de Granadilla,C�ceres,26.4,16:00,11.6,16:00,0.0
+2017-10-30,Herv�s,C�ceres,23.7,14:50,9.5,14:50,0.0
+2017-10-30,Montehermoso,C�ceres,25.6,16:40,13.4,16:40,0.0
+2017-10-30,Tornavacas,C�ceres,22.1,14:10,10.8,14:10,0.0
+2017-10-30,Piornal,C�ceres,21.7,13:30,8.4,13:30,0.0
+2017-10-30,Plasencia,C�ceres,26.4,16:40,10.0,16:40,0.0
+2017-10-30,Coria,C�ceres,26.3,17:20,10.8,17:20,0.0
+2017-10-30,Hoyos,C�ceres,25.9,15:20,13.2,15:20,0.0
+2017-10-30,Zarza La Mayor,C�ceres,25.6,16:40,11.9,16:40,0.0
+2017-10-30,Valverde del Fresno,C�ceres,25.5,14:00,10.4,14:00,0.0
+2017-10-30,Aliseda,C�ceres,26.5,16:10,8.8,16:10,0.0
+2017-10-30,Brozas,C�ceres,24.8,16:00,11.1,16:00,0.0
+2017-10-30,Valencia de Alc�ntara,C�ceres,24.5,16:20,8.7,16:20,0.0
+2017-10-30,Guadalupe,C�ceres,25.5,14:50,10.9,14:50,0.0
+2017-10-30,Ca�amero,C�ceres,25.5,15:40,13.5,15:40,0.0
+2017-10-30,Zorita,C�ceres,26.7,15:40,13.8,15:40,0.0
+2017-10-30,Alcuescar,C�ceres,26.2,16:00,9.4,16:00,0.0
+2017-10-30,Chipiona,C�diz,25.0,14:30,12.5,14:30,0.0
+2017-10-30,Rota, Base Naval,C�diz,26.4,16:20,14.1,16:20,0.0
+2017-10-30,Grazalema,C�diz,23.3,12:20,10.8,12:20,0.0
+2017-10-30,Olvera,C�diz,26.1,14:00,14.6,14:00,0.0
+2017-10-30,El Bosque,C�diz,26.7,15:20,11.3,15:20,0.0
+2017-10-30,San Jos� del Valle,C�diz,28.2,15:40,15.0,15:40,0.0
+2017-10-30,Jerez de la Frontera Aeropuerto,C�diz,27.1,15:20,10.2,15:20,0.0
+2017-10-30,San Fernando,C�diz,27.1,14:20,17.1,14:20,0.0
+2017-10-30,C�diz,C�diz,26.2,17:00,17.8,17:00,0.0
+2017-10-30,Medina Sidonia,C�diz,25.4,15:40,16.6,15:40,0.0
+2017-10-30,Vejer de la Frontera,C�diz,25.5,15:30,16.5,15:30,0.0
+2017-10-30,Barbate,C�diz,27.2,13:30,17.2,13:30,0.0
+2017-10-30,Tarifa,C�diz,23.8,13:40,19.6,13:40,0.0
+2017-10-30,Jimena de la Frontera,C�diz,23.9,13:40,10.4,13:40,0.0
+2017-10-30,San Roque,C�diz,22.4,13:20,15.8,13:20,0.0
+2017-10-30,Castro Urdiales,Cantabria,18.1,14:30,11.3,14:30,1.7
+2017-10-30,Ramales de la Victoria,Cantabria,16.1,13:10,7.2,13:10,1.2
+2017-10-30,Barcena de Cicero, Treto,Cantabria,16.7,14:30,8.2,14:30,0.8
+2017-10-30,Soba, Alto Miera,Cantabria,13.7,11:30,6.7,11:30,0.4
+2017-10-30,Santander Aeropuerto,Cantabria,16.1,15:20,7.3,15:20,0.6
+2017-10-30,Santander,Cantabria,15.8,15:00,11.5,15:00,0.0
+2017-10-30,Villacarriedo,Cantabria,14.1,14:10,5.8,14:10,2.4
+2017-10-30,Los Tojos, B�rcena Mayor,Cantabria,16.9,13:40,3.4,13:40,0.6
+2017-10-30,San Felices de Buelna,Cantabria,15.8,14:40,8.8,14:40,1.4
+2017-10-30,Torrelavega, Sierrapando,Cantabria,16.3,11:00,9.5,11:00,1.8
+2017-10-30,San Vicente de la Barquera,Cantabria,20.0,12:20,9.2,12:20,0.2
+2017-10-30,Camale�o, Fuente De,Cantabria,15.3,15:00,3.8,15:00,0.0
+2017-10-30,Cill�rigo de Li�bana, Tama,Cantabria,19.1,14:50,7.2,14:50,0.0
+2017-10-30,Tresviso,Cantabria,13.9,14:10,7.7,14:10,0.0
+2017-10-30,Santillana del Mar, Altamira,Cantabria,17.7,12:00,9.4,12:00,2.4
+2017-10-30,Reinosa,Cantabria,14.5,14:10,3.3,14:10,0.0
+2017-10-30,Alto Campoo,Cantabria,12.3,13:30,4.0,13:30,0.0
+2017-10-30,Valderredible, Cubillo de Ebro,Cantabria,15.4,13:00,2.1,13:00,0.0
+2017-10-30,Valderredible, Polientes,Cantabria,16.8,13:50,3.8,13:50,0.1
+2017-10-30,Segorbe,Castell�/Castell�n,23.4,14:30,7.9,14:30,0.0
+2017-10-30,Montanejos,Castell�/Castell�n,23.4,14:50,8.4,14:50,0.0
+2017-10-30,Villafranca del Cid/Vilafranca,Castell�/Castell�n,18.4,14:20,2.8,14:20,0.0
+2017-10-30,Atzeneta del Maestrat,Castell�/Castell�n,24.2,14:50,6.2,14:50,0.0
+2017-10-30,Castell�n - Almassora,Castell�/Castell�n,23.8,14:00,13.6,14:00,0.0
+2017-10-30,Torreblanca,Castell�/Castell�n,23.1,11:50,13.9,11:50,0.0
+2017-10-30,La Pobla de Benifass�-Fredes,Castell�/Castell�n,14.6,14:40,4.9,14:40,0.0
+2017-10-30,Vinar�s,Castell�/Castell�n,24.1,15:20,8.0,15:20,0.0
+2017-10-30,Morella,Castell�/Castell�n,16.1,14:50,6.2,14:50,0.0
+2017-10-30,Castellfort,Castell�/Castell�n,14.0,15:00,5.1,15:00,0.0
+2017-10-30,Ceuta,Ceuta,22.1,16:00,17.3,16:00,0.0
+2017-10-30,Alcazar de San Juan,Ciudad Real,20.9,15:30,7.2,15:30,0.0
+2017-10-30,Tomelloso,Ciudad Real,21.6,15:50,5.0,15:50,0.0
+2017-10-30,Ciudad Real,Ciudad Real,20.5,15:10,6.3,15:10,0.0
+2017-10-30,Villanueva de los Infantes,Ciudad Real,20.6,14:50,8.4,14:50,0.0
+2017-10-30,Valdepe�as,Ciudad Real,20.3,15:30,6.4,15:30,0.0
+2017-10-30,Viso del Marqu�s,Ciudad Real,20.9,15:00,7.0,15:00,0.0
+2017-10-30,Aben�jar,Ciudad Real,21.0,15:40,7.3,15:40,0.0
+2017-10-30,Puebla de Don Rodrigo,Ciudad Real,25.3,16:30,4.4,16:30,0.0
+2017-10-30,Almad�n,Ciudad Real,26.5,16:50,12.6,16:50,0.0
+2017-10-30,Puertollano,Ciudad Real,21.2,15:00,7.4,15:00,0.0
+2017-10-30,Fuencaliente,Ciudad Real,24.0,15:00,9.1,15:00,0.0
+2017-10-30,Valsequillo,C�rdoba,25.2,16:00,6.0,16:00,0.0
+2017-10-30,Hinojosa del Duque,C�rdoba,23.9,15:20,7.4,15:20,0.0
+2017-10-30,Carde�a,C�rdoba,25.1,14:40,12.2,14:40,0.0
+2017-10-30,Montoro,C�rdoba,27.9,15:10,8.0,15:10,0.0
+2017-10-30,Villanueva de C�rdoba,C�rdoba,23.0,14:50,12.5,14:50,0.0
+2017-10-30,C�rdoba, Embalse de Guadanu�o,C�rdoba,25.7,14:40,10.5,14:40,0.0
+2017-10-30,Priego de Cordoba,C�rdoba,25.7,12:40,9.1,12:40,0.0
+2017-10-30,Do�a Menc�a,C�rdoba,22.9,16:40,13.1,16:40,0.0
+2017-10-30,C�rdoba, Pr�gdena,C�rdoba,26.6,17:20,11.4,17:20,0.0
+2017-10-30,Espiel,C�rdoba,25.5,14:50,7.9,14:50,0.0
+2017-10-30,Fuente Palmera,C�rdoba,28.0,17:20,12.2,17:20,0.0
+2017-10-30,Benamej�,C�rdoba,24.9,15:20,12.7,15:20,0.0
+2017-10-30,Aguilar de la Frontera,C�rdoba,26.4,16:30,11.2,16:30,0.0
+2017-10-30,La Rambla,C�rdoba,27.4,16:00,11.0,16:00,0.0
+2017-10-30,Beteta,Cuenca,16.8,15:20,1.5,15:20,0.0
+2017-10-30,Ca�izares,Cuenca,22.3,15:30,2.7,15:30,0.0
+2017-10-30,Taranc�n,Cuenca,22.8,15:30,8.6,15:30,0.0
+2017-10-30,Alc�zar del Rey,Cuenca,21.3,15:30,8.4,15:30,0.0
+2017-10-30,Abia de Obispalia,Cuenca,22.2,16:00,5.7,16:00,0.0
+2017-10-30,Villares del Saz,Cuenca,21.7,15:10,8.4,15:10,0.0
+2017-10-30,Alberca de Zancara,Cuenca,19.4,16:00,9.9,16:00,0.0
+2017-10-30,San Clemente,Cuenca,21.4,17:00,7.9,17:00,0.0
+2017-10-30,Osa de la Vega,Cuenca,20.7,16:30,7.4,16:30,0.0
+2017-10-30,Cuenca,Cuenca,21.9,16:20,7.9,16:20,0.0
+2017-10-30,Motilla del Palancar,Cuenca,21.3,16:10,8.6,16:10,0.0
+2017-10-30,Salvaca�ete,Cuenca,19.6,15:10,0.5,15:10,0.0
+2017-10-30,Mira,Cuenca,22.3,16:20,2.5,16:20,0.0
+2017-10-30,Ir�n,Gipuzkoa,16.5,14:30,10.9,14:30,4.6
+2017-10-30,San Sebasti�n Aeropuerto,Gipuzkoa,18.1,14:00,9.6,14:00,0.0
+2017-10-30,Renteria,Gipuzkoa,15.9,14:40,7.0,14:40,4.4
+2017-10-30,Beasain,Gipuzkoa,15.4,12:30,7.7,12:30,2.8
+2017-10-30,Ordizia,Gipuzkoa,15.9,12:30,8.3,12:30,2.8
+2017-10-30,Zumarraga,Gipuzkoa,12.9,10:30,6.7,10:30,3.3
+2017-10-30,Zumaia,Gipuzkoa,17.3,11:30,10.0,11:30,6.2
+2017-10-30,Aretxabaleta,Gipuzkoa,13.3,13:20,6.8,13:20,2.5
+2017-10-30,Elgeta,Gipuzkoa,12.7,12:50,8.0,12:50,5.8
+2017-10-30,Elgoibar,Gipuzkoa,13.2,16:50,7.6,16:50,4.0
+2017-10-30,Mutriku,Gipuzkoa,15.9,14:40,12.6,14:40,6.0
+2017-10-30,Blanes,Girona,22.7,13:50,13.7,13:50,0.0
+2017-10-30,Castell, Platja d'Aro,Girona,21.1,12:40,8.3,12:40,0.0
+2017-10-30,Sant Pau de Seg�ries,Girona,20.3,15:00,1.3,15:00,0.0
+2017-10-30,Planoles,Girona,19.5,14:10,5.3,14:10,0.0
+2017-10-30,Ripoll,Girona,19.5,14:00,1.8,14:00,0.0
+2017-10-30,Les Planes d'Hostoles,Girona,23.5,15:10,3.9,15:10,0.0
+2017-10-30,Sant Hilari,Girona,19.1,14:50,5.7,14:50,0.0
+2017-10-30,Girona,Girona,25.0,13:50,9.0,13:50,0.0
+2017-10-30,Porqueres,Girona,24.9,14:40,7.2,14:40,0.0
+2017-10-30,L'Estartit,Girona,19.8,15:50,10.5,15:50,0.0
+2017-10-30,La Vall de Bianya,Girona,21.9,14:20,4.6,14:20,0.0
+2017-10-30,Castell� d'Emp�ries,Girona,24.2,15:10,6.6,15:10,0.0
+2017-10-30,Ma�anet de Cabrenys,Girona,23.1,14:40,6.7,14:40,0.0
+2017-10-30,Espolla,Girona,24.1,11:50,10.2,11:50,0.0
+2017-10-30,Figueres,Girona,23.5,12:30,10.1,12:30,0.0
+2017-10-30,La Molina,Girona,14.7,14:00,2.9,14:00,0.0
+2017-10-30,Baza,Granada,23.6,16:30,5.8,16:30,0.0
+2017-10-30,D�lar,Granada,21.7,15:50,8.2,15:50,0.0
+2017-10-30,Granada-Cartuja,Granada,26.3,16:00,10.5,16:00,0.0
+2017-10-30,Granada Aeropuerto,Granada,26.7,16:40,7.6,16:40,0.0
+2017-10-30,Loja,Granada,24.7,14:50,11.9,14:50,0.0
+2017-10-30,Lanjar�n,Granada,22.1,14:40,9.6,14:40,0.0
+2017-10-30,Salobre�a,Granada,24.8,13:40,15.0,13:40,0.0
+2017-10-30,Motril,Granada,26.6,10:00,15.2,10:00,0.0
+2017-10-30,Motril, Puerto,Granada,28.0,11:20,15.0,11:20,0.0
+2017-10-30,Castell de Ferro,Granada,23.4,12:40,16.3,12:40,0.0
+2017-10-30,V�lor,Granada,22.1,13:20,11.1,13:20,0.0
+2017-10-30,Molina de Arag�n,Guadalajara,19.7,16:20,-2.8,16:20,0.0
+2017-10-30,Zaorejas,Guadalajara,18.7,15:00,1.6,15:00,0.0
+2017-10-30,Pastrana,Guadalajara,22.1,15:20,7.9,15:20,0.0
+2017-10-30,Pantano el Vado,Guadalajara,23.1,15:00,5.2,15:00,0.0
+2017-10-30,Sig�enza,Guadalajara,19.6,15:40,-1.4,15:40,0.0
+2017-10-30,Guadalajara,Guadalajara,22.6,15:20,7.2,15:20,0.0
+2017-10-30,Brihuega,Guadalajara,20.8,14:40,4.5,14:40,0.0
+2017-10-30,El Pedregal,Guadalajara,17.7,14:40,2.2,14:40,0.0
+2017-10-30,Aroche,Huelva,28.6,15:40,6.7,15:40,0.0
+2017-10-30,El Granado,Huelva,28.9,16:10,9.7,16:10,0.0
+2017-10-30,Ayamonte,Huelva,25.0,14:30,11.3,14:30,0.0
+2017-10-30,Cartaya,Huelva,24.1,15:00,11.6,15:00,0.0
+2017-10-30,Alajar,Huelva,27.7,14:50,13.0,14:50,0.0
+2017-10-30,Valverde del Camino,Huelva,27.7,15:40,11.1,15:40,0.0
+2017-10-30,El Cerro de And�valo,Huelva,29.3,16:20,14.1,16:20,0.0
+2017-10-30,Alosno, Tharsis,Huelva,28.2,16:10,13.4,16:10,0.0
+2017-10-30,El Campillo,Huelva,26.8,16:40,13.7,16:40,0.0
+2017-10-30,Villarrasa,Huelva,28.7,15:30,11.9,15:30,0.0
+2017-10-30,Huelva, Ronda Este,Huelva,28.4,16:30,12.4,16:30,0.0
+2017-10-30,Cala,Huelva,23.4,16:00,10.0,16:00,0.0
+2017-10-30,Almonte,Huelva,27.7,14:40,8.8,14:40,0.0
+2017-10-30,Moguer, El Arenosillo,Huelva,24.4,12:20,13.6,12:20,0.2
+2017-10-30,Canfranc,Huesca,14.4,14:50,7.1,14:50,0.0
+2017-10-30,Jaca,Huesca,18.0,14:40,1.2,14:40,0.0
+2017-10-30,Valle de Hecho, Hecho,Huesca,18.8,13:20,3.7,13:20,0.0
+2017-10-30,Arag��s del Puerto,Huesca,20.2,15:00,5.9,15:00,0.0
+2017-10-30,Bailo,Huesca,18.3,14:00,3.4,14:00,0.0
+2017-10-30,Biescas,Huesca,18.7,14:30,4.8,14:30,0.0
+2017-10-30,Sabi��nigo,Huesca,18.4,14:30,-0.2,14:30,0.0
+2017-10-30,Almud�var,Huesca,21.0,15:00,4.8,15:00,0.0
+2017-10-30,Sopeira,Huesca,20.5,14:30,5.8,14:30,0.0
+2017-10-30,Benabarre,Huesca,17.6,14:10,4.3,14:10,0.0
+2017-10-30,Bielsa,Huesca,21.0,12:10,6.1,12:10,0.0
+2017-10-30,Ainsa,Huesca,19.0,14:30,4.5,14:30,0.0
+2017-10-30,Torla - Dep�sito,Huesca,23.1,13:20,6.3,13:20,0.0
+2017-10-30,Benasque,Huesca,19.7,11:50,12.2,11:50,0.0
+2017-10-30,Seira,Huesca,21.1,15:40,1.1,15:40,0.0
+2017-10-30,Capella,Huesca,17.8,15:10,3.9,15:10,0.0
+2017-10-30,Barbastro,Huesca,22.5,16:10,3.1,16:10,0.0
+2017-10-30,Sari�ena, Dep�sito agua,Huesca,21.5,16:00,5.1,16:00,0.0
+2017-10-30,Huesca Aeropuerto,Huesca,20.4,15:40,4.7,15:40,0.0
+2017-10-30,Huesca,Huesca,20.9,14:50,4.9,14:50,0.0
+2017-10-30,Lanaja,Huesca,20.4,15:20,7.0,15:20,0.0
+2017-10-30,Ballobar,Huesca,19.9,15:10,5.8,15:10,0.0
+2017-10-30,Tamarite de Litera,Huesca,20.7,16:30,3.5,16:30,0.0
+2017-10-30,Fraga,Huesca,21.7,17:00,8.4,17:00,0.0
+2017-10-30,Escorca, Lluc,Illes Balears,21.1,12:20,8.3,12:20,0.0
+2017-10-30,Banyalbufar,Illes Balears,21.3,12:10,15.2,12:10,0.0
+2017-10-30,Calvi�, Es Capdell�,Illes Balears,23.6,15:30,12.7,15:30,0.2
+2017-10-30,Palma, Puerto,Illes Balears,23.6,12:30,15.5,12:30,0.0
+2017-10-30,Palma, Universitat,Illes Balears,24.3,13:00,10.0,13:00,0.0
+2017-10-30,Sierra de Alfabia, Bunyola,Illes Balears,17.1,13:00,9.3,13:00,0.0
+2017-10-30,Marratx�,Illes Balears,23.8,16:00,12.9,16:00,0.0
+2017-10-30,Palma de Mallorca, Aeropuerto,Illes Balears,23.3,13:30,10.6,13:30,0.0
+2017-10-30,Llucmajor, Cap Blanc,Illes Balears,23.4,12:50,16.3,12:50,0.0
+2017-10-30,Llucmajor,Illes Balears,23.3,13:40,12.5,13:40,0.0
+2017-10-30,Campos, Can Sion,Illes Balears,24.0,13:30,9.9,13:30,0.0
+2017-10-30,Campos, Salines Llevant,Illes Balears,22.8,13:40,9.4,13:40,0.0
+2017-10-30,Santany�,Illes Balears,23.5,13:30,13.3,13:30,0.0
+2017-10-30,Portocolom,Illes Balears,24.1,13:10,14.9,13:10,0.0
+2017-10-30,Son Servera,Illes Balears,26.9,14:30,11.5,14:30,0.0
+2017-10-30,Art�,Illes Balears,24.8,14:20,11.0,14:20,0.0
+2017-10-30,Art�-Col�nia de Sant Pere,Illes Balears,24.5,14:00,15.6,14:00,0.0
+2017-10-30,Muro, S'Albufera,Illes Balears,25.3,14:50,11.2,14:50,0.0
+2017-10-30,Manacor,Illes Balears,23.6,13:50,11.5,13:50,0.0
+2017-10-30,Sineu,Illes Balears,23.0,12:30,11.9,12:30,0.0
+2017-10-30,Santa Mar�a del Cam�,Illes Balears,23.2,16:40,10.8,16:40,0.0
+2017-10-30,Binissalem,Illes Balears,22.8,13:30,9.8,13:30,0.0
+2017-10-30,Escorca, Son Torrella,Illes Balears,17.6,11:50,7.2,11:50,0.0
+2017-10-30,Sa Pobla,Illes Balears,24.9,14:20,10.6,14:20,0.0
+2017-10-30,Pollen�a,Illes Balears,27.8,12:30,11.4,12:30,0.0
+2017-10-30,Port de Pollen�a,Illes Balears,26.3,13:10,12.2,13:10,0.0
+2017-10-30,Es Mercadal,Illes Balears,23.2,12:30,14.8,12:30,0.0
+2017-10-30,Ciutadella, Cala Galdana,Illes Balears,23.5,13:10,11.5,13:10,0.0
+2017-10-30,Menorca, Aeropuerto,Illes Balears,23.5,14:30,14.2,14:30,0.0
+2017-10-30,Sant Joan de Labritja,Illes Balears,21.5,12:30,10.4,12:30,0.8
+2017-10-30,Ibiza, Aeropuerto,Illes Balears,21.9,15:20,13.5,15:20,0.5
+2017-10-30,Eivissa,Illes Balears,22.4,14:50,13.3,14:50,1.6
+2017-10-30,Formentera,Illes Balears,22.4,09:40,14.6,09:40,0.5
+2017-10-30,Baeza,Ja�n,25.5,15:00,11.3,15:00,0.0
+2017-10-30,Torres,Ja�n,21.1,14:50,11.4,14:50,0.0
+2017-10-30,Villanueva del Arzobispo,Ja�n,24.4,15:00,9.3,15:00,0.0
+2017-10-30,Santa Elena,Ja�n,21.2,15:30,11.3,15:30,0.0
+2017-10-30,Ja�n,Ja�n,23.2,15:30,13.3,15:30,0.0
+2017-10-30,Linares,Ja�n,23.4,15:20,13.2,15:20,0.0
+2017-10-30,Bail�n,Ja�n,25.5,14:20,11.3,14:20,0.0
+2017-10-30,Alcal� La Real,Ja�n,22.5,14:10,10.6,14:10,0.0
+2017-10-30,Valdezcaray, estaci�n de esqu�,La Rioja,10.2,10:40,4.2,10:40,0.8
+2017-10-30,Haro,La Rioja,14.6,14:50,6.7,14:50,0.0
+2017-10-30,Anguiano,La Rioja,13.1,14:10,2.9,14:10,0.4
+2017-10-30,N�jera,La Rioja,15.2,14:20,6.8,14:20,0.0
+2017-10-30,Cenicero,La Rioja,16.6,13:30,8.2,13:30,0.0
+2017-10-30,Logro�o Aeropuerto,La Rioja,18.1,14:40,8.7,14:40,0.0
+2017-10-30,Enciso,La Rioja,15.5,13:20,3.3,13:20,0.0
+2017-10-30,Alfaro,La Rioja,19.2,14:20,9.7,14:20,0.0
+2017-10-30,T�as,Las Palmas,25.3,12:10,16.2,12:10,0.0
+2017-10-30,Yaiza Playa Blanca,Las Palmas,25.7,15:50,17.0,15:50,0.0
+2017-10-30,Lanzarote Aeropuerto,Las Palmas,26.9,16:30,17.0,16:30,0.0
+2017-10-30,Har�a,Las Palmas,25.3,14:50,14.9,14:50,0.0
+2017-10-30,Tinajo,Las Palmas,23.4,11:50,17.3,11:50,0.0
+2017-10-30,P�jara,Las Palmas,32.5,09:10,23.5,09:10,0.0
+2017-10-30,Tuineje,Puerto Gran Tarajal,Las Palmas,27.0,16:10,20.9,16:10,0.0
+2017-10-30,Antigua,Las Palmas,27.5,13:00,15.4,13:00,0.0
+2017-10-30,Fuerteventura Aeropuerto,Las Palmas,24.9,13:50,20.4,13:50,0.0
+2017-10-30,La Oliva,Las Palmas,26.1,13:10,17.6,13:10,0.0
+2017-10-30,La Oliva, Puerto de Corralejo,Las Palmas,24.6,11:00,20.3,11:00,0.0
+2017-10-30,Vega de San Mateo,Las Palmas,21.1,12:30,13.0,12:30,0.0
+2017-10-30,Tejeda, Cruz de Tejeda,Las Palmas,22.0,13:30,14.6,13:30,0.0
+2017-10-30,Agaete,Las Palmas,27.5,15:20,21.1,15:20,0.0
+2017-10-30,La Aldea de San Nicol�s,Las Palmas,29.2,13:50,13.4,13:50,0.0
+2017-10-30,San Bartolome Tirajana, Cuevas del Pinar,Las Palmas,24.1,12:00,17.4,12:00,0.0
+2017-10-30,San Bartolome Tirajana, Lomo Pedro Alfonso,Las Palmas,29.2,13:50,20.8,13:50,0.0
+2017-10-30,La Aldea de San Nicol�s, Tasarte,Las Palmas,30.2,12:50,18.8,12:50,0.0
+2017-10-30,Mog�n, Puerto Rico,Las Palmas,28.1,10:10,21.1,10:10,0.0
+2017-10-30,San Bartolome Tirajana, Las Tirajanas,Las Palmas,29.2,12:20,17.6,12:20,0.0
+2017-10-30,Maspalomas, C. Insular Turismo,Las Palmas,26.8,12:20,20.2,12:20,0.0
+2017-10-30,San Bartolome Tirajana, El Matorral,Las Palmas,26.4,11:40,19.7,11:40,0.0
+2017-10-30,Ag�imes,Las Palmas,30.1,10:50,18.3,10:50,0.0
+2017-10-30,Telde, Centro Forestal Doramas,Las Palmas,25.9,11:20,16.1,11:20,0.0
+2017-10-30,Gran Canaria Aeropuerto,Las Palmas,25.0,13:20,20.2,13:20,0.0
+2017-10-30,Telde, Melenara,Las Palmas,24.5,13:30,19.4,13:30,0.0
+2017-10-30,Teror,Las Palmas,28.3,12:10,11.4,12:10,0.0
+2017-10-30,Las Palmas de Gran Canaria, Tafira,Las Palmas,24.6,12:00,17.1,12:00,0.0
+2017-10-30,Las Palmas de Gran Canaria, San Cristobal,Las Palmas,25.2,11:30,20.0,11:30,0.0
+2017-10-30,Las Palmas de Gran Canaria, Pl. de la Feria,Las Palmas,25.2,14:30,21.3,14:30,0.0
+2017-10-30,Valleseco,Las Palmas,28.5,14:20,15.8,14:20,0.0
+2017-10-30,Arucas,Las Palmas,23.9,12:00,16.8,12:00,0.0
+2017-10-30,Maspalomas,Las Palmas,27.2,12:20,18.0,12:20,0.0
+2017-10-30,Teguise,Las Palmas,25.2,13:50,19.0,13:50,0.0
+2017-10-30,Posada de Valde�n, Soto,Le�n,13.5,15:10,1.1,15:10,0.0
+2017-10-30,Villablino,Le�n,20.9,13:30,-0.8,13:30,0.0
+2017-10-30,Ponferrada,Le�n,24.6,16:50,4.6,16:50,0.0
+2017-10-30,Vega de Espinareda,Le�n,25.8,14:40,5.0,14:40,0.0
+2017-10-30,Ria�o,Le�n,17.3,14:00,-1.3,14:00,0.0
+2017-10-30,Cubillas de Rueda,Le�n,21.0,14:40,-0.1,14:40,0.0
+2017-10-30,Le�n, Virgen del Camino,Le�n,21.6,16:20,4.0,16:20,0.0
+2017-10-30,Valencia de Don Juan,Le�n,20.5,15:30,1.6,15:30,0.0
+2017-10-30,Barrios de Luna, Mi�era,Le�n,18.6,11:20,1.7,11:20,0.0
+2017-10-30,Quintana del Castillo, Villameca,Le�n,19.0,13:40,5.9,13:40,0.0
+2017-10-30,Astorga,Le�n,23.3,15:50,4.0,15:50,0.0
+2017-10-30,Bustillo del P�ramo,Le�n,21.7,15:30,1.6,15:30,0.0
+2017-10-30,Martinet,Lleida,23.3,15:20,-1.5,15:20,0.0
+2017-10-30,La Seu d'Urgell,Lleida,22.6,15:30,-0.7,15:30,0.0
+2017-10-30,Josa i Tuix�n,Lleida,20.3,14:50,1.6,14:50,0.0
+2017-10-30,Coll de Narg�,Lleida,16.3,15:50,2.4,15:50,0.0
+2017-10-30,Tor�,Lleida,16.6,15:40,1.7,15:40,0.0
+2017-10-30,Artesa de Segre,Lleida,17.5,15:30,4.1,15:30,0.0
+2017-10-30,Talarn,Lleida,21.1,15:20,6.5,15:20,0.0
+2017-10-30,Llimiana,Lleida,21.5,16:00,5.7,16:00,0.0
+2017-10-30,Granyanella,Lleida,16.2,15:50,6.1,15:50,0.0
+2017-10-30,T�rrega,Lleida,16.3,15:30,5.4,15:30,0.0
+2017-10-30,Os de Balaguer,Lleida,18.9,16:20,4.1,16:20,0.0
+2017-10-30,Mollerussa,Lleida,18.6,15:40,5.5,15:40,0.0
+2017-10-30,Vall de Bo�,Lleida,20.8,13:30,5.8,13:30,0.0
+2017-10-30,Lleida,Lleida,19.9,16:10,5.9,16:10,0.0
+2017-10-30,La Pobla de C�rvoles,Lleida,17.0,14:40,6.7,14:40,0.0
+2017-10-30,El Soler�s,Lleida,18.8,16:10,8.1,16:10,0.0
+2017-10-30,Naut Aran, Arties,Lleida,16.1,14:20,0.9,14:20,0.0
+2017-10-30,Boss�st,Lleida,14.7,14:30,0.7,14:30,0.0
+2017-10-30,Cervantes,Lugo,16.4,15:50,5.0,15:50,0.0
+2017-10-30,Ribadeo,Lugo,17.4,10:30,11.9,10:30,0.0
+2017-10-30,Mondo�edo,Lugo,17.1,11:50,12.9,11:50,0.0
+2017-10-30,Burela,Lugo,17.1,11:00,15.6,11:00,0.0
+2017-10-30,Lugo Aeropuerto,Lugo,17.8,14:30,8.5,14:30,0.0
+2017-10-30,Lugo,Lugo,18.2,13:30,6.6,13:30,0.0
+2017-10-30,O P�ramo,Lugo,19.1,13:50,4.7,13:50,0.0
+2017-10-30,Becerre�,Lugo,14.8,14:40,6.5,14:40,0.0
+2017-10-30,O Savi�ao,Lugo,18.1,14:40,9.8,14:40,0.0
+2017-10-30,Folgoso do Courel,Lugo,19.3,16:40,5.2,16:40,0.0
+2017-10-30,Monforte de Lemos,Lugo,23.4,15:40,6.3,15:40,0.0
+2017-10-30,Puerto de Navacerrada,Madrid,15.1,13:30,5.9,13:30,0.0
+2017-10-30,Rascafr�a,Madrid,23.2,14:10,-0.2,14:10,0.0
+2017-10-30,Buitrago del Lozoya,Madrid,21.6,12:50,2.3,12:50,0.0
+2017-10-30,Somosierra,Madrid,15.1,14:40,3.4,14:40,0.0
+2017-10-30,Madrid, El Goloso,Madrid,21.2,13:40,4.9,13:40,0.0
+2017-10-30,Madrid Aeropuerto,Madrid,24.1,15:40,5.1,15:40,0.0
+2017-10-30,Alcala de Henares,Madrid,23.6,14:40,4.1,14:40,0.0
+2017-10-30,Arganda del Rey,Madrid,24.7,15:20,6.3,15:20,0.0
+2017-10-30,Colmenar Viejo,Madrid,20.7,16:40,8.9,16:40,0.0
+2017-10-30,Madrid, Ciudad Universitaria,Madrid,23.7,15:40,4.2,15:40,0.0
+2017-10-30,Pozuelo de Alarc�n,Madrid,24.8,16:30,3.3,16:30,0.0
+2017-10-30,Madrid, Retiro,Madrid,22.1,16:10,10.2,16:10,0.0
+2017-10-30,Tielmes,Madrid,23.2,16:10,6.0,16:10,0.0
+2017-10-30,Puerto Alto del Le�n,Madrid,13.9,14:00,3.0,14:00,0.0
+2017-10-30,Alpedrete,Madrid,25.2,14:40,5.9,14:40,0.0
+2017-10-30,Torrelodones,Madrid,23.5,16:00,6.1,16:00,0.0
+2017-10-30,Rozas de Puerto Real,Madrid,22.3,15:20,7.7,15:20,0.0
+2017-10-30,Robledo de Chavela,Madrid,23.3,14:30,6.7,14:30,0.0
+2017-10-30,Valdemorillo,Madrid,22.9,15:50,7.6,15:50,0.0
+2017-10-30,Ronda Instituto,M�laga,25.6,15:20,12.7,15:20,0.0
+2017-10-30,Cortes de la Frontera,M�laga,23.5,13:30,11.2,13:30,0.0
+2017-10-30,Alpandeire,M�laga,24.9,15:20,13.8,15:20,0.0
+2017-10-30,Estepona,M�laga,23.6,14:10,16.8,14:10,0.0
+2017-10-30,Benahavis,M�laga,21.3,14:10,12.7,14:10,0.0
+2017-10-30,Marbella, Puerto,M�laga,23.1,15:40,16.7,15:40,0.0
+2017-10-30,Marbella,M�laga,22.1,17:10,18.0,17:10,0.0
+2017-10-30,Fuengirola,M�laga,22.4,15:00,18.0,15:00,0.0
+2017-10-30,Torremolinos,M�laga,24.2,15:20,16.0,15:20,0.0
+2017-10-30,�lora,M�laga,25.7,16:00,14.4,16:00,0.0
+2017-10-30,Co�n,M�laga,25.1,14:20,14.3,14:20,0.0
+2017-10-30,M�laga Aeropuerto,M�laga,24.4,15:40,15.1,15:40,0.0
+2017-10-30,M�laga, Centro Meteorol�gico,M�laga,25.7,14:10,16.3,14:10,0.0
+2017-10-30,M�laga, Puerto,M�laga,23.9,12:10,17.3,12:10,0.0
+2017-10-30,Rincon de la Victoria,M�laga,25.6,15:20,18.1,15:20,0.0
+2017-10-30,V�lez-M�laga,M�laga,26.1,13:50,14.5,13:50,0.0
+2017-10-30,Algarrobo,M�laga,23.6,12:10,15.5,12:10,0.0
+2017-10-30,Nerja,M�laga,23.8,14:30,16.5,14:30,0.0
+2017-10-30,Fuente de Piedra,M�laga,25.5,16:40,12.6,16:40,0.0
+2017-10-30,Melilla,Melilla,23.1,12:20,16.5,12:20,0.0
+2017-10-30,�guilas,Murcia,23.8,10:50,16.9,10:50,0.2
+2017-10-30,Mazarr�n,Murcia,24.8,13:20,16.2,13:20,0.0
+2017-10-30,Cartagena,Murcia,23.2,11:30,14.1,11:30,0.0
+2017-10-30,Fuente �lamo de Murcia,Murcia,24.4,15:20,14.4,15:20,0.0
+2017-10-30,Torre-Pacheco,Murcia,25.4,14:40,14.1,14:40,0.0
+2017-10-30,San Javier Aeropuerto,Murcia,25.0,12:00,14.9,12:00,0.0
+2017-10-30,Moratalla,Murcia,19.9,14:40,9.2,14:40,0.0
+2017-10-30,Caravaca de La Cruz,Murcia,23.2,12:20,9.4,12:20,0.0
+2017-10-30,Calasparra,Murcia,23.2,16:10,11.7,16:10,0.0
+2017-10-30,Bullas,Murcia,21.5,15:00,12.0,15:00,0.0
+2017-10-30,Jumilla,Murcia,23.0,14:50,11.0,14:50,0.0
+2017-10-30,Archena,Murcia,25.1,15:10,14.0,15:10,0.0
+2017-10-30,Mula,Murcia,23.6,16:30,11.7,16:30,0.0
+2017-10-30,Murcia,Murcia,26.3,15:30,15.5,15:30,0.0
+2017-10-30,Caravaca de La Cruz, Los Royos,Murcia,20.7,14:20,7.1,14:20,0.0
+2017-10-30,Lorca, Zarcilla de Ramos,Murcia,22.1,13:40,9.8,13:40,0.0
+2017-10-30,Lorca,Murcia,23.6,14:30,12.3,14:30,0.0
+2017-10-30,Puerto Lumbreras,Murcia,23.8,14:30,14.4,14:30,0.0
+2017-10-30,Totana,Murcia,23.9,14:10,14.8,14:10,0.0
+2017-10-30,Alhama de Murcia,Murcia,26.0,14:20,14.2,14:20,0.0
+2017-10-30,Molina de Segura,Murcia,23.9,14:10,13.2,14:10,0.0
+2017-10-30,Abanilla,Murcia,24.7,15:20,13.5,15:20,0.0
+2017-10-30,Yecla,Murcia,22.3,15:30,9.0,15:30,0.0
+2017-10-30,Baztan, Irurita,Navarra,15.4,15:00,4.6,15:00,1.1
+2017-10-30,Bera,Navarra,16.5,14:40,8.3,14:40,5.6
+2017-10-30,Areso,Navarra,13.9,12:50,7.8,12:50,4.6
+2017-10-30,Los Arcos,Navarra,19.6,13:10,7.2,13:10,0.0
+2017-10-30,Isaba/Izaba,Navarra,15.6,11:20,3.4,11:20,0.0
+2017-10-30,Oroz-Betelu/Orotz-Betelu,Navarra,13.7,13:50,8.9,13:50,0.0
+2017-10-30,Roncesvalles,Navarra,11.0,13:30,5.7,13:30,4.8
+2017-10-30,Navascu�s/Nabaskoze,Navarra,17.2,15:10,0.9,15:10,0.0
+2017-10-30,C�seda,Navarra,17.8,13:10,9.8,13:10,0.0
+2017-10-30,Olite/Erriberri,Navarra,16.9,14:10,10.5,14:10,0.0
+2017-10-30,Esteribar, Eugui,Navarra,14.4,12:40,6.7,12:40,1.0
+2017-10-30,Monreal/Elo,Navarra,14.7,14:00,8.1,14:00,0.0
+2017-10-30,Pamplona Aeropuerto,Navarra,16.3,12:40,9.2,12:40,0.0
+2017-10-30,Aranguren, Ilundain,Navarra,15.3,14:20,6.8,14:20,0.0
+2017-10-30,Irurtzun,Navarra,15.2,13:30,9.4,13:30,0.4
+2017-10-30,Larraga,Navarra,18.0,13:50,7.9,13:50,0.0
+2017-10-30,Bardenas Reales, Base A�rea,Navarra,18.5,14:00,10.7,14:00,0.0
+2017-10-30,Monteagudo,Navarra,18.4,15:20,11.4,15:20,0.0
+2017-10-30,Tudela,Navarra,19.0,14:40,10.6,14:40,0.0
+2017-10-30,Luzaide/Valcarlos,Navarra,14.4,13:50,6.8,13:50,4.4
+2017-10-30,O Barco de Valdeorras,Ourense,21.3,16:40,5.9,16:40,0.0
+2017-10-30,A Pobra de Trives,Ourense,20.5,13:30,5.6,13:30,0.0
+2017-10-30,Ourense,Ourense,24.4,16:00,7.2,16:00,0.0
+2017-10-30,Beariz,Ourense,23.0,14:00,3.8,14:00,0.0
+2017-10-30,Carballi�o, O,Ourense,23.9,16:00,4.6,16:00,0.0
+2017-10-30,Ribadavia,Ourense,24.3,17:00,6.8,17:00,0.0
+2017-10-30,Allariz,Ourense,20.1,15:30,4.3,15:30,0.0
+2017-10-30,Xinzo de Limia,Ourense,20.9,14:10,-0.4,14:10,0.0
+2017-10-30,Mui�os,Ourense,21.7,13:50,6.5,13:50,0.0
+2017-10-30,A Gudi�a,Ourense,21.3,15:10,8.4,15:10,0.0
+2017-10-30,Ver�n,Ourense,24.7,15:50,3.1,15:50,0.0
+2017-10-30,Cervera de Pisuerga,Palencia,18.5,14:00,2.5,14:00,0.0
+2017-10-30,Aguilar de Campoo,Palencia,15.2,14:10,1.1,14:10,0.0
+2017-10-30,Villaeles de Valdavia,Palencia,17.3,14:10,1.4,14:10,0.0
+2017-10-30,Velilla del R�o Carri�n, Camporredondo de Alba,Palencia,16.7,13:00,4.6,13:00,0.0
+2017-10-30,Carri�n de los Condes,Palencia,19.2,14:40,1.2,14:40,0.0
+2017-10-30,Autilla del Pino,Palencia,17.9,15:00,4.8,15:00,0.0
+2017-10-30,Palencia,Palencia,18.9,14:50,3.0,14:50,0.0
+2017-10-30,Santerv�s de la Vega, Villap�n,Palencia,19.2,14:50,2.0,14:50,0.0
+2017-10-30,Silleda,Pontevedra,23.3,15:10,9.9,15:10,0.0
+2017-10-30,A Estrada,Pontevedra,21.8,15:30,8.4,15:30,0.0
+2017-10-30,Vilagarc�a de Arousa,Pontevedra,23.3,15:30,13.3,15:30,0.0
+2017-10-30,Pontevedra,Pontevedra,22.8,13:50,11.2,13:50,0.0
+2017-10-30,A Lama,Pontevedra,23.8,14:00,12.5,14:00,0.0
+2017-10-30,Vigo,Pontevedra,26.4,14:10,15.3,14:10,0.0
+2017-10-30,A Ca�iza,Pontevedra,22.7,14:10,10.6,14:10,0.0
+2017-10-30,Ponteareas, Canedo,Pontevedra,26.3,15:50,8.0,15:50,0.0
+2017-10-30,O Rosal,Pontevedra,25.9,15:50,15.8,15:50,0.0
+2017-10-30,La Covatilla, estaci�n de esqu�,Salamanca,13.5,13:40,5.9,13:40,0.0
+2017-10-30,Pedrosillo de Los Aires,Salamanca,19.3,15:50,1.2,15:50,0.0
+2017-10-30,Pedraza de Alba,Salamanca,18.6,15:30,-0.8,15:30,0.0
+2017-10-30,Salamanca,Salamanca,21.5,15:50,4.4,15:50,0.0
+2017-10-30,Barbadillo,Salamanca,20.4,15:00,-0.6,15:00,0.0
+2017-10-30,Ledesma,Salamanca,19.6,14:40,3.3,14:40,0.0
+2017-10-30,Villarino de los Aires,Salamanca,23.0,16:10,5.2,16:10,0.0
+2017-10-30,Boadilla Fuente San Esteban,Salamanca,20.9,15:00,4.4,15:00,0.0
+2017-10-30,Vitigudino,Salamanca,23.0,15:00,5.7,15:00,0.0
+2017-10-30,El Ma�llo,Salamanca,19.8,14:40,7.3,14:40,0.0
+2017-10-30,Ba�ob�rez,Salamanca,21.7,15:30,5.2,15:30,0.0
+2017-10-30,Navasfr�as,Salamanca,21.1,15:40,-0.4,15:40,0.0
+2017-10-30,El Bod�n Base A�rea,Salamanca,21.3,14:50,3.8,14:50,0.0
+2017-10-30,Saelices El Chico,Salamanca,22.5,15:50,6.7,15:50,0.0
+2017-10-30,Fresno de Cantespino,Segovia,18.3,15:20,2.3,15:20,0.0
+2017-10-30,Aldeanueva de Serrezuela,Segovia,16.5,15:40,4.3,15:40,0.0
+2017-10-30,La Pinilla, estaci�n de esqu�,Segovia,14.0,11:50,5.2,11:50,0.0
+2017-10-30,Pedraza,Segovia,17.4,15:50,3.6,15:50,0.0
+2017-10-30,Cu�llar,Segovia,21.2,15:00,-3.1,15:00,0.0
+2017-10-30,Segovia,Segovia,16.8,15:50,4.9,15:50,0.0
+2017-10-30,San Rafael,Segovia,16.6,13:40,2.5,13:40,0.0
+2017-10-30,Miguela�ez,Segovia,18.8,15:50,2.3,15:50,0.0
+2017-10-30,La Roda de Andaluc�a,Sevilla,26.9,15:40,12.1,15:40,0.0
+2017-10-30,Lora de Estepa,Sevilla,24.8,16:10,15.1,16:10,0.0
+2017-10-30,�cija,Sevilla,27.7,16:10,10.7,16:10,0.0
+2017-10-30,La Puebla de los Infantes,Sevilla,27.7,16:30,7.6,16:30,0.0
+2017-10-30,Fuentes de Andaluc�a,Sevilla,28.3,16:40,13.6,16:40,0.0
+2017-10-30,Carmona,Sevilla,29.4,17:10,12.6,17:10,0.0
+2017-10-30,Guadalcanal,Sevilla,24.5,15:20,12.0,15:20,0.0
+2017-10-30,Almad�n de la Plata,Sevilla,27.5,16:00,12.1,16:00,0.0
+2017-10-30,Sevilla Aeropuerto,Sevilla,29.1,17:00,13.6,17:00,0.0
+2017-10-30,Sevilla, Tablada,Sevilla,29.2,16:20,13.6,16:20,0.0
+2017-10-30,Mor�n de la Frontera,Sevilla,27.6,16:00,11.2,16:00,0.0
+2017-10-30,Carri�n de los C�spedes,Sevilla,27.5,16:50,11.7,16:50,0.0
+2017-10-30,Las Cabezas de San Juan,Sevilla,27.0,15:50,13.1,15:50,0.0
+2017-10-30,Osuna,Sevilla,26.4,15:40,16.6,15:40,0.0
+2017-10-30,Vinuesa, Quintanarejo,Soria,17.8,13:10,3.9,13:10,0.0
+2017-10-30,La P�veda de Soria, Barriomart�n,Soria,15.2,12:20,7.0,12:20,0.0
+2017-10-30,Soria,Soria,19.8,12:50,8.0,12:50,0.0
+2017-10-30,Lubia,Soria,18.8,12:30,2.0,12:30,0.0
+2017-10-30,Mor�n de Almaz�n,Soria,19.5,14:10,-1.7,14:10,0.0
+2017-10-30,La Riba de Escalote,Soria,18.7,16:00,1.5,16:00,0.0
+2017-10-30,Ucero,Soria,19.5,16:10,-2.3,16:10,0.0
+2017-10-30,Burgo de Osma,Soria,19.7,15:10,-1.7,15:10,0.0
+2017-10-30,Liceras,Soria,17.7,15:00,3.8,15:00,0.0
+2017-10-30,�lvega,Soria,14.6,13:20,6.2,13:20,0.0
+2017-10-30,San Pedro Manrique,Soria,15.9,12:40,5.9,12:40,0.0
+2017-10-30,Arcos de Jal�n,Soria,19.6,14:10,3.2,14:10,0.0
+2017-10-30,Almazul,Soria,16.4,12:50,5.9,12:50,0.0
+2017-10-30,Puntagorda,Santa Cruz de Tenerife,27.3,14:40,17.3,14:40,0.0
+2017-10-30,Tijarafe,Santa Cruz de Tenerife,26.7,14:10,17.8,14:10,0.0
+2017-10-30,El Paso,Santa Cruz de Tenerife,26.8,12:30,15.9,12:30,0.0
+2017-10-30,Fuencaliente,Santa Cruz de Tenerife,28.4,12:40,21.1,12:40,0.0
+2017-10-30,Tazacorte,Santa Cruz de Tenerife,26.8,14:00,20.0,14:00,0.0
+2017-10-30,La Palma Aeropuerto,Santa Cruz de Tenerife,26.2,12:20,21.2,12:20,0.0
+2017-10-30,San Andr�s y Sauces,Santa Cruz de Tenerife,26.0,11:40,16.6,11:40,0.0
+2017-10-30,Vallehermoso, Alto Igualero,Santa Cruz de Tenerife,22.4,12:40,16.0,12:40,0.0
+2017-10-30,Agulo,Santa Cruz de Tenerife,28.6,14:20,15.1,14:20,0.0
+2017-10-30,Vallehermoso, Dama,Santa Cruz de Tenerife,27.2,10:30,17.0,10:30,0.0
+2017-10-30,Hermigua,Santa Cruz de Tenerife,23.3,13:50,16.2,13:50,0.0
+2017-10-30,San Sebasti�n de la Gomera,Santa Cruz de Tenerife,26.6,15:00,20.4,15:00,0.0
+2017-10-30,La Orotava, Ca�adas Teide,Santa Cruz de Tenerife,20.8,12:00,7.2,12:00,0.0
+2017-10-30,Adeje,Santa Cruz de Tenerife,28.7,11:40,18.5,11:40,0.0
+2017-10-30,Arico,Santa Cruz de Tenerife,27.0,12:40,17.2,12:40,0.0
+2017-10-30,Tenerife Sur Aeropuerto,Santa Cruz de Tenerife,29.3,12:40,20.5,12:40,0.0
+2017-10-30,Iza�a,Santa Cruz de Tenerife,17.0,11:40,9.3,11:40,0.0
+2017-10-30,Candelaria,Santa Cruz de Tenerife,24.7,10:10,16.0,10:10,0.0
+2017-10-30,G��mar,Santa Cruz de Tenerife,24.6,14:00,16.8,14:00,0.0
+2017-10-30,San Crist�bal de La Laguna,Llano de los Loros,Santa Cruz de Tenerife,28.9,13:20,15.7,13:20,0.0
+2017-10-30,Tenerife Norte Aeropuerto,Santa Cruz de Tenerife,27.9,13:00,15.3,13:00,0.0
+2017-10-30,Sta.Cruz de Tenerife,Santa Cruz de Tenerife,27.5,14:40,19.9,14:40,0.0
+2017-10-30,Anaga,Santa Cruz de Tenerife,29.2,15:00,17.8,15:00,0.0
+2017-10-30,La Victoria de Acentejo,Santa Cruz de Tenerife,26.5,09:50,12.8,09:50,0.0
+2017-10-30,Puerto de la Cruz,Santa Cruz de Tenerife,27.1,15:00,20.1,15:00,0.0
+2017-10-30,Los Silos,Santa Cruz de Tenerife,25.4,14:10,16.8,14:10,0.0
+2017-10-30,El Pinar, Dep�sito,Santa Cruz de Tenerife,25.4,15:40,14.3,15:40,0.0
+2017-10-30,Valverde,Santa Cruz de Tenerife,25.1,14:00,11.3,14:00,0.0
+2017-10-30,Hierro Aeropuerto,Santa Cruz de Tenerife,25.3,13:30,21.4,13:30,0.0
+2017-10-30,Frontera, Sabinosa,Santa Cruz de Tenerife,26.2,12:00,19.4,12:00,0.0
+2017-10-30,Alforja,Tarragona,19.1,14:50,9.7,14:50,0.0
+2017-10-30,Reus Aeropuerto,Tarragona,23.5,15:20,8.4,15:20,0.0
+2017-10-30,Valls,Tarragona,20.6,14:10,10.2,14:10,0.0
+2017-10-30,Tarragona,Tarragona,24.7,15:00,11.4,15:00,0.0
+2017-10-30,Llorac,Tarragona,14.9,15:10,4.9,15:10,0.0
+2017-10-30,Horta de Sant Joan,Tarragona,19.3,15:30,7.1,15:30,0.0
+2017-10-30,La Pobla de Massaluca,Tarragona,19.1,15:50,9.2,15:50,0.0
+2017-10-30,Cabac�s,Tarragona,20.6,16:20,9.4,16:20,0.0
+2017-10-30,Rasquera,Tarragona,21.1,15:40,10.0,15:40,0.0
+2017-10-30,Tortosa,Tarragona,25.2,14:10,14.2,14:10,0.0
+2017-10-30,Sant Jaume d'Enveja,Tarragona,22.6,14:30,14.6,14:30,0.0
+2017-10-30,Teruel,Teruel,19.4,15:40,1.7,15:40,0.0
+2017-10-30,Jabaloyas,Teruel,16.3,15:00,4.9,15:00,0.0
+2017-10-30,Cedrillas,Teruel,17.1,14:30,1.5,14:30,0.0
+2017-10-30,Mosqueruela,Teruel,17.8,13:30,5.1,13:30,0.0
+2017-10-30,Santa Eulalia del Campo,Teruel,18.1,15:40,0.3,15:40,0.0
+2017-10-30,Calamocha,Teruel,18.9,14:40,-1.0,14:40,0.0
+2017-10-30,Fonfr�a,Teruel,14.2,14:20,3.3,14:20,0.0
+2017-10-30,Muniesa,Teruel,17.0,14:50,3.0,14:50,0.0
+2017-10-30,Montalb�n,Teruel,17.8,14:00,0.9,14:00,0.0
+2017-10-30,Hijar,Teruel,22.9,14:40,9.3,14:40,0.0
+2017-10-30,Andorra,Teruel,17.6,14:40,7.0,14:40,0.0
+2017-10-30,Castellote,Teruel,19.5,15:40,6.6,15:40,0.0
+2017-10-30,Calanda,Teruel,19.7,15:30,7.1,15:30,0.0
+2017-10-30,Alca�iz,Teruel,19.6,15:50,4.6,15:50,0.0
+2017-10-30,Valderrobres,Teruel,17.8,15:50,1.6,15:50,0.0
+2017-10-30,Bello,Teruel,17.1,14:50,-2.9,14:50,0.0
+2017-10-30,Tembleque,Toledo,22.2,16:10,4.4,16:10,0.0
+2017-10-30,Mora,Toledo,21.8,16:30,5.3,16:30,0.0
+2017-10-30,Toledo,Toledo,23.6,16:00,7.3,16:00,0.0
+2017-10-30,San Pablo de los Montes,Toledo,20.9,15:40,10.0,15:40,0.0
+2017-10-30,Navahermosa,Toledo,22.1,15:50,9.3,15:50,0.0
+2017-10-30,Castillo de Bayuela,Toledo,23.6,15:40,9.9,15:40,0.0
+2017-10-30,Talavera de la Reina,Toledo,24.4,16:20,7.8,16:20,0.0
+2017-10-30,Oropesa,Toledo,25.8,16:00,3.1,16:00,0.0
+2017-10-30,Quintanar de la Orden,Toledo,21.7,16:20,7.8,16:20,0.0
+2017-10-30,Madridejos,Toledo,20.2,16:30,4.8,16:30,0.0
+2017-10-30,Puerto del Rey,C�ceres,25.5,14:30,9.3,14:30,0.0
+2017-10-30,Fontanars dels Alforins,Val�ncia/Valencia,22.4,15:10,9.2,15:10,0.0
+2017-10-30,Oliva,Val�ncia/Valencia,21.3,14:30,12.3,14:30,0.0
+2017-10-30,Miramar,Val�ncia/Valencia,22.1,15:30,15.5,15:30,0.0
+2017-10-30,Barx,Val�ncia/Valencia,21.7,15:20,11.6,15:20,0.0
+2017-10-30,Jalance,Val�ncia/Valencia,23.5,16:30,9.5,16:30,0.0
+2017-10-30,Zarra,Val�ncia/Valencia,20.9,16:00,12.3,16:00,0.0
+2017-10-30,Bicorp,Val�ncia/Valencia,24.6,15:10,10.3,15:10,0.0
+2017-10-30,Ontinyent,Val�ncia/Valencia,25.0,15:20,11.7,15:20,0.0
+2017-10-30,X�tiva,Val�ncia/Valencia,25.5,15:00,12.1,15:00,0.0
+2017-10-30,Carcaixent,Val�ncia/Valencia,25.2,14:50,11.4,14:50,0.0
+2017-10-30,Utiel,Val�ncia/Valencia,22.9,16:10,5.6,16:10,0.0
+2017-10-30,Bu�ol,Val�ncia/Valencia,21.3,15:20,7.6,15:20,0.0
+2017-10-30,Poliny� de X�quer,Val�ncia/Valencia,22.0,13:40,13.5,13:40,0.0
+2017-10-30,Tur�s,Val�ncia/Valencia,24.5,14:20,10.4,14:20,0.0
+2017-10-30,Ademuz,Val�ncia/Valencia,21.1,15:50,1.7,15:50,0.0
+2017-10-30,Chelva,Val�ncia/Valencia,23.9,14:50,9.1,14:50,0.0
+2017-10-30,Lliria,Val�ncia/Valencia,24.8,14:50,10.2,14:50,0.0
+2017-10-30,Valencia Aeropuerto,Val�ncia/Valencia,23.1,13:00,11.6,13:00,0.0
+2017-10-30,Val�ncia, Viveros,Val�ncia/Valencia,22.9,15:10,14.4,15:10,0.0
+2017-10-30,Sagunto,Val�ncia/Valencia,23.0,14:00,11.0,14:00,0.0
+2017-10-30,Pe�afiel,Valladolid,18.9,15:00,1.7,15:00,0.0
+2017-10-30,Sard�n de Duero,Valladolid,21.4,14:40,-0.1,14:40,0.0
+2017-10-30,Valladolid,Valladolid,19.6,15:20,5.0,15:20,0.0
+2017-10-30,Olmedo, Dep�sito de Agua,Valladolid,20.3,15:20,2.0,15:20,0.0
+2017-10-30,Olmedo,Valladolid,21.6,15:10,0.0,15:10,0.0
+2017-10-30,Rueda,Valladolid,20.2,15:50,1.9,15:50,0.0
+2017-10-30,Fuente el Sol,Valladolid,20.7,15:40,-0.1,15:40,0.0
+2017-10-30,Villal�n de Campos,Valladolid,20.1,14:50,2.2,14:50,0.0
+2017-10-30,Medina de Rioseco,Valladolid,19.4,14:50,1.6,14:50,0.0
+2017-10-30,Morales del Toro,Zamora,23.0,15:40,1.7,15:40,0.0
+2017-10-30,Fuentesauco,Zamora,19.4,16:40,2.7,16:40,0.0
+2017-10-30,Villaf�fila,Zamora,21.6,16:20,1.7,16:20,0.0
+2017-10-30,Zamora,Zamora,20.4,15:40,4.2,15:40,0.0
+2017-10-30,Benavente,Zamora,20.7,16:00,2.5,16:00,0.0
+2017-10-30,Sanabria, Robleda-Cervantes,Zamora,20.2,16:00,-2.1,16:00,0.0
+2017-10-30,Villardeciervos,Zamora,22.1,14:50,-1.1,14:50,0.0
+2017-10-30,Santiba�ez de Vidriales,Zamora,21.4,15:40,-0.9,15:40,0.0
+2017-10-30,Pozuelo de Tabara,Zamora,19.7,16:10,2.4,16:10,0.0
+2017-10-30,Villadepera,Zamora,19.6,15:40,5.7,15:40,0.0
+2017-10-30,Fresno de Sayago,Zamora,19.2,16:50,2.7,16:50,0.0
+2017-10-30,Alca�ices,Zamora,21.5,15:30,4.1,15:30,0.0
+2017-10-30,Sos del Rey Cat�lico,Zaragoza,16.8,14:10,9.0,14:10,0.0
+2017-10-30,Tarazona,Zaragoza,18.1,15:30,6.3,15:30,0.0
+2017-10-30,Ejea de los Caballeros,Zaragoza,20.4,14:10,6.0,14:10,0.0
+2017-10-30,Castejon de Valdejasa,Zaragoza,18.1,14:20,6.5,14:20,0.0
+2017-10-30,Alhama de Aragon,Zaragoza,21.0,14:20,1.5,14:20,0.0
+2017-10-30,Daroca,Zaragoza,18.7,14:20,0.0,14:20,0.0
+2017-10-30,Calatayud,Zaragoza,20.1,14:50,1.8,14:50,0.0
+2017-10-30,La Almunia de Do�a Godina,Zaragoza,19.7,14:20,3.0,14:20,0.0
+2017-10-30,Zaragoza Aeropuerto,Zaragoza,20.4,14:30,11.2,14:30,0.0
+2017-10-30,Zaragoza, Valdespartera,Zaragoza,20.1,14:30,11.0,14:30,0.0
+2017-10-30,Leci�ena,Zaragoza,21.0,14:30,3.5,14:30,0.0
+2017-10-30,Valmadrid,Zaragoza,18.3,14:40,10.1,14:40,0.0
+2017-10-30,Quinto,Zaragoza,20.9,15:40,9.3,15:40,0.0
+2017-10-30,Caspe,Zaragoza,21.4,15:50,10.8,15:50,0.0
+2017-10-30,Bujaraloz,Zaragoza,19.9,15:40,5.6,15:40,0.0
+2017-10-31,Estaca de Bares,A Coru�a,15.5,13:10,13.0,21:40,0.0
+2017-10-31,As Pontes,A Coru�a,20.3,14:50,7.0,07:30,0.0
+2017-10-31,A Coru�a,A Coru�a,20.6,14:10,11.1,08:30,0.0
+2017-10-31,A Coru�a Aeropuerto,A Coru�a,21.5,15:10,6.0,08:00,0.0
+2017-10-31,Carballo, Depuradora,A Coru�a,22.2,16:20,2.5,07:40,0.0
+2017-10-31,Cabo Vilan,A Coru�a,17.9,12:30,9.9,08:00,0.0
+2017-10-31,Vimianzo,A Coru�a,19.5,15:40,8.7,05:20,0.0
+2017-10-31,Fisterra,A Coru�a,20.4,13:40,12.5,02:20,0.0
+2017-10-31,Mazaricos,A Coru�a,18.7,14:40,7.4,08:10,0.0
+2017-10-31,Sobrado,A Coru�a,18.1,14:50,4.6,03:40,0.0
+2017-10-31,Santiago de Compostela Aeropuerto,A Coru�a,19.6,16:00,7.0,08:10,0.0
+2017-10-31,Noia,A Coru�a,20.3,15:10,10.1,08:20,0.0
+2017-10-31,Boiro,A Coru�a,21.9,16:20,7.9,08:20,0.0
+2017-10-31,Padr�n,A Coru�a,21.6,16:10,7.0,07:50,0.0
+2017-10-31,Santiago de Compostela,A Coru�a,21.4,16:20,8.2,08:10,0.0
+2017-10-31,Rois, Casas do Porto,A Coru�a,20.7,16:10,9.4,07:20,0.0
+2017-10-31,Villarrobledo,Albacete,22.5,15:30,8.5,01:20,0.0
+2017-10-31,Munera,Albacete,20.1,14:00,3.1,01:20,0.0
+2017-10-31,Yeste, Embalse Fuensanta,Albacete,21.8,16:20,12.8,23:59,0.0
+2017-10-31,Nerpio,Albacete,16.0,15:50,3.9,04:40,0.0
+2017-10-31,Yeste,Albacete,20.2,15:50,10.0,23:59,0.0
+2017-10-31,Hell�n,Albacete,21.0,16:20,13.2,07:50,0.0
+2017-10-31,Tobarra,Albacete,21.0,15:00,13.2,07:50,0.0
+2017-10-31,Albacete Base A�rea,Albacete,20.2,15:10,11.9,02:20,0.0
+2017-10-31,Chinchilla,Albacete,19.6,14:40,9.8,03:40,0.0
+2017-10-31,Albacete,Albacete,21.6,14:30,11.6,02:50,0.0
+2017-10-31,Alcal� del J�car,Albacete,20.6,15:40,9.0,05:20,0.0
+2017-10-31,Almansa,Albacete,19.9,14:30,10.6,03:20,0.0
+2017-10-31,Orihuela,Alacant/Alicante,22.8,15:00,12.7,04:00,0.0
+2017-10-31,Pinoso,Alacant/Alicante,19.4,14:30,7.4,07:30,0.0
+2017-10-31,Rojales,Alacant/Alicante,22.4,14:20,14.0,06:40,0.0
+2017-10-31,Villena,Alacant/Alicante,21.7,14:10,8.0,05:30,0.0
+2017-10-31,Novelda,Alacant/Alicante,24.2,14:00,13.4,03:30,0.0
+2017-10-31,Elche/Elx,Alacant/Alicante,24.0,13:30,13.1,03:50,0.0
+2017-10-31,Alicante-Elche Aeropuerto,Alacant/Alicante,23.1,11:40,15.1,05:40,0.0
+2017-10-31,Alicante/Alacant,Alacant/Alicante,23.6,13:30,13.6,04:20,0.0
+2017-10-31,Benidorm,Alacant/Alicante,24.1,12:30,15.3,02:50,0.0
+2017-10-31,J�vea/ X�bia,Alacant/Alicante,23.9,13:40,14.3,00:00,2.8
+2017-10-31,Pego,Alacant/Alicante,22.6,12:30,16.0,03:40,0.0
+2017-10-31,Alcoy/Alcoi,Alacant/Alicante,20.2,13:40,11.0,07:50,0.0
+2017-10-31,V�lez Blanco - Topares,Almer�a,17.6,15:00,8.1,05:40,0.0
+2017-10-31,Adra,Almer�a,23.7,08:50,17.9,06:00,0.0
+2017-10-31,El Ejido,Almer�a,24.8,13:00,15.9,06:50,0.0
+2017-10-31,Roquetas de Mar,Almer�a,24.4,13:00,14.3,00:20,0.0
+2017-10-31,Abla,Almer�a,20.7,14:00,9.6,04:10,0.0
+2017-10-31,Cabo de Gata,Almer�a,23.3,12:10,19.2,07:30,0.0
+2017-10-31,Garrucha, Puerto,Almer�a,23.0,12:00,14.9,07:00,0.0
+2017-10-31,Albox,Almer�a,23.9,15:10,11.5,07:10,0.0
+2017-10-31,Huercal Overa,Almer�a,22.8,12:10,11.4,06:40,0.0
+2017-10-31,Aramaio,Araba/�lava,14.7,14:20,3.8,07:50,0.0
+2017-10-31,Amurrio,Araba/�lava,17.2,16:20,4.3,08:00,0.0
+2017-10-31,Lalastra,Araba/�lava,15.1,15:10,1.0,08:40,0.0
+2017-10-31,Agurain/Salvatierra,Araba/�lava,16.2,15:40,1.2,07:50,0.0
+2017-10-31,Labastida,Araba/�lava,16.2,15:20,4.3,06:40,0.0
+2017-10-31,Leza,Araba/�lava,15.4,15:20,1.5,07:50,0.0
+2017-10-31,Campezo/Kanpezu,Araba/�lava,15.3,15:10,1.7,08:10,0.0
+2017-10-31,Cabrales,Asturias,15.5,14:20,4.9,06:40,0.0
+2017-10-31,Llanes,Asturias,16.6,14:20,10.8,23:50,0.0
+2017-10-31,Amieva, Panizales,Asturias,16.7,15:00,5.7,09:00,0.0
+2017-10-31,Pilo�a,Asturias,16.0,15:20,3.8,08:20,0.0
+2017-10-31,Colunga,Asturias,15.9,15:20,8.1,04:30,0.0
+2017-10-31,Gij�n, Campus,Asturias,17.0,14:50,6.1,03:59,0.0
+2017-10-31,Cabo Pe�as,Asturias,15.3,13:50,11.3,23:40,0.0
+2017-10-31,Asturias Aeropuerto,Asturias,16.5,14:10,8.0,06:00,0.0
+2017-10-31,Puerto de Pajares,Asturias,13.5,12:50,1.1,02:20,0.0
+2017-10-31,Pola de Lena,Asturias,16.4,16:00,5.0,03:59,0.0
+2017-10-31,Aller,Asturias,13.7,14:30,2.6,08:40,0.2
+2017-10-31,Mieres,Asturias,17.2,14:10,5.9,08:30,0.0
+2017-10-31,Oviedo,Asturias,15.7,16:00,6.2,06:50,0.0
+2017-10-31,Tineo, Soto de la Barca,Asturias,17.0,15:00,6.1,08:10,0.0
+2017-10-31,Pola de Somiedo,Asturias,18.3,14:50,2.5,09:40,0.0
+2017-10-31,Salas,Asturias,16.9,15:10,4.7,08:20,0.0
+2017-10-31,Cabo Busto,Asturias,15.8,13:50,9.8,06:00,0.0
+2017-10-31,Dega�a,Asturias,17.3,14:40,3.7,00:40,0.0
+2017-10-31,Ibias, San Antolin,Asturias,18.7,15:10,4.6,06:20,0.0
+2017-10-31,Villay�n, Oneta,Asturias,14.7,13:00,8.8,05:20,0.0
+2017-10-31,Taramundi, Ouria,Asturias,14.7,15:20,5.1,08:10,0.0
+2017-10-31,Puerto de Leitariegos,Asturias,15.6,14:20,2.3,00:30,0.0
+2017-10-31,Mu�otello,�vila,19.0,14:40,2.9,06:30,0.0
+2017-10-31,�vila,�vila,17.1,15:10,3.0,08:20,0.0
+2017-10-31,Gotarrendura,�vila,19.4,15:30,-0.6,07:30,0.0
+2017-10-31,Arevalo,�vila,17.6,15:40,-0.4,07:40,0.0
+2017-10-31,Rivilla de Barajas,�vila,16.6,15:50,0.6,08:20,0.0
+2017-10-31,Barco de Avila,�vila,20.1,15:10,0.0,05:30,0.0
+2017-10-31,Puerto El Pico,�vila,15.0,14:00,-3.1,08:20,0.0
+2017-10-31,Cebreros,�vila,18.8,14:30,5.3,07:20,0.0
+2017-10-31,Candeleda,�vila,22.9,16:00,8.6,05:20,0.0
+2017-10-31,Herrera del Duque,Badajoz,25.1,16:40,7.3,08:10,0.0
+2017-10-31,Peraleda del Zaucejo,Badajoz,23.3,15:40,5.0,07:40,0.0
+2017-10-31,Castuera,Badajoz,24.6,14:50,13.0,05:30,0.0
+2017-10-31,Navalvillar de Pela,Badajoz,24.7,15:20,9.4,05:00,0.0
+2017-10-31,Don Benito,Badajoz,26.1,15:20,10.3,06:10,0.0
+2017-10-31,Llerena,Badajoz,23.7,15:50,12.4,02:20,0.0
+2017-10-31,Villafranca de los Barros,Badajoz,25.2,15:40,8.8,06:00,0.0
+2017-10-31,M�rida,Badajoz,28.2,15:30,7.4,07:20,0.0
+2017-10-31,Zafra,Badajoz,25.0,16:30,7.9,04:20,0.0
+2017-10-31,Almendralejo,Badajoz,25.2,15:30,10.0,05:20,0.0
+2017-10-31,Badajoz Aeropuerto,Badajoz,26.2,15:30,6.7,08:10,0.0
+2017-10-31,Alburquerque,Badajoz,25.5,16:00,5.8,08:10,0.0
+2017-10-31,Puebla de Obando,Badajoz,24.9,15:10,8.4,06:40,0.0
+2017-10-31,Badajoz,Badajoz,26.8,16:00,7.5,07:40,0.0
+2017-10-31,Olivenza,Badajoz,25.5,15:40,8.1,07:40,0.0
+2017-10-31,Alconchel,Badajoz,25.0,16:00,10.0,07:30,0.0
+2017-10-31,Barcarrota,Badajoz,25.1,16:40,7.6,07:50,0.0
+2017-10-31,Villanueva del Fresno,Badajoz,26.2,16:00,11.2,08:00,0.0
+2017-10-31,Monesterio,Badajoz,21.3,15:40,12.5,06:10,0.0
+2017-10-31,Fuente de Cantos,Badajoz,23.0,16:00,12.6,03:00,0.0
+2017-10-31,Jerez de los Caballeros,Badajoz,26.5,16:00,8.1,08:20,0.0
+2017-10-31,Fregenal de la Sierra,Badajoz,23.5,15:10,7.1,06:00,0.0
+2017-10-31,Azuaga,Badajoz,22.4,15:10,11.1,05:40,0.0
+2017-10-31,Pontons,Barcelona,18.5,15:20,8.0,07:30,0.0
+2017-10-31,Vilafranca del Pened�s,Barcelona,18.5,14:30,10.2,23:59,0.0
+2017-10-31,Sitges,Barcelona,17.8,14:50,10.8,23:50,22.4
+2017-10-31,Berga,Barcelona,15.9,15:50,6.5,06:30,0.0
+2017-10-31,Balsareny,Barcelona,18.3,16:00,5.6,07:50,0.0
+2017-10-31,Prats de Llu�an�s,Barcelona,16.9,16:10,5.6,02:50,0.0
+2017-10-31,Moi�,Barcelona,16.1,13:50,7.1,08:00,0.0
+2017-10-31,Manresa,Barcelona,19.2,16:00,8.5,03:50,0.0
+2017-10-31,Monistrol de Montserrat,Barcelona,13.9,13:50,8.1,08:50,0.0
+2017-10-31,Igualada,Barcelona,20.1,14:40,8.5,03:40,0.0
+2017-10-31,Corbera, Pic d'Agulles,Barcelona,17.7,15:00,7.7,07:40,0.2
+2017-10-31,Barcelona,Barcelona,19.3,15:10,14.4,06:00,0.0
+2017-10-31,Barcelona, Museo Mar�timo,Barcelona,19.3,15:50,14.4,06:30,0.8
+2017-10-31,Caldes de Montbui,Barcelona,19.5,14:50,10.3,23:50,0.8
+2017-10-31,Vilassar de Dalt,Barcelona,20.5,11:30,13.4,05:40,0.2
+2017-10-31,Arenys de Mar,Barcelona,20.3,13:20,11.7,06:20,0.1
+2017-10-31,Fogars de Montcl�s,Barcelona,14.7,14:10,7.2,01:20,0.0
+2017-10-31,Sant Juli�  de Vilatorta,Barcelona,17.4,14:50,5.4,03:59,0.0
+2017-10-31,Lekeitio,Bizkaia,14.9,15:20,8.6,08:00,0.0
+2017-10-31,Forua,Bizkaia,15.3,13:20,5.8,07:50,0.0
+2017-10-31,Punta Galea,Bizkaia,15.5,15:50,7.3,07:50,0.0
+2017-10-31,Orozko,Bizkaia,17.4,15:20,4.2,08:20,0.0
+2017-10-31,Abadi�o,Bizkaia,14.6,15:00,3.8,09:00,0.0
+2017-10-31,Amorebieta--Etxano,Bizkaia,17.3,15:30,6.5,08:00,0.0
+2017-10-31,Balmaseda,Bizkaia,16.7,15:20,5.8,08:10,0.0
+2017-10-31,G�e�es,Bizkaia,16.3,16:00,6.2,06:30,0.0
+2017-10-31,Bilbao Aeropuerto,Bizkaia,18.1,16:10,7.0,06:40,0.0
+2017-10-31,Sopuerta,Bizkaia,18.7,15:50,6.4,08:20,0.0
+2017-10-31,Coru�a del Conde,Burgos,17.9,16:20,0.8,05:50,0.0
+2017-10-31,Aranda de Duero,Burgos,18.3,16:00,-0.7,03:40,0.0
+2017-10-31,Pedrosa del Pr�ncipe,Burgos,19.4,16:20,-0.7,07:50,0.0
+2017-10-31,Palacios de la Sierra,Burgos,17.8,15:50,-2.4,05:30,0.0
+2017-10-31,Monterrubio de la Demanda,Burgos,16.6,15:20,-1.4,08:00,0.0
+2017-10-31,Villamayor de los Montes,Burgos,18.5,15:00,-0.6,07:50,0.0
+2017-10-31,Burgos Aeropuerto,Burgos,18.6,16:10,0.8,06:30,0.0
+2017-10-31,Santa Gadea de Alfoz,Burgos,16.1,16:00,2.5,07:40,0.0
+2017-10-31,Sargentes de la Lora,Burgos,18.1,14:30,1.5,08:00,0.0
+2017-10-31,Briviesca,Burgos,15.9,15:30,1.9,07:50,0.0
+2017-10-31,Medina de Pomar,Burgos,18.5,15:30,1.2,07:40,0.0
+2017-10-31,Miranda de Ebro,Burgos,18.3,14:40,1.9,07:30,0.0
+2017-10-31,Madrigal de la Vera,C�ceres,22.6,15:30,9.4,07:40,0.0
+2017-10-31,Navalmoral de la Mata,C�ceres,22.9,16:10,7.9,05:30,0.0
+2017-10-31,Garganta de la Olla,C�ceres,19.9,15:40,9.9,07:50,0.0
+2017-10-31,Serradilla,C�ceres,21.7,15:40,11.8,07:40,0.0
+2017-10-31,Jaraicejo,C�ceres,21.9,15:20,11.8,07:10,0.0
+2017-10-31,Trujillo,C�ceres,23.8,14:10,8.5,06:40,0.0
+2017-10-31,C�ceres,C�ceres,24.2,15:10,8.8,07:20,0.0
+2017-10-31,Ca�averal,C�ceres,23.2,16:40,12.2,08:10,0.0
+2017-10-31,Nu�omoral,C�ceres,22.7,16:10,2.6,07:40,0.0
+2017-10-31,Guijo de Granadilla,C�ceres,23.4,16:10,9.5,08:00,0.0
+2017-10-31,Herv�s,C�ceres,21.2,15:50,8.3,07:30,0.0
+2017-10-31,Montehermoso,C�ceres,23.9,15:30,9.3,06:30,0.0
+2017-10-31,Tornavacas,C�ceres,19.1,15:00,9.0,08:00,0.0
+2017-10-31,Plasencia,C�ceres,23.7,16:40,11.8,08:00,0.0
+2017-10-31,Coria,C�ceres,24.3,16:00,9.0,07:30,0.0
+2017-10-31,Hoyos,C�ceres,22.2,16:10,10.8,05:10,0.0
+2017-10-31,Zarza La Mayor,C�ceres,24.4,16:10,11.7,04:50,0.0
+2017-10-31,Valverde del Fresno,C�ceres,22.9,15:30,8.1,06:40,0.0
+2017-10-31,Aliseda,C�ceres,25.1,16:30,6.3,08:20,0.0
+2017-10-31,Brozas,C�ceres,24.7,15:50,11.3,05:40,0.0
+2017-10-31,Valencia de Alc�ntara,C�ceres,24.3,17:00,6.4,07:40,0.0
+2017-10-31,Guadalupe,C�ceres,22.3,15:00,10.8,06:40,0.0
+2017-10-31,Ca�amero,C�ceres,22.7,16:30,10.8,08:00,0.0
+2017-10-31,Zorita,C�ceres,23.7,16:10,14.3,07:50,0.0
+2017-10-31,Alcuescar,C�ceres,24.2,15:20,10.5,06:20,0.0
+2017-10-31,Chipiona,C�diz,26.8,14:20,13.8,04:40,0.0
+2017-10-31,Rota, Base Naval,C�diz,26.3,14:40,12.3,08:10,0.0
+2017-10-31,Grazalema,C�diz,19.0,13:10,9.0,02:20,0.0
+2017-10-31,Olvera,C�diz,23.0,15:20,13.2,08:20,0.0
+2017-10-31,El Bosque,C�diz,23.8,13:40,11.3,03:50,0.0
+2017-10-31,San Jos� del Valle,C�diz,25.6,13:10,16.1,03:50,0.0
+2017-10-31,Jerez de la Frontera Aeropuerto,C�diz,26.5,14:00,11.1,06:50,0.0
+2017-10-31,C�diz,C�diz,24.4,15:20,18.1,07:20,0.0
+2017-10-31,Medina Sidonia,C�diz,24.2,13:40,16.5,01:50,0.0
+2017-10-31,Vejer de la Frontera,C�diz,24.0,13:40,16.1,00:30,0.0
+2017-10-31,Barbate,C�diz,25.0,14:00,18.0,06:40,0.0
+2017-10-31,Tarifa,C�diz,23.8,14:40,19.7,00:20,0.0
+2017-10-31,Jimena de la Frontera,C�diz,22.8,14:40,11.3,05:30,0.0
+2017-10-31,San Roque,C�diz,22.7,13:40,17.9,02:50,0.0
+2017-10-31,Castro Urdiales,Cantabria,14.9,15:40,10.8,07:50,0.0
+2017-10-31,Ramales de la Victoria,Cantabria,18.2,15:20,6.6,03:59,0.0
+2017-10-31,Barcena de Cicero, Treto,Cantabria,15.6,16:50,8.4,03:59,0.0
+2017-10-31,Soba, Alto Miera,Cantabria,16.9,20:40,3.4,07:50,0.0
+2017-10-31,Santander Aeropuerto,Cantabria,16.8,14:50,8.9,03:59,0.0
+2017-10-31,Santander,Cantabria,14.9,11:30,10.7,08:20,0.0
+2017-10-31,Los Tojos, B�rcena Mayor,Cantabria,15.4,15:30,2.1,08:40,0.0
+2017-10-31,San Felices de Buelna,Cantabria,17.2,16:00,5.2,08:40,0.0
+2017-10-31,Torrelavega, Sierrapando,Cantabria,15.7,13:40,7.7,08:00,0.0
+2017-10-31,San Vicente de la Barquera,Cantabria,14.7,16:10,7.8,05:10,0.0
+2017-10-31,Camale�o, Fuente De,Cantabria,18.7,14:50,-0.8,07:30,0.0
+2017-10-31,Cill�rigo de Li�bana, Tama,Cantabria,18.9,15:50,4.2,03:59,0.0
+2017-10-31,Tresviso,Cantabria,14.6,14:40,2.8,08:00,0.2
+2017-10-31,Santillana del Mar, Altamira,Cantabria,15.4,13:40,7.3,07:50,0.0
+2017-10-31,Reinosa,Cantabria,16.7,16:20,-4.6,07:40,0.0
+2017-10-31,Alto Campoo,Cantabria,14.0,16:00,0.8,01:10,0.0
+2017-10-31,Valderredible, Cubillo de Ebro,Cantabria,19.1,16:00,-0.2,06:10,0.0
+2017-10-31,Valderredible, Polientes,Cantabria,20.1,16:00,0.0,08:10,0.0
+2017-10-31,Segorbe,Castell�/Castell�n,19.6,12:20,10.5,23:10,0.0
+2017-10-31,Montanejos,Castell�/Castell�n,18.7,12:40,10.8,06:30,0.0
+2017-10-31,Villafranca del Cid/Vilafranca,Castell�/Castell�n,15.4,14:10,2.1,07:40,0.0
+2017-10-31,Atzeneta del Maestrat,Castell�/Castell�n,19.5,12:10,8.2,07:50,0.0
+2017-10-31,Castell�n - Almassora,Castell�/Castell�n,20.2,14:10,15.3,07:50,1.8
+2017-10-31,Torreblanca,Castell�/Castell�n,20.1,12:20,16.0,07:00,0.0
+2017-10-31,La Pobla de Benifass�-Fredes,Castell�/Castell�n,12.1,13:50,2.8,07:10,0.0
+2017-10-31,Vinar�s,Castell�/Castell�n,22.1,13:00,12.5,07:00,0.1
+2017-10-31,Morella,Castell�/Castell�n,15.1,13:20,3.5,07:40,0.0
+2017-10-31,Castellfort,Castell�/Castell�n,13.9,13:10,4.2,07:20,0.0
+2017-10-31,Ceuta,Ceuta,22.1,13:30,18.1,05:50,0.0
+2017-10-31,Alcazar de San Juan,Ciudad Real,21.3,15:20,9.3,08:20,0.0
+2017-10-31,Tomelloso,Ciudad Real,22.7,15:40,5.7,02:40,0.0
+2017-10-31,Ciudad Real,Ciudad Real,21.0,14:50,6.4,07:50,0.0
+2017-10-31,Villanueva de los Infantes,Ciudad Real,21.8,15:10,8.2,07:40,0.0
+2017-10-31,Valdepe�as,Ciudad Real,22.2,14:10,4.6,07:30,0.0
+2017-10-31,Viso del Marqu�s,Ciudad Real,20.7,16:40,6.0,05:10,0.0
+2017-10-31,Aben�jar,Ciudad Real,21.7,15:20,8.6,07:20,0.0
+2017-10-31,Puebla de Don Rodrigo,Ciudad Real,23.7,14:30,4.0,07:50,0.0
+2017-10-31,Almad�n,Ciudad Real,25.3,16:00,10.8,08:10,0.0
+2017-10-31,Puertollano,Ciudad Real,22.8,15:10,5.6,07:40,0.0
+2017-10-31,Fuencaliente,Ciudad Real,22.4,15:10,6.7,07:50,0.0
+2017-10-31,Valsequillo,C�rdoba,23.6,14:40,4.6,08:00,0.0
+2017-10-31,Hinojosa del Duque,C�rdoba,23.2,15:10,6.1,08:00,0.0
+2017-10-31,Carde�a,C�rdoba,22.5,14:50,10.7,07:50,0.0
+2017-10-31,Montoro,C�rdoba,26.4,17:10,6.2,08:00,0.0
+2017-10-31,Villanueva de C�rdoba,C�rdoba,22.1,14:50,11.2,05:00,0.0
+2017-10-31,C�rdoba, Embalse de Guadanu�o,C�rdoba,22.9,15:50,7.7,07:20,0.0
+2017-10-31,C�rdoba Aeropuerto,C�rdoba,26.8,15:50,8.9,05:10,0.0
+2017-10-31,Priego de Cordoba,C�rdoba,25.2,15:30,9.3,06:00,0.0
+2017-10-31,Do�a Menc�a,C�rdoba,21.9,15:00,12.3,07:10,0.0
+2017-10-31,C�rdoba, Pr�gdena,C�rdoba,24.7,17:00,9.1,08:00,0.0
+2017-10-31,Espiel,C�rdoba,23.0,15:00,6.5,07:10,0.0
+2017-10-31,Fuente Palmera,C�rdoba,25.6,15:20,10.4,07:50,0.0
+2017-10-31,Benamej�,C�rdoba,21.9,13:40,12.1,08:10,0.0
+2017-10-31,Aguilar de la Frontera,C�rdoba,24.6,15:20,10.0,07:50,0.0
+2017-10-31,La Rambla,C�rdoba,26.5,14:50,9.9,05:50,0.0
+2017-10-31,Beteta,Cuenca,16.2,15:10,1.6,08:00,0.0
+2017-10-31,Taranc�n,Cuenca,23.1,16:30,10.6,06:20,0.0
+2017-10-31,Alc�zar del Rey,Cuenca,20.1,15:00,7.7,03:40,0.0
+2017-10-31,Abia de Obispalia,Cuenca,19.2,16:00,8.7,07:20,0.0
+2017-10-31,Alberca de Zancara,Cuenca,18.8,15:00,9.7,00:50,0.0
+2017-10-31,San Clemente,Cuenca,20.1,15:10,11.3,00:00,0.0
+2017-10-31,Osa de la Vega,Cuenca,20.6,16:30,8.3,00:10,0.0
+2017-10-31,Cuenca,Cuenca,19.5,16:00,7.3,07:40,0.0
+2017-10-31,Motilla del Palancar,Cuenca,20.3,15:10,11.0,07:00,0.0
+2017-10-31,Salvaca�ete,Cuenca,14.8,15:50,4.2,00:20,0.0
+2017-10-31,Mira,Cuenca,18.2,15:10,4.8,01:00,0.0
+2017-10-31,Ir�n,Gipuzkoa,13.7,15:20,6.0,07:50,0.0
+2017-10-31,San Sebasti�n Aeropuerto,Gipuzkoa,16.2,17:20,5.4,08:10,0.0
+2017-10-31,Renteria,Gipuzkoa,17.0,16:10,2.9,07:30,0.2
+2017-10-31,Segura - Lastala,Gipuzkoa,17.3,15:20,3.7,06:20,0.0
+2017-10-31,Beasain,Gipuzkoa,17.1,15:30,4.5,05:10,0.0
+2017-10-31,Ordizia,Gipuzkoa,15.1,14:30,4.7,07:50,0.0
+2017-10-31,Legazpia,Gipuzkoa,15.3,15:20,2.8,07:50,0.0
+2017-10-31,Zumarraga,Gipuzkoa,13.0,15:00,2.0,07:50,0.0
+2017-10-31,Azpeitia,Gipuzkoa,16.0,14:30,5.4,08:00,0.0
+2017-10-31,Zumaia,Gipuzkoa,16.7,15:00,6.7,07:30,0.0
+2017-10-31,Aretxabaleta,Gipuzkoa,15.9,14:20,5.0,04:20,0.0
+2017-10-31,Elgeta,Gipuzkoa,14.3,14:20,3.8,08:00,0.0
+2017-10-31,Elgoibar,Gipuzkoa,14.9,14:40,5.7,07:40,0.0
+2017-10-31,Mutriku,Gipuzkoa,14.7,14:20,8.5,07:00,0.0
+2017-10-31,Blanes,Girona,19.7,13:30,10.7,06:30,0.0
+2017-10-31,Castell, Platja d'Aro,Girona,19.2,13:50,8.7,07:10,0.0
+2017-10-31,Sant Pau de Seg�ries,Girona,14.0,14:30,1.7,03:40,0.0
+2017-10-31,Planoles,Girona,15.8,13:30,3.0,08:00,0.0
+2017-10-31,Ripoll,Girona,16.7,14:20,4.7,06:50,0.0
+2017-10-31,Les Planes d'Hostoles,Girona,18.1,14:40,3.5,03:50,0.0
+2017-10-31,Sant Hilari,Girona,14.8,14:20,4.1,03:00,0.0
+2017-10-31,Girona Aeropuerto,Girona,20.1,15:40,7.3,03:59,0.0
+2017-10-31,Girona,Girona,19.6,14:30,8.5,07:40,0.0
+2017-10-31,Porqueres,Girona,20.3,15:00,5.5,07:30,0.0
+2017-10-31,L'Estartit,Girona,16.9,13:00,10.8,23:59,0.0
+2017-10-31,La Vall de Bianya,Girona,18.1,14:20,4.2,03:50,0.0
+2017-10-31,Castell� d'Emp�ries,Girona,18.3,14:50,6.7,07:30,0.0
+2017-10-31,Espolla,Girona,19.7,14:30,6.7,07:40,0.0
+2017-10-31,Figueres,Girona,19.5,15:00,9.2,03:50,0.0
+2017-10-31,La Molina,Girona,12.2,14:50,-0.8,07:30,0.0
+2017-10-31,Baza,Granada,23.0,15:00,8.8,08:00,0.0
+2017-10-31,D�lar,Granada,17.4,14:20,7.2,07:10,0.0
+2017-10-31,Granada-Cartuja,Granada,24.2,16:10,9.9,08:00,0.0
+2017-10-31,Granada Aeropuerto,Granada,25.2,14:50,7.0,06:30,0.0
+2017-10-31,Loja,Granada,22.6,15:40,10.8,07:50,0.0
+2017-10-31,Lanjar�n,Granada,20.9,14:20,9.1,06:50,0.0
+2017-10-31,Salobre�a,Granada,23.8,12:00,13.7,01:00,0.0
+2017-10-31,Motril,Granada,24.5,10:20,15.1,00:10,0.0
+2017-10-31,Motril, Puerto,Granada,26.7,11:00,15.3,07:30,0.0
+2017-10-31,Castell de Ferro,Granada,21.8,10:50,15.9,02:00,0.0
+2017-10-31,V�lor,Granada,20.7,14:10,9.4,07:30,0.0
+2017-10-31,Molina de Arag�n,Guadalajara,18.1,13:50,0.3,05:30,0.0
+2017-10-31,Zaorejas,Guadalajara,16.3,15:10,1.8,07:50,0.0
+2017-10-31,Pastrana,Guadalajara,19.6,15:10,5.9,07:40,0.0
+2017-10-31,Pantano el Vado,Guadalajara,17.2,15:50,3.1,07:20,0.0
+2017-10-31,Sig�enza,Guadalajara,17.6,15:20,0.5,05:20,0.0
+2017-10-31,Guadalajara,Guadalajara,19.5,16:00,5.9,06:40,0.0
+2017-10-31,Brihuega,Guadalajara,17.3,15:00,2.8,07:00,0.0
+2017-10-31,El Pedregal,Guadalajara,18.9,14:20,0.1,06:00,0.0
+2017-10-31,Aroche,Huelva,26.3,15:20,7.3,07:40,0.0
+2017-10-31,El Granado,Huelva,26.0,14:20,11.8,08:00,0.0
+2017-10-31,Ayamonte,Huelva,23.6,14:00,11.9,07:10,0.0
+2017-10-31,Cartaya,Huelva,23.9,15:50,11.2,03:30,0.0
+2017-10-31,Alajar,Huelva,23.7,15:20,11.4,07:40,0.0
+2017-10-31,Valverde del Camino,Huelva,24.7,14:50,10.6,08:00,0.0
+2017-10-31,El Cerro de And�valo,Huelva,25.4,15:20,13.5,06:40,0.0
+2017-10-31,Alosno, Tharsis,Huelva,24.2,15:30,13.9,07:20,0.0
+2017-10-31,El Campillo,Huelva,23.5,15:40,13.6,07:50,0.0
+2017-10-31,Villarrasa,Huelva,26.1,16:00,10.3,04:40,0.0
+2017-10-31,Huelva, Ronda Este,Huelva,26.1,15:30,12.2,06:30,0.0
+2017-10-31,Cala,Huelva,20.4,16:00,8.3,07:50,0.0
+2017-10-31,Almonte,Huelva,27.3,17:00,9.9,01:30,0.0
+2017-10-31,Moguer, El Arenosillo,Huelva,25.9,14:20,12.7,07:30,0.1
+2017-10-31,Canfranc,Huesca,15.0,14:50,1.6,07:50,0.0
+2017-10-31,Jaca,Huesca,18.3,15:20,1.9,08:10,0.0
+2017-10-31,Valle de Hecho, Hecho,Huesca,17.4,15:10,0.0,07:30,0.0
+2017-10-31,Arag��s del Puerto,Huesca,17.4,14:40,4.1,03:00,0.0
+2017-10-31,Bailo,Huesca,17.2,14:40,2.8,06:50,0.0
+2017-10-31,Biescas,Huesca,15.6,14:10,0.2,07:20,0.0
+2017-10-31,Sabi��nigo,Huesca,18.8,15:10,0.5,07:50,0.0
+2017-10-31,Almud�var,Huesca,18.0,15:40,2.6,07:50,0.0
+2017-10-31,Sopeira,Huesca,17.3,13:00,8.2,03:59,0.0
+2017-10-31,Benabarre,Huesca,16.0,13:50,6.0,03:30,0.0
+2017-10-31,Bielsa,Huesca,16.5,13:20,1.3,07:00,0.0
+2017-10-31,Ainsa,Huesca,17.3,15:00,6.3,07:50,0.0
+2017-10-31,Torla - Dep�sito,Huesca,23.4,14:30,5.0,08:20,0.0
+2017-10-31,Benasque,Huesca,16.2,15:20,-1.2,08:10,0.0
+2017-10-31,Seira,Huesca,16.5,14:00,4.2,08:50,0.0
+2017-10-31,Capella,Huesca,16.7,15:00,6.0,03:20,0.0
+2017-10-31,Barbastro,Huesca,17.8,15:30,3.6,07:40,0.0
+2017-10-31,Sari�ena, Dep�sito agua,Huesca,18.1,15:50,4.7,07:50,0.0
+2017-10-31,Huesca Aeropuerto,Huesca,16.2,15:40,5.1,07:20,0.0
+2017-10-31,Huesca,Huesca,16.3,14:50,5.0,07:40,0.0
+2017-10-31,Lanaja,Huesca,17.3,15:20,4.6,07:00,0.0
+2017-10-31,Ballobar,Huesca,17.5,16:20,5.3,07:50,0.0
+2017-10-31,Tamarite de Litera,Huesca,18.3,16:10,4.2,07:40,0.0
+2017-10-31,Fraga,Huesca,19.5,15:20,7.2,07:40,0.0
+2017-10-31,Escorca, Lluc,Illes Balears,16.9,13:30,6.3,03:40,0.0
+2017-10-31,Banyalbufar,Illes Balears,19.6,11:30,14.5,05:50,0.0
+2017-10-31,Calvi�, Es Capdell�,Illes Balears,23.0,14:00,10.5,23:59,0.0
+2017-10-31,Palma, Puerto,Illes Balears,22.6,14:40,14.9,23:59,0.0
+2017-10-31,Palma, Universitat,Illes Balears,22.3,14:30,9.0,03:59,0.0
+2017-10-31,Sierra de Alfabia, Bunyola,Illes Balears,13.1,13:00,7.6,04:50,0.0
+2017-10-31,Marratx�,Illes Balears,22.2,15:00,12.9,23:50,0.0
+2017-10-31,Palma de Mallorca, Aeropuerto,Illes Balears,22.0,15:20,12.3,23:50,0.0
+2017-10-31,Llucmajor, Cap Blanc,Illes Balears,22.9,14:10,13.3,22:20,0.0
+2017-10-31,Llucmajor,Illes Balears,21.0,15:20,13.8,23:00,0.0
+2017-10-31,Porreres,Illes Balears,21.8,11:00,13.1,07:30,0.0
+2017-10-31,Campos, Can Sion,Illes Balears,22.4,13:50,9.6,03:59,0.0
+2017-10-31,Campos, Salines Llevant,Illes Balears,21.3,15:10,11.9,23:59,0.0
+2017-10-31,Santany�,Illes Balears,21.4,13:50,14.3,23:50,0.0
+2017-10-31,Portocolom,Illes Balears,20.8,14:00,14.6,22:30,0.0
+2017-10-31,Son Servera,Illes Balears,21.0,11:40,12.8,23:50,0.0
+2017-10-31,Art�,Illes Balears,20.2,14:20,11.7,23:59,0.0
+2017-10-31,Art�-Col�nia de Sant Pere,Illes Balears,18.9,13:50,15.3,05:40,0.0
+2017-10-31,Muro, S'Albufera,Illes Balears,20.0,14:20,12.8,22:30,0.0
+2017-10-31,Manacor,Illes Balears,20.7,12:20,11.4,23:30,0.0
+2017-10-31,Sineu,Illes Balears,19.9,14:30,11.4,07:20,0.0
+2017-10-31,Santa Mar�a del Cam�,Illes Balears,21.6,14:10,10.1,23:50,0.0
+2017-10-31,Binissalem,Illes Balears,21.4,15:30,10.6,23:40,0.0
+2017-10-31,Escorca, Son Torrella,Illes Balears,14.4,13:10,5.4,05:40,0.0
+2017-10-31,Sa Pobla,Illes Balears,20.9,14:00,11.5,23:50,0.0
+2017-10-31,Pollen�a,Illes Balears,20.3,13:50,11.8,06:10,0.0
+2017-10-31,Port de Pollen�a,Illes Balears,21.4,14:50,13.5,21:30,0.0
+2017-10-31,Es Mercadal,Illes Balears,19.2,14:00,14.6,05:20,0.0
+2017-10-31,Ciutadella,Illes Balears,20.4,14:10,14.2,23:59,0.0
+2017-10-31,Ciutadella, Cala Galdana,Illes Balears,20.1,14:40,12.2,23:50,0.0
+2017-10-31,Menorca, Aeropuerto,Illes Balears,21.1,13:40,13.9,23:40,0.0
+2017-10-31,Sant Joan de Labritja,Illes Balears,20.8,13:40,10.2,02:00,0.0
+2017-10-31,Ibiza, Aeropuerto,Illes Balears,22.2,14:00,11.8,03:10,0.0
+2017-10-31,Eivissa,Illes Balears,21.8,14:10,12.7,03:50,0.0
+2017-10-31,Formentera,Illes Balears,22.6,12:40,16.0,23:50,0.0
+2017-10-31,Baeza,Ja�n,24.4,15:30,12.6,07:00,0.0
+2017-10-31,Torres,Ja�n,19.5,14:50,10.2,07:50,0.0
+2017-10-31,Villanueva del Arzobispo,Ja�n,22.1,14:40,8.5,07:50,0.0
+2017-10-31,Santa Elena,Ja�n,20.9,16:20,10.8,06:10,0.0
+2017-10-31,Ja�n,Ja�n,22.4,14:50,14.7,01:20,0.0
+2017-10-31,Linares,Ja�n,23.2,14:40,13.7,08:00,0.0
+2017-10-31,Bail�n,Ja�n,24.5,13:50,10.9,07:30,0.0
+2017-10-31,And�jar,Ja�n,26.1,16:30,6.0,07:30,0.0
+2017-10-31,Alcal� La Real,Ja�n,21.6,15:20,9.4,07:00,0.0
+2017-10-31,Valdezcaray, estaci�n de esqu�,La Rioja,15.3,14:10,-1.1,00:50,0.0
+2017-10-31,Haro,La Rioja,16.8,15:40,4.3,08:20,0.0
+2017-10-31,Anguiano,La Rioja,13.3,15:00,-0.5,07:40,0.0
+2017-10-31,N�jera,La Rioja,16.9,15:40,4.3,07:50,0.0
+2017-10-31,Cenicero,La Rioja,15.6,16:40,4.4,08:30,0.0
+2017-10-31,Logro�o Aeropuerto,La Rioja,17.4,15:30,3.9,07:30,0.0
+2017-10-31,Enciso,La Rioja,16.2,16:10,-0.3,08:10,0.0
+2017-10-31,Alfaro,La Rioja,17.6,15:50,2.3,07:50,0.0
+2017-10-31,T�as,Las Palmas,23.7,13:40,15.3,06:50,0.0
+2017-10-31,Yaiza Playa Blanca,Las Palmas,24.5,14:00,16.3,06:50,0.0
+2017-10-31,Lanzarote Aeropuerto,Las Palmas,25.2,16:10,16.4,07:00,0.0
+2017-10-31,Har�a,Las Palmas,23.4,12:50,15.9,04:40,0.0
+2017-10-31,Tinajo,Las Palmas,23.5,12:50,16.7,06:30,0.0
+2017-10-31,P�jara,Las Palmas,31.0,15:30,23.6,06:00,0.0
+2017-10-31,Tuineje,Puerto Gran Tarajal,Las Palmas,25.1,14:40,17.7,07:20,0.0
+2017-10-31,Antigua,Las Palmas,25.8,14:50,14.4,02:40,0.2
+2017-10-31,Fuerteventura Aeropuerto,Las Palmas,24.9,13:40,20.8,05:10,0.0
+2017-10-31,La Oliva,Las Palmas,24.3,14:00,16.9,04:20,0.0
+2017-10-31,La Oliva, Puerto de Corralejo,Las Palmas,23.7,14:00,19.5,03:10,0.0
+2017-10-31,Vega de San Mateo,Las Palmas,21.1,09:10,11.2,04:50,0.0
+2017-10-31,Tejeda, Cruz de Tejeda,Las Palmas,21.6,14:30,13.2,07:20,0.0
+2017-10-31,Agaete,Las Palmas,26.8,16:10,20.3,07:20,0.0
+2017-10-31,La Aldea de San Nicol�s,Las Palmas,26.4,17:00,13.8,07:10,0.0
+2017-10-31,San Bartolome Tirajana, Cuevas del Pinar,Las Palmas,22.6,15:10,16.5,22:30,0.0
+2017-10-31,San Bartolome Tirajana, Lomo Pedro Alfonso,Las Palmas,27.2,14:40,18.8,22:10,0.0
+2017-10-31,La Aldea de San Nicol�s, Tasarte,Las Palmas,26.5,13:10,17.9,07:40,0.0
+2017-10-31,Mog�n, Puerto Rico,Las Palmas,24.0,14:20,19.9,07:30,0.0
+2017-10-31,San Bartolome Tirajana, Las Tirajanas,Las Palmas,26.0,13:30,16.3,06:10,0.0
+2017-10-31,Maspalomas, C. Insular Turismo,Las Palmas,23.9,10:30,18.6,04:10,0.0
+2017-10-31,San Bartolome Tirajana, El Matorral,Las Palmas,25.2,14:40,18.3,06:10,0.0
+2017-10-31,Ag�imes,Las Palmas,25.9,13:40,16.5,06:30,0.0
+2017-10-31,Telde, Centro Forestal Doramas,Las Palmas,23.0,15:20,14.6,04:30,0.0
+2017-10-31,Gran Canaria Aeropuerto,Las Palmas,24.2,12:20,18.5,05:40,0.0
+2017-10-31,Telde, Melenara,Las Palmas,23.7,12:40,18.7,06:20,0.0
+2017-10-31,Teror,Las Palmas,23.0,11:20,10.1,06:50,0.0
+2017-10-31,Las Palmas de Gran Canaria, Tafira,Las Palmas,22.6,13:10,16.5,06:00,0.0
+2017-10-31,Las Palmas de Gran Canaria, San Cristobal,Las Palmas,25.1,13:00,19.4,07:30,0.0
+2017-10-31,Las Palmas de Gran Canaria, Pl. de la Feria,Las Palmas,23.9,14:30,21.3,04:20,0.0
+2017-10-31,Valleseco,Las Palmas,25.2,14:10,13.6,23:50,0.0
+2017-10-31,Arucas,Las Palmas,23.7,14:00,17.8,00:00,0.0
+2017-10-31,Maspalomas,Las Palmas,24.0,12:40,17.6,05:20,0.0
+2017-10-31,Teguise,Las Palmas,25.0,13:40,18.2,04:30,0.0
+2017-10-31,Posada de Valde�n, Soto,Le�n,15.2,15:30,-1.0,08:40,0.0
+2017-10-31,Villablino,Le�n,21.6,15:40,-3.3,07:30,0.0
+2017-10-31,Ponferrada,Le�n,21.1,17:00,2.9,07:50,0.0
+2017-10-31,Vega de Espinareda,Le�n,21.0,15:50,0.3,08:10,0.0
+2017-10-31,Ria�o,Le�n,18.1,16:00,-0.7,08:30,0.0
+2017-10-31,Cubillas de Rueda,Le�n,16.0,15:30,-2.8,06:00,0.0
+2017-10-31,Le�n, Virgen del Camino,Le�n,14.7,16:30,2.4,07:40,0.0
+2017-10-31,Valencia de Don Juan,Le�n,15.7,16:30,-0.1,08:00,0.0
+2017-10-31,Barrios de Luna, Mi�era,Le�n,16.7,15:20,-2.0,08:20,0.0
+2017-10-31,Quintana del Castillo, Villameca,Le�n,14.5,14:50,2.3,07:20,0.0
+2017-10-31,Astorga,Le�n,15.6,13:30,-0.6,07:20,0.0
+2017-10-31,Bustillo del P�ramo,Le�n,14.3,16:10,0.1,03:30,0.0
+2017-10-31,Martinet,Lleida,18.3,15:00,-0.5,08:00,0.0
+2017-10-31,La Seu d'Urgell,Lleida,19.2,14:30,2.5,06:10,0.0
+2017-10-31,Josa i Tuix�n,Lleida,15.6,14:00,3.3,07:30,0.0
+2017-10-31,Coll de Narg�,Lleida,16.9,14:40,4.4,08:30,0.0
+2017-10-31,Tor�,Lleida,17.4,15:40,5.1,03:50,0.0
+2017-10-31,Artesa de Segre,Lleida,17.3,15:50,7.2,03:50,0.0
+2017-10-31,Talarn,Lleida,18.0,14:20,8.0,03:59,0.0
+2017-10-31,Llimiana,Lleida,18.9,15:40,7.3,03:59,0.0
+2017-10-31,Granyanella,Lleida,17.0,15:10,7.4,07:50,0.0
+2017-10-31,T�rrega,Lleida,16.4,15:30,7.6,07:40,0.0
+2017-10-31,Os de Balaguer,Lleida,17.0,15:30,4.9,08:10,0.0
+2017-10-31,Mollerussa,Lleida,18.2,15:40,7.1,07:40,0.0
+2017-10-31,Vall de Bo�,Lleida,16.4,13:50,-0.3,08:10,0.0
+2017-10-31,Lleida,Lleida,18.4,16:10,4.8,07:50,0.0
+2017-10-31,La Pobla de C�rvoles,Lleida,16.8,12:10,6.1,07:00,0.0
+2017-10-31,El Soler�s,Lleida,17.3,15:40,6.5,06:40,0.0
+2017-10-31,Naut Aran, Arties,Lleida,16.0,13:30,-1.4,06:20,0.0
+2017-10-31,Boss�st,Lleida,15.0,14:20,-0.1,07:50,0.0
+2017-10-31,Cervantes,Lugo,18.3,15:50,4.4,07:30,0.0
+2017-10-31,Ribadeo,Lugo,16.2,13:50,7.8,08:00,0.0
+2017-10-31,Mondo�edo,Lugo,16.1,15:40,5.0,08:10,0.0
+2017-10-31,Burela,Lugo,16.0,14:00,10.8,21:50,0.0
+2017-10-31,Lugo Aeropuerto,Lugo,18.2,16:10,2.3,08:10,0.0
+2017-10-31,Lugo,Lugo,18.7,17:30,3.2,07:50,0.0
+2017-10-31,O P�ramo,Lugo,17.2,17:00,2.1,06:10,0.0
+2017-10-31,Becerre�,Lugo,16.6,14:20,4.2,06:30,0.0
+2017-10-31,O Savi�ao,Lugo,18.2,15:40,5.5,08:20,0.0
+2017-10-31,Folgoso do Courel,Lugo,19.0,16:20,2.5,08:30,0.0
+2017-10-31,Monforte de Lemos,Lugo,20.9,16:00,2.3,04:30,0.0
+2017-10-31,Puerto de Navacerrada,Madrid,12.8,12:10,4.5,03:40,0.0
+2017-10-31,Aranjuez,Madrid,22.4,16:40,4.8,06:30,0.0
+2017-10-31,Rascafr�a,Madrid,18.0,14:40,-0.9,06:20,0.0
+2017-10-31,Buitrago del Lozoya,Madrid,15.1,15:40,-0.2,08:00,0.0
+2017-10-31,Somosierra,Madrid,13.3,15:20,3.2,00:10,0.0
+2017-10-31,Madrid, El Goloso,Madrid,16.9,16:40,6.0,05:30,0.0
+2017-10-31,Madrid Aeropuerto,Madrid,20.1,16:10,6.4,07:00,0.0
+2017-10-31,Alcala de Henares,Madrid,20.3,17:00,6.0,07:20,0.0
+2017-10-31,Colmenar Viejo,Madrid,16.2,15:40,6.9,07:00,0.0
+2017-10-31,Madrid, Ciudad Universitaria,Madrid,19.7,16:20,8.2,03:40,0.0
+2017-10-31,Pozuelo de Alarc�n,Madrid,20.1,16:40,5.3,07:20,0.0
+2017-10-31,Madrid, Retiro,Madrid,18.3,16:30,9.9,06:40,0.0
+2017-10-31,Tielmes,Madrid,20.1,15:20,6.5,07:30,0.0
+2017-10-31,Puerto Alto del Le�n,Madrid,11.1,16:00,4.4,02:40,0.0
+2017-10-31,Alpedrete,Madrid,19.8,16:10,5.5,07:40,0.0
+2017-10-31,Torrelodones,Madrid,18.6,15:10,5.7,05:30,0.0
+2017-10-31,Rozas de Puerto Real,Madrid,16.6,16:00,6.5,08:40,0.0
+2017-10-31,Robledo de Chavela,Madrid,17.9,14:30,6.7,05:40,0.0
+2017-10-31,Valdemorillo,Madrid,18.2,16:20,7.2,08:00,0.0
+2017-10-31,Ronda Instituto,M�laga,20.1,13:50,13.0,00:20,0.0
+2017-10-31,Cortes de la Frontera,M�laga,22.1,14:00,11.1,07:00,0.0
+2017-10-31,Alpandeire,M�laga,20.1,13:40,13.5,04:30,0.0
+2017-10-31,Estepona,M�laga,23.2,14:00,16.8,02:30,0.0
+2017-10-31,Benahavis,M�laga,19.4,14:20,11.8,03:00,0.0
+2017-10-31,Marbella, Puerto,M�laga,21.4,15:00,15.1,03:30,0.0
+2017-10-31,Marbella,M�laga,21.5,13:00,17.4,01:30,0.0
+2017-10-31,Fuengirola,M�laga,21.8,14:50,16.6,02:50,0.0
+2017-10-31,Torremolinos,M�laga,23.7,15:00,15.7,01:40,0.0
+2017-10-31,�lora,M�laga,21.3,16:50,12.2,05:50,0.0
+2017-10-31,Co�n,M�laga,22.8,14:40,12.7,05:00,0.0
+2017-10-31,M�laga Aeropuerto,M�laga,23.2,15:30,13.0,06:40,0.0
+2017-10-31,M�laga, Centro Meteorol�gico,M�laga,23.0,15:40,13.9,03:50,0.0
+2017-10-31,M�laga, Puerto,M�laga,24.3,14:50,16.0,04:00,0.0
+2017-10-31,Rincon de la Victoria,M�laga,25.1,10:40,17.1,01:20,0.0
+2017-10-31,V�lez-M�laga,M�laga,24.2,13:10,14.0,06:10,0.0
+2017-10-31,Algarrobo,M�laga,23.5,13:40,14.6,00:30,0.0
+2017-10-31,Nerja,M�laga,23.1,13:50,15.9,00:30,0.0
+2017-10-31,Fuente de Piedra,M�laga,21.2,13:10,12.5,01:30,0.0
+2017-10-31,Melilla,Melilla,23.0,12:50,17.3,03:00,0.0
+2017-10-31,�guilas,Murcia,25.4,12:10,15.7,05:30,0.0
+2017-10-31,Mazarr�n,Murcia,24.7,15:30,15.7,07:30,0.0
+2017-10-31,Cartagena,Murcia,22.0,16:20,13.0,00:50,0.0
+2017-10-31,Fuente �lamo de Murcia,Murcia,22.8,15:30,13.0,02:10,0.0
+2017-10-31,Torre-Pacheco,Murcia,23.0,14:40,12.8,01:20,0.0
+2017-10-31,San Javier Aeropuerto,Murcia,23.5,14:50,14.2,00:10,0.0
+2017-10-31,Moratalla,Murcia,18.1,15:10,9.1,05:30,0.0
+2017-10-31,Caravaca de La Cruz,Murcia,20.4,14:10,8.4,08:00,0.0
+2017-10-31,Calasparra,Murcia,22.3,15:00,12.0,08:10,0.0
+2017-10-31,Bullas,Murcia,19.8,14:50,10.7,07:00,0.0
+2017-10-31,Jumilla,Murcia,22.6,16:20,8.8,05:30,0.0
+2017-10-31,Cieza,Murcia,23.0,14:50,11.9,05:40,0.0
+2017-10-31,Archena,Murcia,24.0,13:40,12.7,04:00,0.0
+2017-10-31,Mula,Murcia,22.0,15:10,12.5,06:50,0.0
+2017-10-31,Murcia,Murcia,24.3,15:30,14.1,05:10,0.0
+2017-10-31,Caravaca de La Cruz, Los Royos,Murcia,18.4,13:50,5.8,07:20,0.0
+2017-10-31,Lorca, Zarcilla de Ramos,Murcia,20.7,14:00,7.8,06:50,0.0
+2017-10-31,Lorca,Murcia,23.2,15:00,11.5,07:20,0.0
+2017-10-31,Puerto Lumbreras,Murcia,21.5,14:20,13.0,07:40,0.0
+2017-10-31,Totana,Murcia,23.2,14:30,12.7,06:50,0.0
+2017-10-31,Alhama de Murcia,Murcia,22.5,15:10,12.7,03:00,0.0
+2017-10-31,Molina de Segura,Murcia,23.2,15:40,11.7,05:40,0.0
+2017-10-31,Abanilla,Murcia,23.4,14:30,11.7,05:10,0.0
+2017-10-31,Yecla,Murcia,21.2,16:10,10.3,00:30,0.0
+2017-10-31,Baztan, Irurita,Navarra,17.6,15:40,3.5,07:30,0.1
+2017-10-31,Bera,Navarra,16.4,14:30,4.6,01:40,0.0
+2017-10-31,Areso,Navarra,17.1,15:30,1.3,06:30,0.0
+2017-10-31,Los Arcos,Navarra,17.1,16:00,3.2,06:50,0.0
+2017-10-31,Isaba/Izaba,Navarra,18.3,15:10,-1.1,07:20,0.0
+2017-10-31,Oroz-Betelu/Orotz-Betelu,Navarra,17.7,16:00,1.2,08:00,0.0
+2017-10-31,Roncesvalles,Navarra,15.6,13:40,1.0,07:50,0.0
+2017-10-31,Navascu�s/Nabaskoze,Navarra,18.8,15:20,-1.7,07:40,0.0
+2017-10-31,C�seda,Navarra,17.9,14:40,4.6,08:10,0.0
+2017-10-31,Olite/Erriberri,Navarra,16.7,15:10,3.4,07:40,0.0
+2017-10-31,Esteribar, Eugui,Navarra,16.5,14:00,0.6,07:30,0.0
+2017-10-31,Monreal/Elo,Navarra,17.3,15:10,3.3,08:00,0.0
+2017-10-31,Pamplona Aeropuerto,Navarra,18.6,16:40,2.1,07:30,0.0
+2017-10-31,Aranguren, Ilundain,Navarra,17.4,15:30,2.2,07:20,0.0
+2017-10-31,Irurtzun,Navarra,18.0,16:30,1.9,07:50,0.0
+2017-10-31,Larraga,Navarra,17.2,15:30,4.3,04:00,0.0
+2017-10-31,Bardenas Reales, Base A�rea,Navarra,17.3,15:50,4.8,07:50,0.0
+2017-10-31,Monteagudo,Navarra,17.2,15:50,2.5,07:40,0.0
+2017-10-31,Tudela,Navarra,16.4,15:40,4.4,07:30,0.0
+2017-10-31,Luzaide/Valcarlos,Navarra,13.9,15:30,4.3,05:10,0.0
+2017-10-31,O Barco de Valdeorras,Ourense,19.0,16:10,3.7,08:30,0.0
+2017-10-31,A Pobra de Trives,Ourense,16.9,15:40,1.7,07:50,0.0
+2017-10-31,Ourense,Ourense,23.8,16:10,4.5,07:50,0.0
+2017-10-31,Beariz,Ourense,18.5,15:30,0.1,08:10,0.0
+2017-10-31,Carballi�o, O,Ourense,20.8,16:00,4.1,08:30,0.0
+2017-10-31,Ribadavia,Ourense,22.6,15:50,5.1,07:50,0.0
+2017-10-31,Allariz,Ourense,19.1,16:20,4.7,02:10,0.0
+2017-10-31,Xinzo de Limia,Ourense,16.9,16:00,2.9,03:40,0.0
+2017-10-31,Mui�os,Ourense,18.6,16:20,7.3,08:30,0.0
+2017-10-31,A Gudi�a,Ourense,16.5,15:30,2.3,08:40,0.0
+2017-10-31,Ver�n,Ourense,19.9,15:40,0.6,08:30,0.0
+2017-10-31,Cervera de Pisuerga,Palencia,18.1,15:10,-2.1,08:20,0.0
+2017-10-31,Aguilar de Campoo,Palencia,17.8,16:00,-2.0,08:00,0.0
+2017-10-31,Villaeles de Valdavia,Palencia,18.3,16:40,-1.6,08:10,0.0
+2017-10-31,Velilla del R�o Carri�n, Camporredondo de Alba,Palencia,15.8,16:30,4.1,07:30,0.0
+2017-10-31,Carri�n de los Condes,Palencia,17.9,16:00,-0.5,07:10,0.0
+2017-10-31,Autilla del Pino,Palencia,16.7,15:10,1.5,08:00,0.0
+2017-10-31,Palencia,Palencia,18.2,15:30,1.9,08:00,0.0
+2017-10-31,Santerv�s de la Vega, Villap�n,Palencia,16.2,15:50,-0.8,08:00,0.0
+2017-10-31,Silleda,Pontevedra,19.8,15:20,8.0,04:20,0.0
+2017-10-31,A Estrada,Pontevedra,20.9,15:00,6.0,08:10,0.0
+2017-10-31,Vilagarc�a de Arousa,Pontevedra,21.7,16:20,9.3,07:30,0.0
+2017-10-31,Pontevedra,Pontevedra,20.1,15:10,11.8,07:00,0.0
+2017-10-31,A Lama,Pontevedra,21.3,15:10,6.2,03:30,0.0
+2017-10-31,Vigo Aeropuerto,Pontevedra,21.0,16:30,8.9,08:10,0.0
+2017-10-31,Vigo,Pontevedra,22.9,15:10,12.8,07:20,0.0
+2017-10-31,A Ca�iza,Pontevedra,19.9,15:50,7.5,09:00,0.0
+2017-10-31,Ponteareas, Canedo,Pontevedra,22.5,15:50,6.3,08:50,0.0
+2017-10-31,O Rosal,Pontevedra,24.1,16:20,11.3,23:50,0.0
+2017-10-31,La Covatilla, estaci�n de esqu�,Salamanca,11.9,14:10,2.2,07:50,0.0
+2017-10-31,Pedrosillo de Los Aires,Salamanca,20.1,15:10,-0.9,07:50,0.0
+2017-10-31,Pedraza de Alba,Salamanca,17.5,15:50,-1.8,07:30,0.0
+2017-10-31,Salamanca Aeropuerto,Salamanca,18.8,16:30,-1.4,08:10,0.0
+2017-10-31,Salamanca,Salamanca,19.6,16:30,2.9,07:10,0.0
+2017-10-31,Barbadillo,Salamanca,18.3,16:30,-2.0,08:10,0.0
+2017-10-31,Ledesma,Salamanca,17.8,16:50,1.9,08:10,0.0
+2017-10-31,Villarino de los Aires,Salamanca,19.5,16:40,3.0,08:00,0.0
+2017-10-31,Boadilla Fuente San Esteban,Salamanca,19.4,16:40,2.2,08:00,0.0
+2017-10-31,Vitigudino,Salamanca,21.0,16:40,1.7,08:10,0.0
+2017-10-31,El Ma�llo,Salamanca,19.0,16:30,3.1,04:30,0.0
+2017-10-31,Ba�ob�rez,Salamanca,19.8,17:00,2.2,08:10,0.0
+2017-10-31,Navasfr�as,Salamanca,19.9,15:30,-1.6,08:10,0.0
+2017-10-31,El Bod�n Base A�rea,Salamanca,19.7,16:10,1.8,08:20,0.0
+2017-10-31,Saelices El Chico,Salamanca,22.4,16:20,4.2,08:00,0.0
+2017-10-31,Fresno de Cantespino,Segovia,18.9,16:10,-1.8,07:30,0.0
+2017-10-31,Aldeanueva de Serrezuela,Segovia,17.4,15:40,2.8,00:10,0.0
+2017-10-31,La Pinilla, estaci�n de esqu�,Segovia,12.6,13:00,4.1,04:10,0.0
+2017-10-31,Pedraza,Segovia,17.9,15:40,2.5,04:20,0.0
+2017-10-31,Cu�llar,Segovia,19.4,16:40,-1.3,08:00,0.0
+2017-10-31,Segovia,Segovia,18.9,15:50,4.0,07:00,0.0
+2017-10-31,San Rafael,Segovia,16.2,15:20,2.8,02:00,0.0
+2017-10-31,Miguela�ez,Segovia,18.6,16:10,0.8,08:00,0.0
+2017-10-31,La Roda de Andaluc�a,Sevilla,22.6,15:00,13.0,03:30,0.0
+2017-10-31,Lora de Estepa,Sevilla,21.6,13:40,15.2,07:00,0.0
+2017-10-31,�cija,Sevilla,25.6,14:00,9.6,07:00,0.0
+2017-10-31,La Puebla de los Infantes,Sevilla,24.9,16:10,5.6,06:30,0.0
+2017-10-31,Fuentes de Andaluc�a,Sevilla,26.8,15:20,12.7,07:40,0.0
+2017-10-31,Carmona,Sevilla,27.2,17:00,10.8,05:40,0.0
+2017-10-31,Cazalla de la Sierra,Sevilla,22.8,14:50,8.5,03:40,0.0
+2017-10-31,Guadalcanal,Sevilla,22.6,15:10,12.2,06:40,0.0
+2017-10-31,Almad�n de la Plata,Sevilla,23.5,15:50,11.1,08:10,0.0
+2017-10-31,Sevilla Aeropuerto,Sevilla,27.2,16:20,11.5,08:00,0.0
+2017-10-31,Sevilla, Tablada,Sevilla,27.8,16:40,12.2,07:20,0.0
+2017-10-31,Mor�n de la Frontera,Sevilla,26.7,15:50,10.7,07:10,0.0
+2017-10-31,Carri�n de los C�spedes,Sevilla,25.8,15:50,10.3,03:20,0.0
+2017-10-31,Las Cabezas de San Juan,Sevilla,27.1,15:20,11.9,06:30,0.0
+2017-10-31,Osuna,Sevilla,23.3,14:10,16.9,07:00,0.0
+2017-10-31,Vinuesa, Quintanarejo,Soria,15.5,15:20,-2.9,04:10,0.0
+2017-10-31,La P�veda de Soria, Barriomart�n,Soria,13.6,15:00,-2.0,07:40,0.0
+2017-10-31,Soria,Soria,18.4,16:10,-1.2,07:10,0.0
+2017-10-31,Lubia,Soria,16.8,14:50,-0.1,07:00,0.0
+2017-10-31,Mor�n de Almaz�n,Soria,17.5,15:30,-2.0,06:10,0.0
+2017-10-31,La Riba de Escalote,Soria,15.7,15:10,-0.8,07:00,0.0
+2017-10-31,Ucero,Soria,18.6,15:10,-2.0,07:10,0.0
+2017-10-31,Burgo de Osma,Soria,22.4,16:20,-1.9,06:40,0.0
+2017-10-31,Liceras,Soria,17.1,11:30,1.1,06:50,0.0
+2017-10-31,�lvega,Soria,17.7,15:30,-0.4,04:10,0.0
+2017-10-31,San Pedro Manrique,Soria,15.9,15:40,-3.9,08:00,0.0
+2017-10-31,Arcos de Jal�n,Soria,19.3,15:30,1.0,06:10,0.0
+2017-10-31,Almazul,Soria,18.5,15:30,1.9,07:50,0.0
+2017-10-31,Puntagorda,Santa Cruz de Tenerife,24.5,15:20,15.3,23:59,0.0
+2017-10-31,Tijarafe,Santa Cruz de Tenerife,24.0,16:10,15.4,23:59,0.0
+2017-10-31,El Paso,Santa Cruz de Tenerife,24.4,11:40,11.8,03:40,0.0
+2017-10-31,Fuencaliente,Santa Cruz de Tenerife,26.9,13:50,19.7,07:00,0.0
+2017-10-31,Tazacorte,Santa Cruz de Tenerife,24.5,13:50,18.5,04:40,0.0
+2017-10-31,La Palma Aeropuerto,Santa Cruz de Tenerife,24.9,11:50,19.6,04:50,0.0
+2017-10-31,San Andr�s y Sauces,Santa Cruz de Tenerife,23.5,10:50,15.7,00:20,0.0
+2017-10-31,Vallehermoso, Alto Igualero,Santa Cruz de Tenerife,22.4,13:50,15.3,02:10,0.0
+2017-10-31,Agulo,Santa Cruz de Tenerife,24.9,13:50,14.4,07:00,0.0
+2017-10-31,Vallehermoso, Dama,Santa Cruz de Tenerife,27.6,14:40,14.7,06:20,0.0
+2017-10-31,Hermigua,Santa Cruz de Tenerife,22.5,13:50,12.9,06:10,0.0
+2017-10-31,San Sebasti�n de la Gomera,Santa Cruz de Tenerife,25.9,14:30,18.4,06:40,0.0
+2017-10-31,La Orotava, Ca�adas Teide,Santa Cruz de Tenerife,19.4,13:40,3.4,07:00,0.0
+2017-10-31,Adeje,Santa Cruz de Tenerife,26.4,13:00,17.9,01:30,0.0
+2017-10-31,Arico,Santa Cruz de Tenerife,23.4,13:20,15.1,07:00,0.0
+2017-10-31,Tenerife Sur Aeropuerto,Santa Cruz de Tenerife,26.2,14:10,18.5,04:30,0.0
+2017-10-31,Iza�a,Santa Cruz de Tenerife,16.6,13:20,9.0,06:50,0.0
+2017-10-31,Candelaria,Santa Cruz de Tenerife,21.9,11:20,14.3,06:40,0.0
+2017-10-31,G��mar,Santa Cruz de Tenerife,23.7,14:20,15.2,07:00,0.0
+2017-10-31,San Crist�bal de La Laguna,Llano de los Loros,Santa Cruz de Tenerife,25.3,12:40,12.7,23:59,0.0
+2017-10-31,Tenerife Norte Aeropuerto,Santa Cruz de Tenerife,22.1,12:20,14.5,04:00,0.0
+2017-10-31,Sta.Cruz de Tenerife,Santa Cruz de Tenerife,25.2,14:00,18.6,06:10,0.0
+2017-10-31,Anaga,Santa Cruz de Tenerife,24.5,10:10,16.3,07:30,0.0
+2017-10-31,La Victoria de Acentejo,Santa Cruz de Tenerife,22.5,15:20,12.1,05:40,0.0
+2017-10-31,Puerto de la Cruz,Santa Cruz de Tenerife,26.8,14:00,18.3,06:50,0.0
+2017-10-31,Los Silos,Santa Cruz de Tenerife,25.0,12:40,17.8,06:10,0.0
+2017-10-31,El Pinar, Dep�sito,Santa Cruz de Tenerife,23.3,10:30,12.6,23:50,0.0
+2017-10-31,Valverde,Santa Cruz de Tenerife,23.5,10:30,11.3,07:00,0.0
+2017-10-31,Hierro Aeropuerto,Santa Cruz de Tenerife,25.3,14:30,21.4,00:10,0.0
+2017-10-31,Frontera, Sabinosa,Santa Cruz de Tenerife,25.1,15:00,19.1,07:40,0.0
+2017-10-31,Alforja,Tarragona,18.3,12:40,8.4,07:50,0.0
+2017-10-31,Reus Aeropuerto,Tarragona,18.9,14:20,9.7,07:40,0.0
+2017-10-31,Valls,Tarragona,19.5,14:20,10.8,07:40,0.0
+2017-10-31,Tarragona,Tarragona,18.3,14:10,12.4,07:10,0.0
+2017-10-31,Llorac,Tarragona,15.9,15:50,2.6,07:40,0.0
+2017-10-31,Horta de Sant Joan,Tarragona,18.1,15:40,5.2,07:00,0.0
+2017-10-31,La Pobla de Massaluca,Tarragona,18.4,15:50,7.2,06:40,0.0
+2017-10-31,Cabac�s,Tarragona,20.0,15:20,7.3,07:30,0.0
+2017-10-31,Rasquera,Tarragona,19.9,14:50,8.3,07:20,0.0
+2017-10-31,Tortosa,Tarragona,23.0,14:20,12.5,07:20,0.0
+2017-10-31,Sant Jaume d'Enveja,Tarragona,19.1,13:30,13.6,06:30,0.0
+2017-10-31,Teruel,Teruel,19.8,15:40,3.6,07:50,0.0
+2017-10-31,Jabaloyas,Teruel,12.4,16:00,4.9,01:00,0.0
+2017-10-31,Cedrillas,Teruel,13.8,16:30,4.2,00:00,0.0
+2017-10-31,Mosqueruela,Teruel,13.5,15:10,5.0,05:50,0.0
+2017-10-31,Santa Eulalia del Campo,Teruel,18.1,15:20,2.7,07:00,0.0
+2017-10-31,Calamocha,Teruel,20.7,15:30,1.1,08:00,0.0
+2017-10-31,Fonfr�a,Teruel,16.0,13:50,1.6,03:40,0.0
+2017-10-31,Muniesa,Teruel,16.7,16:00,3.3,07:50,0.0
+2017-10-31,Montalb�n,Teruel,16.7,15:20,2.7,03:40,0.0
+2017-10-31,Hijar,Teruel,17.7,14:50,5.8,07:50,0.0
+2017-10-31,Andorra,Teruel,13.7,14:00,4.9,07:40,0.0
+2017-10-31,Castellote,Teruel,17.5,16:10,4.9,07:10,0.0
+2017-10-31,Calanda,Teruel,17.2,16:00,6.1,06:50,0.0
+2017-10-31,Alca�iz,Teruel,16.9,16:00,4.0,06:50,0.0
+2017-10-31,Valderrobres,Teruel,17.7,16:30,1.4,07:30,0.0
+2017-10-31,Bello,Teruel,18.3,15:00,-0.5,07:10,0.0
+2017-10-31,Tembleque,Toledo,21.8,16:00,3.9,07:40,0.0
+2017-10-31,Toledo,Toledo,21.6,16:40,7.6,06:10,0.0
+2017-10-31,San Pablo de los Montes,Toledo,19.5,16:00,7.6,07:10,0.0
+2017-10-31,Navahermosa,Toledo,19.9,15:40,5.4,08:20,0.0
+2017-10-31,Castillo de Bayuela,Toledo,20.4,15:30,10.6,04:40,0.0
+2017-10-31,Talavera de la Reina,Toledo,21.5,16:00,8.0,08:00,0.0
+2017-10-31,Oropesa,Toledo,22.7,15:30,4.8,08:20,0.0
+2017-10-31,Quintanar de la Orden,Toledo,21.9,14:40,12.0,02:10,0.0
+2017-10-31,Madridejos,Toledo,21.0,16:20,4.7,04:20,0.0
+2017-10-31,Puerto del Rey,C�ceres,22.9,14:40,8.1,07:20,0.0
+2017-10-31,Fontanars dels Alforins,Val�ncia/Valencia,18.2,13:10,11.8,02:30,0.0
+2017-10-31,Oliva,Val�ncia/Valencia,20.8,12:30,14.1,03:00,2.6
+2017-10-31,Miramar,Val�ncia/Valencia,21.3,12:50,15.8,05:20,1.4
+2017-10-31,Barx,Val�ncia/Valencia,17.4,16:10,12.4,23:59,1.4
+2017-10-31,Jalance,Val�ncia/Valencia,19.9,14:20,9.9,05:10,0.0
+2017-10-31,Zarra,Val�ncia/Valencia,15.7,15:40,11.2,07:30,0.0
+2017-10-31,Bicorp,Val�ncia/Valencia,18.3,15:50,12.1,01:30,3.4
+2017-10-31,Ontinyent,Val�ncia/Valencia,19.6,13:10,11.9,03:50,0.0
+2017-10-31,X�tiva,Val�ncia/Valencia,19.5,13:50,12.7,04:10,1.4
+2017-10-31,Carcaixent,Val�ncia/Valencia,18.0,16:40,11.3,02:30,3.6
+2017-10-31,Utiel,Val�ncia/Valencia,18.6,14:50,7.6,00:40,0.0
+2017-10-31,Bu�ol,Val�ncia/Valencia,17.3,12:50,12.4,07:40,0.0
+2017-10-31,Poliny� de X�quer,Val�ncia/Valencia,18.9,14:30,14.2,04:20,2.7
+2017-10-31,Tur�s,Val�ncia/Valencia,20.8,12:30,13.9,08:00,0.0
+2017-10-31,Ademuz,Val�ncia/Valencia,19.6,15:10,5.2,06:20,0.0
+2017-10-31,Chelva,Val�ncia/Valencia,19.8,15:00,12.3,05:40,0.0
+2017-10-31,Lliria,Val�ncia/Valencia,22.8,13:20,12.5,00:50,0.0
+2017-10-31,Valencia Aeropuerto,Val�ncia/Valencia,20.9,12:50,14.7,01:20,0.0
+2017-10-31,Val�ncia, Viveros,Val�ncia/Valencia,21.3,11:50,16.1,02:10,0.8
+2017-10-31,Sagunto,Val�ncia/Valencia,21.0,12:40,13.5,04:10,0.0
+2017-10-31,Pe�afiel,Valladolid,19.4,15:40,-0.4,07:30,0.0
+2017-10-31,Sard�n de Duero,Valladolid,20.5,14:50,-1.5,08:10,0.0
+2017-10-31,Valladolid,Valladolid,18.2,16:00,3.4,07:30,0.0
+2017-10-31,Olmedo, Dep�sito de Agua,Valladolid,18.5,16:00,1.6,07:30,0.0
+2017-10-31,Olmedo,Valladolid,19.9,16:00,-0.6,07:50,0.0
+2017-10-31,Rueda,Valladolid,17.5,16:40,1.9,08:10,0.0
+2017-10-31,Fuente el Sol,Valladolid,18.9,16:20,-1.5,07:50,0.0
+2017-10-31,Villal�n de Campos,Valladolid,18.5,16:30,1.4,07:00,0.0
+2017-10-31,Medina de Rioseco,Valladolid,17.5,16:30,1.3,05:20,0.0
+2017-10-31,Morales del Toro,Zamora,19.3,15:50,1.1,08:20,0.0
+2017-10-31,Fuentesauco,Zamora,16.8,16:50,0.1,07:40,0.0
+2017-10-31,Villaf�fila,Zamora,16.8,16:00,0.9,07:50,0.0
+2017-10-31,Zamora,Zamora,16.9,15:30,2.5,08:00,0.0
+2017-10-31,Benavente,Zamora,16.5,16:10,3.0,08:30,0.0
+2017-10-31,Sanabria, Robleda-Cervantes,Zamora,14.9,16:40,-1.4,05:40,0.0
+2017-10-31,Villardeciervos,Zamora,18.0,16:30,-1.5,07:50,0.0
+2017-10-31,Santiba�ez de Vidriales,Zamora,15.9,16:30,-1.1,08:00,0.0
+2017-10-31,Pozuelo de Tabara,Zamora,16.3,16:30,2.3,06:50,0.0
+2017-10-31,Villadepera,Zamora,16.9,16:30,2.7,07:00,0.0
+2017-10-31,Fresno de Sayago,Zamora,19.4,16:40,0.6,07:40,0.0
+2017-10-31,Alca�ices,Zamora,18.3,16:30,1.1,07:20,0.0
+2017-10-31,Sos del Rey Cat�lico,Zaragoza,18.5,15:30,3.9,08:10,0.0
+2017-10-31,Tarazona,Zaragoza,17.1,16:00,3.6,07:50,0.0
+2017-10-31,Ejea de los Caballeros,Zaragoza,18.8,15:50,2.6,08:10,0.0
+2017-10-31,Castejon de Valdejasa,Zaragoza,17.8,15:00,4.1,07:00,0.0
+2017-10-31,Alhama de Aragon,Zaragoza,21.2,16:20,0.8,07:00,0.0
+2017-10-31,Daroca,Zaragoza,21.0,15:10,1.2,08:00,0.0
+2017-10-31,Calatayud,Zaragoza,19.4,15:40,1.9,07:50,0.0
+2017-10-31,La Almunia de Do�a Godina,Zaragoza,19.1,15:10,2.5,06:50,0.0
+2017-10-31,Zaragoza Aeropuerto,Zaragoza,18.3,16:10,7.7,04:50,0.0
+2017-10-31,Zaragoza, Valdespartera,Zaragoza,18.6,15:40,7.6,08:10,0.0
+2017-10-31,Leci�ena,Zaragoza,19.5,15:40,2.2,07:50,0.0
+2017-10-31,Valmadrid,Zaragoza,17.4,14:10,6.1,07:50,0.0
+2017-10-31,Quinto,Zaragoza,18.7,16:10,5.1,07:50,0.0
+2017-10-31,Caspe,Zaragoza,18.9,15:40,7.9,07:30,0.0
+2017-10-31,Bujaraloz,Zaragoza,16.9,16:20,4.2,07:20,0.0
