@@ -15,11 +15,13 @@ fun main(args: Array<String>) {
     // Creamos una lista de números específicos para los hilos
     var vectorHilos = ArrayList<Int>()
     vectorNumeros.forEach { vectorHilos.add(it) }
+    println("Listado de hilos:" + vectorHilos)
     ejercicioHilos(vectorHilos)
 
     // Creamos una lista de números específicos para los futuros
     var vectorFuturos = ArrayList<Int>()
     vectorNumeros.forEach { vectorFuturos.add(it) }
+    println("Listado de futuros:" + vectorFuturos)
     ejercicioFuturos(vectorFuturos)
 }
 
@@ -46,20 +48,22 @@ fun futuros(vector: ArrayList<Int>) {
     // Número de hilos que tiene nuestro poll
     var pollFuturos = Executors.newFixedThreadPool(7)
     var vectorFuturos = ArrayList<Future<Double>>()
-    while(vectorFuturos.isNotEmpty()){
-        var vectorFuturosSecundaria = ArrayList<Int>()
-        while(vectorFuturosSecundaria.size <10 && vector.isNotEmpty()){
-            vectorFuturosSecundaria.add(vector.removeAt(0))
+    while(vector.isNotEmpty()){
+        var vectorNumerosSecundaria = ArrayList<Int>()
+        while(vectorNumerosSecundaria.size <10 && vector.isNotEmpty()){
+            vectorNumerosSecundaria.add(vector.removeAt(0))
         }
         vectorFuturos.add(pollFuturos.submit(
             Callable<Double> {
-                var media = vectorFuturosSecundaria.average()
+                var media = vectorNumerosSecundaria.average()
                 println(media)
                 return@Callable media
             }
         ))
     }
-    var vectorMedia = ArrayList<Double>()
+    vectorFuturos.forEach { it.get() }
+    var vectorMedia = vectorFuturos.map { it.get() }
+
     println()
     println("Imprimiendo listado de medias: $vectorMedia")
     println("El toral de medias: " + vectorMedia.sum())
@@ -84,6 +88,14 @@ fun hilos(vector: ArrayList<Int>) {
         }
     }
     pollHilos.shutdown()
+
+    while (!pollHilos.isTerminated){
+        try {
+            Thread.sleep(1000)
+        } catch (e: InterruptedException) {
+            e.printStackTrace()
+        }
+    }
     println("\n")
     println("Tiempo medias: " + mediaHilo)
     println("Suma hilos: " +  mediaHilo.sum())
