@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RecuperacionExtraordinaria03" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.RecuperacionExtraordinaria03" parent="Base.Theme.RecuperacionExtraordinaria03" />
+</resources>
