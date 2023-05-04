@@ -1,0 +1,19 @@
+<persistence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"
+             version="2.2">
+    <persistence-unit name="VehiculosDB">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+
+        <class>models.Persona</class>
+        <class>models.Vehiculo</class>
+
+        <properties>
+            <property name="hibernate.connection.url" value="jdbc:h2:mem:dani;DB_CLOSE_DELAY=-1;"/>
+            <property name="hibernate.connection.driver_class" value="org.h2.Driver"/>
+            <property name="hibernate.connection.user" value=""/>
+            <property name="hibernate.connection.password" value=""/>
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
+        </properties>
+    </persistence-unit>
+</persistence>
