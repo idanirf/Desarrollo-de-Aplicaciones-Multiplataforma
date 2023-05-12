@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecuperacionExtraordinaria02</string>
+    <string-array name="familias">
+        <item>Selecciona departamento</item>
+        <item>Informática y Comunicaciones</item>
+        <item>Gestión Administrativa</item>
+        <item>Marketing</item>
+        <item>Actividades fisico deportivas</item>
+        <item>Energias Renovables</item>
+    </string-array>
+</resources>
