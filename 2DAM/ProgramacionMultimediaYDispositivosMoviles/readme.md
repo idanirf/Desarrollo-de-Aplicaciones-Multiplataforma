@@ -2,7 +2,7 @@
 En es este repositorio puedes encontrar todas las actividades que he ido haciendo a lo largo de este curso en el módulo de Programación Multimedia y Dispositivos Móviles 2DAM.
 <br>
 [![LISENCE](https://img.shields.io/badge/Lisence-MIT-green)]()
-![GitHub](https://img.shields.io/github/last-commit/idanirf/2DAM-ProgramacionMultimediaYDispositivosMoviles)
+![GitHub](https://img.shields.io/github/last-commit/idanirf/Desarrollo-de-Aplicaciones-Multiplataforma)
 
 ![imagen](./img/portada.jpg)
 
