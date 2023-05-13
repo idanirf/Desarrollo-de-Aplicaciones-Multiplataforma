@@ -8,12 +8,10 @@ En es este repositorio puedes encontrar todas las actividades que he ido haciend
 
 ## Temas:
 ### [1. Análisis de tecnologías para aplicaciones en dispositivos móviles](/Unidad-1)
-### [2. Android](/Unidad-2)
-### [3. Actividades Y Estados De Una Aplicación](/Unidad-3/)
-### [4.Controles Básicas](/Unidad-4/)
-### [5. Listas/ReciclerView](/Unidad-5/)
-### [6. Persistencia - Romm -SharedPreferences](/Unidad-6/)
-### [7. Firebase](/Unidad-7/)
+### [2. Programación de aplicaciones para dispositivos móviles](/Unidad-2)
+### [3. Utilización de librerías integradas](/Unidad-3/)
+### [4.Desarrollo de juegos](/Unidad-4/)
+
 
 
 <br>
