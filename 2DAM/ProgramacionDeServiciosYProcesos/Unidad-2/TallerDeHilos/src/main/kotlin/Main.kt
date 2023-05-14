@@ -1,4 +1,5 @@
 import java.util.concurrent.Executors
+import java.util.concurrent.TimeUnit
 import kotlin.random.Random
 import kotlin.system.measureTimeMillis
 
@@ -78,7 +79,7 @@ fun main(args: Array<String>) {
 
 
         poll.shutdown()
-        poll.awaitTermination(3000L, java.util.concurrent.TimeUnit.MILLISECONDS)
+        poll.awaitTermination(3000L, TimeUnit.MILLISECONDS)
 
 
         precioTotal = precioMecanico1 + precioMecanico2 + precioMecanico3
