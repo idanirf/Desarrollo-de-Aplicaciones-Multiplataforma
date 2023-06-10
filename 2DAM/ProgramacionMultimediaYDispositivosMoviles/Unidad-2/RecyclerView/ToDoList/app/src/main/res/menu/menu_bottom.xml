@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/actionHome"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/actionCategories"
+        android:title="Categorías"
+        android:enabled="true"
+        android:icon="@drawable/baseline_category_24"/>
+    <item
+        android:id="@+id/actionCalendar"
+        android:enabled="true"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:title="Calendario" />
+</menu>
