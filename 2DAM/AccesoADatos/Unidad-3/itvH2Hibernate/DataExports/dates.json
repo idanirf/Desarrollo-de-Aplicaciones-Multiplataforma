@@ -1,0 +1,3 @@
+[
+ "Date(uuidDate=6e5829a8-d3fc-4e6c-9df3-aa5d2dfa49a1, date=2023-05-30T12:52:22.161220, employee=Employee(uuidEmployee=8d55c71d-4587-46e6-890a-2b05733ba355, name=Daniel, telf=123456789, email=danie@daniel.es, username=idanirf, password=1234, dataHiring=2020-01-01, speciality=ENGINE), vehicle=Vehicle(uuidVehicle=c80cf658-3f2c-41e8-a42f-64ffcd9b6fd0, brand=Seat, model=Ibiza, licensePlate=1234SSS, dateLicensePlate=2023-05-30, lastRevisionDate=2023-01-14, owner=Owner(uuidOwner=6bce2ee9-e677-42d2-be2c-4ddbd9f74f85, dni=12345678A, name=Daniel, surnames=Rodriguez Fernandez, telf=666111222)), report=null)"
+]

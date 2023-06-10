@@ -1,0 +1,4 @@
+[
+ "Employee(uuidEmployee=b3e5f33b-f1e0-4cb0-8251-9dc01b6be6e4, name=Azahara, telf=123456789, email=aza@aza.es, username=azabl, password=1234, dataHiring=2020-01-01, speciality=INSIDE)",
+ "Employee(uuidEmployee=8d55c71d-4587-46e6-890a-2b05733ba355, name=Daniel, telf=123456789, email=danie@daniel.es, username=idanirf, password=1234, dataHiring=2020-01-01, speciality=ENGINE)"
+]
