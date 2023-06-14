@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/action_home">
+
+    <fragment
+        android:id="@+id/action_home"
+        android:name="com.example.solucionexamenrec2ord.ui.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/action_list"
+        android:name="com.example.solucionexamenrec2ord.ui.ListProfeFragment"
+        android:label="fragment_list_profe"
+        tools:layout="@layout/fragment_list_profe" />
+    <fragment
+        android:id="@+id/action_add"
+        android:name="com.example.solucionexamenrec2ord.ui.AddProfeFragment"
+        android:label="AddProfeFragment"
+        tools:layout="@layout/fragment_add_profe" />
+        />
+</navigation>

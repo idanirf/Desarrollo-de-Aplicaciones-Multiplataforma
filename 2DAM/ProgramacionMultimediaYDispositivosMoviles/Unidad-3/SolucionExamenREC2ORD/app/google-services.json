@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "171890824799",
+    "project_id": "pmydm-damm",
+    "storage_bucket": "pmydm-damm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171890824799:android:9ce8ce3754f76c9ee4edea",
+        "android_client_info": {
+          "package_name": "com.example.recextraordinaria12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171890824799-ugvolak8n4mtvic77q5gjlg2m0bscfll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcyFZI3ZtfjaxdsK9R5U6p8uKdhopnOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171890824799-3qaqk004if0fsk51p1ufgkrdf8imon44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171890824799:android:d88b19a058e708c5e4edea",
+        "android_client_info": {
+          "package_name": "com.example.solucionexamenrec2ord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171890824799-ugvolak8n4mtvic77q5gjlg2m0bscfll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcyFZI3ZtfjaxdsK9R5U6p8uKdhopnOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171890824799-3qaqk004if0fsk51p1ufgkrdf8imon44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
